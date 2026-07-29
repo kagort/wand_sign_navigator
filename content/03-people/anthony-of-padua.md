@@ -4,14 +4,14 @@ title: Антоний Падуанский
 title_en: Anthony of Padua
 type: персоналия
 status: draft
-years: "1195–1231"
+years: 1195–1231
 tags:
   - религия
   - риторика
   - францисканцы
 related:
-  - "[[oliver-heviside]]"
   - "[[p-j-nahin]]"
+  - "[[oliver-heaviside]]"
 aliases:
   - Anthony of Padua
   - Антоний Падуанский
