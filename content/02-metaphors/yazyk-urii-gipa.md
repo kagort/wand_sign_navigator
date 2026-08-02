@@ -9,7 +9,7 @@ tags:
   - диккенс
   - методология
 related:
-  - "[[ur-filosofiya]]"
+  - "[[ur-philosophy]]"
   - "[[terminy-kontseptualnoy-otsenki]]"
 aliases:
   - Uriah Heep

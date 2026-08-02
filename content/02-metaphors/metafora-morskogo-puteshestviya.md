@@ -1,16 +1,16 @@
 ---
 id: metafora-morskogo-puteshestviya
-title: "Метафора морского путешествия (гавань, Саргассово море, сирены, корабль в море)"
-title_en: "harbor / Sargasso Sea / sirens / ship at sea metaphor"
+title: Метафора морского путешествия (гавань, Саргассово море, сирены, корабль в море)
+title_en: harbor / Sargasso Sea / sirens / ship at sea metaphor
 type: метафора
 status: draft
-first_appearance: "гл. 1, «Широкий экран», подраздел (v)"
+first_appearance: гл. 1, «Широкий экран», подраздел (v)
 tags:
   - методология
   - ur-философия
 related:
-  - "[[ur-filosofiya]]"
   - "[[otto-neurath]]"
+  - "[[ur-philosophy]]"
 aliases:
   - Sargasso Sea metaphor
   - Neurath's ship
@@ -31,7 +31,7 @@ aliases:
 
 ## Что она иллюстрирует
 
-- [[ur-filosofiya]] — *(вся гроздь образов из (v) описывает механизм, которым ur-философские допущения «сбивают с курса» обыденное и научное мышление)*
+- [[ur-philosophy]] — *(вся гроздь образов из (v) описывает механизм, которым ur-философские допущения «сбивают с курса» обыденное и научное мышление)*
 - [[otto-neurath]] — *(корабль Нейрата — конкретная историческая версия метафоры)*
 
 ## Где встречается в тексте
@@ -51,5 +51,5 @@ aliases:
 
 ## Связанные карточки
 
-- [[ur-filosofiya]]
+- [[ur-philosophy]]
 - [[otto-neurath]]

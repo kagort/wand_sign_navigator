@@ -10,7 +10,7 @@ tags:
   - история-физики
   - научпоп
 related:
-  - "[[oliver-heviside]]"
+  - "[[oliver-heaviside]]"
 aliases:
   - Paul Nahin
   - Paul J. Nahin

@@ -4,13 +4,13 @@ title: Франц Рёло
 title_en: Franz Reuleaux
 type: персоналия
 status: draft
-years: "1829–1905"
+years: 1829–1905
 tags:
   - машиностроение
   - история-техники
 related:
-  - "[[oliver-heviside]]"
   - "[[jacques-hadamard]]"
+  - "[[oliver-heaviside]]"
 aliases:
   - Franz Reuleaux
   - Франц Рёло

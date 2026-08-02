@@ -4,13 +4,13 @@ title: Жак Адамар
 title_en: Jacques Hadamard
 type: персоналия
 status: draft
-years: "1865–1963"
+years: 1865–1963
 tags:
   - прикладная-математика
   - история-физики
 related:
-  - "[[oliver-heviside]]"
   - "[[franz-reuleaux]]"
+  - "[[oliver-heaviside]]"
 aliases:
   - Jacques Hadamard
   - Жак Адамар
