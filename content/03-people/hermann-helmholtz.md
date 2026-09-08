@@ -16,6 +16,7 @@ aliases:
   - Herman Helmholtz
   - Гельмгольц
 ---
+![[assets/h_helmholtz.jpg|200]]
 
 ## Кто это
 
