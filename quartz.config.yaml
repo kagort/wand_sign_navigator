@@ -247,6 +247,7 @@ plugins:
       includeAll: false
       includedProperties:
         - description
+        - years
         - tags
         - aliases
       excludedProperties: []
