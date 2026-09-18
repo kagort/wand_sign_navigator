@@ -1,10 +1,10 @@
 ---
-id: southey
+id: r-southey
 title: Роберт Саути
 title_en: Robert Southey
 type: персоналия
 status: draft
-years: "1774–1843"
+years: 1774–1843
 tags:
   - романтизм
   - английская-литература

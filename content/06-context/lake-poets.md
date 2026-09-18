@@ -4,7 +4,7 @@ title: Озёрная школа
 title_en: Lake Poets
 type: контекст
 status: draft
-years: "конец XVIII — первая половина XIX века"
+years: конец XVIII — первая половина XIX века
 tags:
   - романтизм
   - английская-литература
@@ -12,7 +12,7 @@ tags:
   - поэзия
 related:
   - "[[coleridge]]"
-  - "[[southey]]"
+  - "[[r-southey]]"
   - "[[william-wordsworth]]"
   - "[[m-h-abrams]]"
   - "[[amphibolic-dreams]]"
@@ -46,7 +46,7 @@ aliases:
 ## Связанные карточки
 
 - [[coleridge]]
-- [[southey]]
+- [[r-southey]]
 - [[william-wordsworth]]
 - [[m-h-abrams]]
 - [[amphibolic-dreams]]
