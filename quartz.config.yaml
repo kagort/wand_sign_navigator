@@ -50,14 +50,6 @@ plugins:
         - git
         - filesystem
     order: 10
-  - source: github:quartz-community/syntax-highlighting
-    enabled: true
-    options:
-      theme:
-        light: github-light
-        dark: github-dark
-      keepBackground: false
-    order: 20
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
@@ -259,13 +251,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
