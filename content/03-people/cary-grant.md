@@ -1,10 +1,10 @@
 ---
 id: cary-grant
-title: "Кэри Грант"
-title_en: "Cary Grant"
+title: Кэри Грант
+title_en: Cary Grant
 type: персоналия
 status: draft
-years: "1904–1986"
+years: 1904–1986
 tags:
   - кино
   - пример-инструкции
@@ -14,6 +14,7 @@ related:
 aliases:
   - Cary Grant
   - Грант
+  - Кэри Грант
 ---
 
 ## Кто это
