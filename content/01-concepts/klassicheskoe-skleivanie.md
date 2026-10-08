@@ -16,7 +16,7 @@ related:
   - "[[klassicheskaya-kartina-kontseptsiy]]"
   - "[[amphibolism]]"
   - "[[alfred-north-whitehead]]"
-  - "[[bertran-rassel]]"
+  - "[[bertrand-russell]]"
   - "[[semanticheskaya-zavershennost]]"
   - "[[intentsionalno-obosnovannaya-predikatnaya-znachimost]]"
   - "[[ludwig-wittgenstein]]"
@@ -52,7 +52,7 @@ aliases:
 - [[klassicheskaya-kartina-kontseptsiy]] — *(тип связи: более широкая доктрина, частью которой является данный механизм — возможно дублирование, см. комментарий)*
 - [[amphibolism]] — *(тип связи: контраст, введённый уже в главе 2)*
 - [[alfred-north-whitehead]] — *(тип связи: фигурирует в главе 2 в связи с этой же презумпцией — требует сверки роли)*
-- [[bertran-rassel]] — *(тип связи: автор исходной формулировки в главе 3 — карточка-заглушка)*
+- [[bertrand-russell]] — *(тип связи: автор исходной формулировки в главе 3)*
 - [[semanticheskaya-zavershennost]] — *(тип связи: доктрина, коренящаяся в «полном постижении» концепции)*
 - [[intentsionalno-obosnovannaya-predikatnaya-znachimost]] — *(тип связи: контрастная картина в главе 3)*
 - [[ludwig-wittgenstein]] — *(тип связи: поздний Витгенштейн в главе 1 назван важнейшим событием *упадка* классической картины, частью которой является склеивание; ранний Витгенштейн в главе 3, §(ii) — представитель контрастной интенциональной картины)*

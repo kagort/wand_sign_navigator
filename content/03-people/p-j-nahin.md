@@ -39,7 +39,7 @@ aliases:
 
 ## Связанные карточки
 
-- [[oliver-heviside]] 
+- [[oliver-heaviside]] 
 
 ## Комментарий составителя
 

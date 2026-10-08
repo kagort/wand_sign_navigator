@@ -13,7 +13,7 @@ related:
   - "[[kontseptualnaya-peregruzka]]"
   - "[[metafora-verstaka-rassela]]"
   - "[[klassicheskaya-kartina-kontseptsiy]]"
-  - "[[bertran-rassel]]"
+  - "[[bertrand-russell]]"
 aliases:
   - дом классического контента
   - Russell's palace
