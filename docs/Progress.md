@@ -18,6 +18,20 @@
 
 ---
 
+## 2026-10-08 — исправления в content/
+
+**Сделано:**
+- `content/00-meta/konventsii.md`: удалена испорченная строка `## title: … type: мета` (дубль frontmatter).
+- `04-cases/oklahoma-hoedown-primer (переделать!).md` → `oklahoma-hoedown-primer.md`; пометка перенесена
+  в frontmatter как `todo: "переделать"`. Ссылки `[[oklahoma-hoedown-primer]]` теперь работают.
+- `.prettierignore`: добавлена `content` — Prettier больше не трогает заметки.
+
+**Следующие шаги:**
+- [ ] Решить судьбу `content/README.md` (публикуется на сайте).
+- [ ] Создать или исправить заметки по списку битых ссылок (см. первую запись).
+
+---
+
 ## 2026-10-08 — переход на одну папку (junction)
 
 **Ветка/коммит:** `claude/stoic-allen-kf1xbo` от `v5` @ `f987f0b`
@@ -34,8 +48,8 @@
 
 **Следующие шаги:**
 - [ ] Открыть Obsidian, проверить заметки/картинки; тестовая заметка должна появиться в `git status`.
-- [ ] Добавить `content` в `.prettierignore`, исправить frontmatter в `konventsii.md`.
-- [ ] Переименовать `oklahoma-hoedown-primer (переделать!).md`.
+- [x] Добавить `content` в `.prettierignore`, исправить frontmatter в `konventsii.md`.
+- [x] Переименовать `oklahoma-hoedown-primer (переделать!).md`.
 
 ---
 

@@ -4,6 +4,7 @@ title: "«Хоудаун» из Оклахомы (казус хлопающей 
 title_en: Oklahoma Hoedown case
 type: пример-кейс
 status: draft
+todo: "переделать"
 first_appearance: "гл. 2, «Потерянные струны», подраздел (i)"
 tags:
   - музыка
