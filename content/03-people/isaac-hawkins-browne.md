@@ -5,7 +5,7 @@ title_en: Isaac Hawkins Browne
 type: персоналия
 status: draft
 years: 1705–1760
-first_appearance: "гл. 3, «Классический клей», эпиграф, с. 137"
+first_appearance: гл. 3, «Классический клей», эпиграф, с. 137
 tags:
   - эпиграф
   - поэзия-XVIII-века
@@ -15,6 +15,7 @@ related:
 aliases:
   - Isaac Hawkins Browne
   - Hawkins Browne
+  - Исаак Хокинс Браун
 ---
 ![[assets/isaac_hawkins_browne.jpg|200]]
 ## Кто это

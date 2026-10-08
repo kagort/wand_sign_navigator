@@ -4,8 +4,8 @@ title: Уильям Оккам
 title_en: William of Ockham
 type: персоналия
 status: draft
-years: "ок. 1287–1347"
-first_appearance: "гл. 3, «Классический клей», §(ii), с. 142–143"
+years: ок. 1287–1347
+first_appearance: гл. 3, «Классический клей», §(ii), с. 142–143
 tags:
   - схоластика
   - философия-языка
@@ -16,6 +16,7 @@ aliases:
   - William of Ockham
   - William Ockham
   - Оккам
+  - Уильям Оккам
 ---
 ![[assets/william_of_ockham.jpg|200]]
 ## Кто это
