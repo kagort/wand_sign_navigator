@@ -11,9 +11,10 @@ tags:
 related:
   - "[[otto-neurath]]"
   - "[[ur-philosophy]]"
+  - "[[korabl-noyrata]]"
+  - "[[morskie-i-rechnye-metafory]]"
 aliases:
   - Sargasso Sea metaphor
-  - Neurath's ship
 ---
 ## Образ
 
@@ -53,3 +54,5 @@ aliases:
 
 - [[ur-philosophy]]
 - [[otto-neurath]]
+- [[korabl-noyrata]] — *(отдельная карточка корабля Нойрата)*
+- [[morskie-i-rechnye-metafory]] — *(обзор всех водных образов книги)*
