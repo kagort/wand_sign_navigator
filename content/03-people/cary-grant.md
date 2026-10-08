@@ -16,6 +16,7 @@ aliases:
   - Грант
   - Кэри Грант
 ---
+![[assets/cary_grant.jpg|200]]
 
 ## Кто это
 

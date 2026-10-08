@@ -18,6 +18,14 @@
 
 ---
 
+## 2026-10-08 — иллюстрации к новым карточкам
+
+**Сделано:**
+- Вставлены изображения, загруженные в `assets/`: `cary-grant` ← `03-people/assets/cary_grant.jpg`,
+  `buksir-skaffi` ← `02-metaphors/assets/scuffy_tugboat.jpg`, `korabl-noyrata` ← `02-metaphors/assets/neurath_boat.jpg` (ширина 320 — горизонтальная).
+
+---
+
 ## 2026-10-08 — сверка «Блуждающего значения»
 
 **Сделано:**
