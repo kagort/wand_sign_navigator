@@ -18,6 +18,35 @@
 
 ---
 
+## 2026-10-08 — битые ссылки
+
+**Сделано — ссылки переведены на существующие карточки:**
+- `[[bertran-rassel]]` → `[[bertrand-russell]]` (7 карточек); убрана пометка «карточка-заглушка».
+- `[[oliver-heviside]]` → `[[oliver-heaviside]]` (`p-j-nahin`).
+- `[[semantic-finality]]` → `[[semanticheskaya-zavershennost]]` (`semantic-holism`).
+- `[[Беркли]]` → `[[george-berkeley|Беркли]]` (`willard-quine`).
+- `[[wilson-rounder-records-biography]]` → `[[uilson-fiddle-music]]` (`dolgonosik-iz-ballady`).
+- `[[druidy-primer-kripke]]` → `[[untamed-women]]` — пример друидов разобран там (`gambit-skvoznoy-termin`).
+- `index.md`: главы 4–6 → `[[chapter_4]]`, `[[chapter_5]]`, `[[chapter_6]]`.
+
+**Сделано — заготовки (тег `заготовка`, `status: draft`, поля TODO):**
+- `01-concepts/`: `quine-nominalism`, `obshchie-imena`, `otkrytaya-tekstura`
+- `02-metaphors/`: `empty-form`
+- `06-context/`: `sense-and-sensibilia`, `religio-medici-tsitata`, `etimologii-svyatogo-isidora`
+- `05-chapters/`: `chapter_4`, `chapter_5`, `chapter_6`
+
+В заготовки перенесено только то, что уже сказано в ссылающихся карточках; остальное помечено TODO.
+
+**Найдено / проблемы:**
+- Нет файлов картинок: `03-people/assets/isaac_hawkins_browne.jpg`, `03-people/assets/william_of_ockham.jpg`.
+
+**Следующие шаги:**
+- [ ] Добавить два портрета в `03-people/assets/` (или убрать вставки).
+- [ ] Заполнить заготовки (поиск в Obsidian по тегу `#заготовка`).
+- [ ] Проставить страницы глав 4–6 в `index.md` и хабах.
+
+---
+
 ## 2026-10-08 — README проекта
 
 **Сделано:**
@@ -26,7 +55,7 @@
 - Цели пилота отмечены по состоянию репозитория: 27 карточек понятий, хабы глав 1–3 есть.
 
 **Следующие шаги:**
-- [ ] Битые ссылки: исправить опечатки (`bertran-rassel` → `bertrand-russell`, `oliver-heviside` → `oliver-heaviside`), для остальных создать заготовки.
+- [x] Битые ссылки: исправить опечатки (`bertran-rassel` → `bertrand-russell`, `oliver-heviside` → `oliver-heaviside`), для остальных создать заготовки.
 - [ ] MOC-карты (цель пилота).
 
 ---

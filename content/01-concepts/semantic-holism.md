@@ -16,7 +16,7 @@ related:
   - "[[timothy-cooley]]"
   - "[[david-whisnant]]"
   - "[[participatory-idealism]]"
-  - "[[semantic-finality]]"
+  - "[[semanticheskaya-zavershennost]]"
 aliases:
   - semantic holism
   - семантический холизм
