@@ -18,6 +18,27 @@
 
 ---
 
+## 2026-10-08 — переход на одну папку (junction)
+
+**Ветка/коммит:** `claude/stoic-allen-kf1xbo` от `v5` @ `f987f0b`
+
+**Сделано:**
+- Выяснено, что `content/` в репозитории была junction на папку Obsidian (ссылка «наоборот»).
+- Схема перевёрнута: настоящая папка — `C:\Users\Пользователь\wand_sign_navigator\content`,
+  в хранилище — junction `C:\OBSIDIAN\new-vault\00 Projects\03 wand_sign_navigator` → `content`.
+- Проверено: через ссылку видно 213 файлов, `git status` чистый, локальная `v5` = `origin/v5`.
+- `docs/SYNC.md` переписан под фактическую схему, добавлены грабли настройки.
+
+**Найдено / проблемы:**
+- `New-Item -ItemType Junction` (PowerShell 5.1) ломает пути с кириллицей — использовать `mklink /J`.
+
+**Следующие шаги:**
+- [ ] Открыть Obsidian, проверить заметки/картинки; тестовая заметка должна появиться в `git status`.
+- [ ] Добавить `content` в `.prettierignore`, исправить frontmatter в `konventsii.md`.
+- [ ] Переименовать `oklahoma-hoedown-primer (переделать!).md`.
+
+---
+
 ## 2026-10-08 — первая сверка с Obsidian, исправление скрипта
 
 **Ветка/коммит:** `claude/stoic-allen-kf1xbo` от `v5` @ `cdecaab` (после слияния PR #10)
