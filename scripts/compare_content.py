@@ -41,7 +41,13 @@ def main() -> int:
     if len(sys.argv) != 3:
         print(__doc__)
         return 2
-    a_root, b_root = Path(sys.argv[1]), Path(sys.argv[2])
+    # PowerShell/cmd: "C:\путь\" превращается в C:\путь" — убираем хвостовые кавычки
+    a_root, b_root = (Path(arg.strip().strip('"').strip("'")) for arg in sys.argv[1:3])
+    for root in (a_root, b_root):
+        if not root.is_dir():
+            print(f"Ошибка: папка не найдена: {root}")
+            print("Подсказка: не ставьте \\ перед закрывающей кавычкой пути.")
+            return 2
     a, b = scan(a_root), scan(b_root)
 
     only_a = sorted(a.keys() - b.keys())

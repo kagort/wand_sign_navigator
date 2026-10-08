@@ -121,6 +121,8 @@ git diff --stat origin/v5 -- content
 python scripts/compare_content.py content "C:/путь/к/хранилищу/wilson-guide"
 ```
 
+> В PowerShell путь пишется **без `\` в конце**: `"C:\папка\"` превращается в `C:\папка"`, и папка не находится.
+
 Как читать результат и сводить копии:
 
 | Результат | Действие |
