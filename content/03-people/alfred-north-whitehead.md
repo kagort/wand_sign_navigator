@@ -18,6 +18,7 @@ aliases:
   - Alfred North Whitehead
   - A. N. Whitehead
   - Уайтхед
+  - Альфред
 ---
 ![[a_n_whitehead.jpg|200]]
 ## Кто это
