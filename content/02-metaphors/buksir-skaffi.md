@@ -20,6 +20,7 @@ aliases:
   - буксир Скаффи
   - Скаффи
 ---
+![[assets/scuffy_tugboat.jpg|200]]
 
 ## Образ
 
