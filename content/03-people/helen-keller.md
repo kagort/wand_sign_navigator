@@ -19,6 +19,7 @@ aliases:
   - Хеллен Келлер
   - Келлер
 ---
+![[assets/helen_keller.jpg|200]]
 
 ## Кто это
 
