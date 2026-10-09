@@ -34,7 +34,7 @@ aliases:
 ---
 ![[assets/m_dummet.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#michael-dummett)
+[Досье на атласе персоналий →](static/dash/atlas.html#michael-dummett)
 
 ## Кто это
 

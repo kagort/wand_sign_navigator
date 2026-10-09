@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Собирает дашборды из data/*.json (сначала запустить build_dataset.py).
 
-    dashboards/linia.html — «Линия книги»: главы — участки, разделы — станции.
-    dashboards/atlas.html — «Атлас персоналий»: линия времени, карта, граф связей, темы, статистика.
+    quartz/static/dash/linia.html — «Линия книги»: главы — участки, разделы — станции.
+    quartz/static/dash/atlas.html — «Атлас персоналий»: линия времени, карта, граф связей, темы, статистика.
 
-Страница самодостаточна (данные встроены), её можно открыть локально двойным щелчком.
-На сайте — по адресам /linia/ и /atlas/ (шаг в .github/workflows/deploy-pages.yml).
+Шаблоны — dashboards/*.template.html. Данные встроены, библиотеки лежат рядом (quartz/static/dash/vendor/),
+ссылки относительные: страницы работают и на сайте (/static/dash/…), и в локальном `npx quartz build --serve`.
 """
 import datetime
 import json
@@ -14,6 +14,12 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA, DASH, CONTENT = ROOT / "data", ROOT / "dashboards", ROOT / "content"
+OUT = ROOT / "quartz" / "static" / "dash"
+UP = "../../"  # от /static/dash/ до корня сайта
+
+
+def rel(url):
+    return url.replace(SITE, UP) if isinstance(url, str) else url
 SITE = "https://kagort.github.io/wand_sign_navigator/"
 
 
@@ -32,16 +38,18 @@ def main():
     cards = json.loads((DATA / "cards.json").read_text(encoding="utf8"))
     used = {c for s in sections for c in s["cards"]}
     payload = dict(
-        sections=[{k: s[k] for k in ("id", "chapter", "section", "title", "annotation", "url", "cards")} for s in sections],
-        cards={c["id"]: {k: c[k] for k in ("title", "kind", "url", "portrait")} for c in cards if c["id"] in used},
+        sections=[{k: rel(s[k]) for k in ("id", "chapter", "section", "title", "annotation", "url", "cards")} for s in sections],
+        cards={c["id"]: {k: rel(c[k]) for k in ("title", "kind", "url", "portrait")} for c in cards if c["id"] in used},
         chapters=chapters(sections),
     )
     tpl = (DASH / "linia.template.html").read_text(encoding="utf8")
     html = (tpl.replace("/*DATA*/null", json.dumps(payload, ensure_ascii=False).replace("</", "<\\/"))
-               .replace("SITE_URL", SITE)
+               .replace("ATLAS_URL", "atlas.html")
+               .replace("SITE_URL", UP)
                .replace("DATE_BUILT", datetime.date.today().strftime("%d.%m.%Y")))
-    (DASH / "linia.html").write_text(html, encoding="utf8")
-    print(f"dashboards/linia.html: станций {len(sections)}, карточек {len(used)}")
+    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / "linia.html").write_text(html, encoding="utf8")
+    print(f"quartz/static/dash/linia.html: станций {len(sections)}, карточек {len(used)}")
     build_atlas(sections)
 
 
@@ -54,7 +62,7 @@ def build_atlas(sections):
     keep = ("id", "title", "title_en", "url", "portrait", "years", "born", "died", "born_year", "died_year",
             "birth_place", "birth_coords", "death_place", "death_coords", "nationality", "alma_mater",
             "affiliations", "fields", "awards", "teachers", "students", "colleagues", "sep", "wiki_ru",
-            "notes", "bio_checked", "sections", "chapters", "who", "role")
+            "notes", "bio_checked", "sections", "chapters", "who", "role", "cause_of_death")
     out_edges = []
     for e in edges:
         if e["source"] in ids and e["target"] in ids and e["type"] in ("учитель→ученик", "коллеги"):
@@ -67,14 +75,14 @@ def build_atlas(sections):
             co[(a, b)] += 1
     out_edges += [dict(source=a, target=b, type="co", w=w) for (a, b), w in co.items() if (a, b) not in related]
     labels = {s["id"]: dict(label="Предисловие" if s["id"] == "predislovie" else f"Гл. {s['chapter']} ({s['section']}) {s['title']}") for s in sections}
-    payload = dict(people=[{k: p.get(k) for k in keep} for p in people], edges=out_edges, sections=labels)
+    payload = dict(people=[{k: rel(p.get(k)) for k in keep} for p in people], edges=out_edges, sections=labels)
     tpl = (DASH / "atlas.template.html").read_text(encoding="utf8")
     html = (tpl.replace("/*DATA*/null", json.dumps(payload, ensure_ascii=False).replace("</", "<\\/"))
-               .replace("LINIA_URL", SITE + "linia/")
-               .replace("SITE_URL", SITE)
+               .replace("LINIA_URL", "linia.html")
+               .replace("SITE_URL", UP)
                .replace("DATE_BUILT", datetime.date.today().strftime("%d.%m.%Y")))
-    (DASH / "atlas.html").write_text(html, encoding="utf8")
-    print(f"dashboards/atlas.html: персоналий {len(people)}, связей {len(out_edges)}")
+    (OUT / "atlas.html").write_text(html, encoding="utf8")
+    print(f"quartz/static/dash/atlas.html: персоналий {len(people)}, связей {len(out_edges)}")
 
 
 if __name__ == "__main__":

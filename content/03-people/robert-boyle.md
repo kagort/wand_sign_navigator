@@ -33,7 +33,7 @@ aliases:
 ---
 ![[assets/robert_boyle.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#robert-boyle)
+[Досье на атласе персоналий →](static/dash/atlas.html#robert-boyle)
 
 ## Кто это
 

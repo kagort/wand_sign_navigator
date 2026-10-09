@@ -11,6 +11,7 @@ birth_coords: [53.5511, 9.9937]
 died: "1894-01-01"
 death_place: "Бонн"
 death_coords: [50.7374, 7.0982]
+cause_of_death: "гранулематоз с полиангиитом (предположительно)"
 nationality: "немец"
 alma_mater: "Берлинский университет"
 affiliations: ["Кильский университет", "Политехникум Карлсруэ", "Боннский университет"]
@@ -30,7 +31,7 @@ aliases:
 ---
 ![[assets/h_hertz.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#heinrich-hertz)
+[Досье на атласе персоналий →](static/dash/atlas.html#heinrich-hertz)
 
 ## Кто это
 

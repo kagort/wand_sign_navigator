@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (ix) Смягченный скептицизм
 
-← [[chapter_1_viii|(viii) Зачем изучать концепции?]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_x|(x) Преувеличенные опасения]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_ix)
+← [[chapter_1_viii|(viii) Зачем изучать концепции?]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_x|(x) Преувеличенные опасения]] → · [на линии книги](static/dash/linia.html#chapter_1_ix)
 
 ## Аннотация
 

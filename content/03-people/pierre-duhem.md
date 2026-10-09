@@ -11,6 +11,7 @@ birth_coords: [48.8566, 2.3522]
 died: "1916-09-14"
 death_place: "Кабреспин, Франция"
 death_coords: [43.37, 2.45]
+cause_of_death: "сердечный приступ"
 nationality: "француз"
 alma_mater: "Высшая нормальная школа"
 affiliations: ["Лилльский университет", "Реннский университет", "Университет Бордо"]
@@ -31,7 +32,7 @@ aliases:
 ---
 ![[assets/pierre_duhem.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#pierre-duhem)
+[Досье на атласе персоналий →](static/dash/atlas.html#pierre-duhem)
 
 ## Кто это
 

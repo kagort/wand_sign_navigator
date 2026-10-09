@@ -11,6 +11,7 @@ birth_coords: [37.92, -95.53]
 died: "1966-02-01"
 death_place: "Вудленд-Хиллз, Лос-Анджелес, США"
 death_coords: [34.168, -118.605]
+cause_of_death: "рак лёгких"
 nationality: "американец"
 fields: ["кино", "комедия"]
 awards: ["Почётный «Оскар» (1960)"]
@@ -29,7 +30,7 @@ aliases:
 ---
 ![[assets/buster-keaton.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#buster-keaton)
+[Досье на атласе персоналий →](static/dash/atlas.html#buster-keaton)
 
 ## Кто это
 

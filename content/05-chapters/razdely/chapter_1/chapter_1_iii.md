@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (iii) Концептуальная оценка
 
-← [[chapter_1_ii|(ii) Классическая картина концепций]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_iv|(iv) Науку нужно использовать, а не упоминать]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_iii)
+← [[chapter_1_ii|(ii) Классическая картина концепций]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_iv|(iv) Науку нужно использовать, а не упоминать]] → · [на линии книги](static/dash/linia.html#chapter_1_iii)
 
 ## Аннотация
 

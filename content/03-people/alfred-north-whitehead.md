@@ -35,7 +35,7 @@ aliases:
 ---
 ![[a_n_whitehead.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#alfred-north-whitehead)
+[Досье на атласе персоналий →](static/dash/atlas.html#alfred-north-whitehead)
 ## Кто это
 
 > Английский математик и философ, один из создателей процессуальной философии.

@@ -35,6 +35,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/whitehead/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -91,6 +92,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -143,6 +145,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -198,6 +201,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -257,6 +261,7 @@
   ],
   "sep": "https://plato.stanford.edu/entries/russell/",
   "wiki_ru": null,
+  "cause_of_death": "грипп",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -321,6 +326,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "рак лёгких",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -372,6 +378,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "инсульт",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -425,6 +432,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "болезнь сердца",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -478,6 +486,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "рожистое воспаление после падения",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -524,6 +533,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -576,6 +586,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "сердечная недостаточность",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -632,6 +643,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -687,6 +699,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/hume/",
   "wiki_ru": null,
+  "cause_of_death": "рак (предположительно, кишечника или печени)",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -744,6 +757,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/david-lewis/",
   "wiki_ru": null,
+  "cause_of_death": "осложнения сахарного диабета",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -796,6 +810,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -851,6 +866,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "рак ротовой полости",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -894,6 +910,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -948,6 +965,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "болезнь Паркинсона, последствия инсульта",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -997,6 +1015,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1053,6 +1072,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/ernst-mach/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1107,6 +1127,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1153,6 +1174,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1206,6 +1228,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1261,6 +1284,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1307,6 +1331,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1363,6 +1388,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/berkeley/",
   "wiki_ru": null,
+  "cause_of_death": "внезапная смерть (предположительно, инсульт)",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1415,6 +1441,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1471,6 +1498,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1527,6 +1555,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/frege/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1588,6 +1617,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "гранулематоз с полиангиитом (предположительно)",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1643,6 +1673,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "последствия инсультов",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1700,6 +1731,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "кровоизлияние в мозг",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1754,6 +1786,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "ожоги и шок после падения в камин",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1810,6 +1843,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "мезотелиома",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1869,6 +1903,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/kant/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1921,6 +1956,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -1977,6 +2013,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/newton/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": "Даты по григорианскому календарю; по юлианскому — 25.12.1642 – 20.03.1726/27.",
   "bio_checked": false,
   "tags": [
@@ -2031,6 +2068,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/austin-jl/",
   "wiki_ru": null,
+  "cause_of_death": "рак лёгких",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2089,6 +2127,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2138,6 +2177,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2192,6 +2232,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2238,6 +2279,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2297,6 +2339,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/dewey/",
   "wiki_ru": null,
+  "cause_of_death": "пневмония",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2352,6 +2395,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2408,6 +2452,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "рак",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2464,6 +2509,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "кровоизлияние в мозг",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2517,6 +2563,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/wittgenstein/",
   "wiki_ru": null,
+  "cause_of_death": "рак простаты",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2576,6 +2623,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2632,6 +2680,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2686,6 +2735,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2736,6 +2786,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "туберкулёз",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2790,6 +2841,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2844,6 +2896,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2902,6 +2955,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/neurath/",
   "wiki_ru": null,
+  "cause_of_death": "сердечный приступ",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -2952,6 +3006,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3006,6 +3061,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "острый панкреатит",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3063,6 +3119,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/duhem/",
   "wiki_ru": null,
+  "cause_of_death": "сердечный приступ",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3116,6 +3173,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3169,6 +3227,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3221,6 +3280,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/descartes/",
   "wiki_ru": null,
+  "cause_of_death": "пневмония (по другой версии — отравление)",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3272,6 +3332,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "сердечный приступ",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3315,6 +3376,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3370,6 +3432,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/boyle/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3420,6 +3483,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3477,6 +3541,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3530,6 +3595,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "сердечная недостаточность",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3584,6 +3650,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "сердечный приступ",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3640,6 +3707,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3693,6 +3761,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/reid/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3742,6 +3811,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3790,6 +3860,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3846,6 +3917,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/ockham/",
   "wiki_ru": null,
+  "cause_of_death": "предположительно, чума",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3899,6 +3971,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3944,6 +4017,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -3995,6 +4069,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -4051,6 +4126,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/sellars/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -4106,6 +4182,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/quine/",
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -4168,6 +4245,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "рак желудка (предположительно)",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -4224,6 +4302,7 @@
   "awards": [],
   "sep": "https://plato.stanford.edu/entries/james/",
   "wiki_ru": null,
+  "cause_of_death": "сердечная недостаточность",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -4275,6 +4354,7 @@
   ],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "плеврит",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -4330,6 +4410,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": "острая лихорадочная болезнь; точная причина неизвестна",
   "notes": null,
   "bio_checked": false,
   "tags": [
@@ -4381,6 +4462,7 @@
   "awards": [],
   "sep": null,
   "wiki_ru": null,
+  "cause_of_death": null,
   "notes": null,
   "bio_checked": false,
   "tags": [

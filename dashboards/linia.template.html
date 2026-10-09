@@ -6,29 +6,24 @@
 <title>Линия книги — «Блуждающие значения»</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&subset=cyrillic&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,500;7..72,700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&subset=cyrillic&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#F7F7F4; --card:#FFFFFF; --ink:#16181D; --grey:#6E7076; --hair:#DDDDD6; --ghost:#B9BAB2;
-    --c0:#6E7076; --c1:#D6203C; --c2:#0070B8; --c3:#8E2D9C; --c4:#0B8A5F; --c5:#D9822B; --c6:#2E7D9A;
-    --panel-w:420px; --backdrop:rgba(22,24,29,.32);
+    --paper:#F3EFE6; --card:#FBF9F4; --ink:#24221F; --grey:#77736B; --hair:#E0DACD; --ghost:#BDB7AA;
+    --c0:#7D7A73; --c1:#B05A3C; --c2:#4D6A86; --c3:#6F8058; --c4:#7A5470; --c5:#B8913F; --c6:#3F7C78; --cx:#BDB7AA;
+    --accent:#B05A3C; --backdrop:rgba(36,34,31,.32);
+    --panel-w:420px;
   }
   @media (prefers-color-scheme:dark){
-    :root:not([data-theme="light"]){
-      --paper:#15171B; --card:#1E2026; --ink:#ECEDEA; --grey:#A3A5AB; --hair:#33363D; --ghost:#55585F;
-      --c0:#9A9CA2; --c1:#FF4D63; --c2:#3FA3E8; --c3:#C06BD0; --backdrop:rgba(0,0,0,.55);
-    }
+    :root:not([data-theme="light"]){--paper:#1B1A17; --card:#24221E; --ink:#ECE7DD; --grey:#A8A296; --hair:#3A3732; --ghost:#5E5A52; --c0:#A29E95; --c1:#D9805F; --c2:#86A6C4; --c3:#A3B585; --c4:#B48AA8; --c5:#D6B26A; --c6:#78ADA8; --cx:#5E5A52; --accent:#D9805F; --backdrop:rgba(0,0,0,.55);}
   }
-  :root[data-theme="dark"]{
-    --paper:#15171B; --card:#1E2026; --ink:#ECEDEA; --grey:#A3A5AB; --hair:#33363D; --ghost:#55585F;
-    --c0:#9A9CA2; --c1:#FF4D63; --c2:#3FA3E8; --c3:#C06BD0; --backdrop:rgba(0,0,0,.55);
-  }
+  :root[data-theme="dark"]{--paper:#1B1A17; --card:#24221E; --ink:#ECE7DD; --grey:#A8A296; --hair:#3A3732; --ghost:#5E5A52; --c0:#A29E95; --c1:#D9805F; --c2:#86A6C4; --c3:#A3B585; --c4:#B48AA8; --c5:#D6B26A; --c6:#78ADA8; --cx:#5E5A52; --accent:#D9805F; --backdrop:rgba(0,0,0,.55);}
   *{box-sizing:border-box;margin:0;padding:0}
   body{background:var(--paper);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;min-height:100vh;-webkit-font-smoothing:antialiased}
   a{color:inherit}
   header{display:flex;align-items:center;gap:20px;flex-wrap:wrap;padding:28px 40px 22px;border-bottom:3px solid var(--ink)}
-  .line-bullet{width:58px;height:58px;border-radius:50%;background:var(--c1);color:#fff;flex:0 0 auto;display:flex;align-items:center;justify-content:center;font-family:'Unbounded',sans-serif;font-weight:700;font-size:26px}
-  .title-block h1{font-family:'Unbounded',sans-serif;font-weight:700;font-size:clamp(20px,3.4vw,32px);letter-spacing:.02em;text-transform:uppercase;line-height:1.1}
+  .line-bullet{width:58px;height:58px;border-radius:50%;background:var(--c1);color:#fff;flex:0 0 auto;display:flex;align-items:center;justify-content:center;font-family:'Literata',Georgia,serif;font-weight:700;font-size:26px}
+  .title-block h1{font-family:'Literata',Georgia,serif;font-weight:700;font-size:clamp(20px,3.4vw,32px);letter-spacing:0;line-height:1.1}
   .title-block p{color:var(--grey);font-size:14px;margin-top:6px}
   .header-note{margin-left:auto;text-align:right;font-size:13px;color:var(--grey);border-left:2px solid var(--hair);padding-left:18px;line-height:1.5}
   .header-note b{color:var(--ink);font-weight:600}
@@ -36,14 +31,14 @@
   .legend .item{display:flex;align-items:center;gap:9px}
   .swatch{width:34px;height:6px;border-radius:3px;flex:0 0 auto}
   .swatch.dashed{background:repeating-linear-gradient(90deg,var(--ghost) 0 7px,transparent 7px 13px)}
-  .dot-here{width:12px;height:12px;border-radius:50%;background:var(--c1);animation:pulse 2s infinite;flex:0 0 auto}
-  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(214,32,60,.45)}70%{box-shadow:0 0 0 11px rgba(214,32,60,0)}100%{box-shadow:0 0 0 0 rgba(214,32,60,0)}}
+  .dot-here{width:12px;height:12px;border-radius:50%;background:var(--accent);animation:pulse 2s infinite;flex:0 0 auto}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(176,90,60,.45)}70%{box-shadow:0 0 0 11px rgba(176,90,60,0)}100%{box-shadow:0 0 0 0 rgba(176,90,60,0)}}
   .map-wrap{max-width:1240px;margin:0 auto;padding:10px 16px 0}
   svg{display:block;width:100%;height:auto;overflow:visible}
   .st-name{font:600 14px 'IBM Plex Sans',sans-serif;fill:var(--ink)}
   .st-num{font:600 11px 'IBM Plex Sans',sans-serif;fill:var(--grey);letter-spacing:.08em}
   .st-ghost{font:italic 400 13px 'IBM Plex Sans',sans-serif;fill:var(--ghost)}
-  .ch-label{font:700 12px 'Unbounded',sans-serif;letter-spacing:.06em;text-transform:uppercase}
+  .ch-label{font:700 12px 'Literata',Georgia,serif;letter-spacing:.06em;text-transform:uppercase}
   .station{cursor:pointer;outline:none}
   .station circle.core{transition:r .15s ease}
   .station:hover circle.core,.station:focus-visible circle.core{r:13}
@@ -55,8 +50,8 @@
   .panel{visibility:hidden;transition:transform .28s cubic-bezier(.4,0,.2,1),visibility 0s .28s}
   .panel.open{transform:translateX(0);visibility:visible;transition:transform .28s cubic-bezier(.4,0,.2,1)}
   .panel-head{padding:26px 28px 20px;color:#fff;position:relative}
-  .panel-head .num{font-family:'Unbounded',sans-serif;font-weight:700;font-size:12px;opacity:.88;letter-spacing:.12em;text-transform:uppercase;padding-right:40px}
-  .panel-head h2{font-family:'Unbounded',sans-serif;font-weight:500;font-size:21px;line-height:1.25;margin-top:10px}
+  .panel-head .num{font-family:'Literata',Georgia,serif;font-weight:700;font-size:12px;opacity:.88;letter-spacing:.12em;text-transform:uppercase;padding-right:40px}
+  .panel-head h2{font-family:'Literata',Georgia,serif;font-weight:500;font-size:21px;line-height:1.25;margin-top:10px}
   .panel-head .meta{font-size:13px;opacity:.88;margin-top:10px}
   .close-btn{position:absolute;top:16px;right:16px;width:34px;height:34px;border-radius:50%;border:none;cursor:pointer;background:rgba(255,255,255,.18);color:#fff;font-size:18px;line-height:1}
   .close-btn:hover{background:rgba(255,255,255,.32)}
@@ -91,14 +86,14 @@
   <div class="line-bullet" aria-hidden="true">У</div>
   <div class="title-block">
     <h1>Линия «Блуждающие значения»</h1>
-    <p>Путеводитель по книге Марка Уилсона · главы — участки линии, разделы — станции · <a href="SITE_URLatlas/">атлас персоналий →</a></p>
+    <p>Путеводитель по книге Марка Уилсона · главы — участки линии, разделы — станции · <a href="ATLAS_URL">атлас персоналий →</a></p>
   </div>
   <div class="header-note" id="header-note"></div>
 </header>
 <div class="legend" id="legend"></div>
 <div class="map-wrap"><svg id="map" role="group" aria-label="Схема книги в виде линии метро. Нажмите на станцию, чтобы открыть аннотацию раздела и его карточки."></svg></div>
 <footer>
-  <span><a href="SITE_URL">← Путеводитель</a> · <a href="SITE_URL05-chapters/razdely/">все разделы</a> · <a href="SITE_URLatlas/">атлас персоналий →</a></span>
+  <span><a href="SITE_URL">← Путеводитель</a> · <a href="SITE_URL05-chapters/razdely/">все разделы</a> · <a href="ATLAS_URL">атлас персоналий →</a></span>
   <span>Нажмите на станцию, чтобы открыть раздел · данные собраны DATE_BUILT</span>
 </footer>
 
@@ -198,7 +193,7 @@ function draw(){
     const g = el('g', {class:'station', tabindex:0, role:'button', 'data-i':i,
       'aria-label': `${s.chapter ? 'Глава ' + s.chapter + ', раздел (' + s.section + ')' : 'Предисловие'}: ${s.title}. Карточек: ${s.cards.length}${i === here ? '. Вы здесь' : ''}`}, nodes);
     if (i === here){
-      const pulse = el('circle', {cx:p.x, cy:p.y, r:13, fill:css('--c1'), opacity:.35}, g);
+      const pulse = el('circle', {cx:p.x, cy:p.y, r:13, fill:css('--accent'), opacity:.35}, g);
       if (!matchMedia('(prefers-reduced-motion: reduce)').matches){
         el('animate', {attributeName:'r', values:'13;26;13', dur:'2.2s', repeatCount:'indefinite'}, pulse);
         el('animate', {attributeName:'opacity', values:'.35;0;.35', dur:'2.2s', repeatCount:'indefinite'}, pulse);
@@ -206,7 +201,7 @@ function draw(){
     }
     if (first) el('circle', {cx:p.x, cy:p.y, r:16, fill:css('--card'), stroke:col, 'stroke-width':3}, g);
     el('circle', {class:'core', cx:p.x, cy:p.y, r:10, fill:css('--card'), stroke:col, 'stroke-width':5}, g);
-    if (i === here) el('circle', {cx:p.x, cy:p.y, r:4.5, fill:css('--c1')}, g);
+    if (i === here) el('circle', {cx:p.x, cy:p.y, r:4.5, fill:css('--accent')}, g);
     const num = !s.chapter ? 'ПРЕДИСЛОВИЕ' : (first && !L.vertical ? `ГЛАВА ${s.chapter} · (${s.section})` : `ГЛ. ${s.chapter} · (${s.section})`);
     const lines2 = s.chapter ? wrap(s.title, L.vertical ? 34 : 22) : [];
     if (L.vertical){

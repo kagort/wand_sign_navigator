@@ -26,7 +26,7 @@ aliases: ["Willard Quine", "W. V. Quine", "Куайн", "Куйан"]
 ---
 ![[assets/quinewo.jpg|220]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#willard-quine)
+[Досье на атласе персоналий →](static/dash/atlas.html#willard-quine)
 
 ## Кто это
 

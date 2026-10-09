@@ -31,7 +31,7 @@ aliases:
 ---
 ![[assets/ernst_mach.webp|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#ernst-mach)
+[Досье на атласе персоналий →](static/dash/atlas.html#ernst-mach)
 
 ## Кто это
 

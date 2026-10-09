@@ -11,6 +11,7 @@ birth_coords: [51.3397, 12.3731]
 died: "1883-02-13"
 death_place: "Венеция, Италия"
 death_coords: [45.4408, 12.3155]
+cause_of_death: "сердечный приступ"
 nationality: "немец"
 alma_mater: "Лейпцигский университет"
 fields: ["композиция", "оперная драматургия"]
@@ -27,7 +28,7 @@ aliases:
 ---
 ![[assets/r_wagner.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#richard-vagner)
+[Досье на атласе персоналий →](static/dash/atlas.html#richard-vagner)
 
 ## Кто это
 

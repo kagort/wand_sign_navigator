@@ -7,7 +7,7 @@ tags:
 
 # Глава 2. Потерянные струны (стр. 82–135)
 
-[Смотреть на линии книги →](https://kagort.github.io/wand_sign_navigator/linia/)
+[Смотреть на линии книги →](static/dash/linia.html)
 
 ## О названии главы
 

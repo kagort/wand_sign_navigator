@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (x) Преувеличенные опасения
 
-← [[chapter_1_ix|(ix) Смягченный скептицизм]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_xi|(xi) Наши перспективы]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_x)
+← [[chapter_1_ix|(ix) Смягченный скептицизм]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_xi|(xi) Наши перспективы]] → · [на линии книги](static/dash/linia.html#chapter_1_x)
 
 ## Аннотация
 

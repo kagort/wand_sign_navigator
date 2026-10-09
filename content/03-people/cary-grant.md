@@ -11,6 +11,7 @@ birth_coords: [51.4545, -2.5879]
 died: "1986-11-29"
 death_place: "Дэвенпорт, Айова, США"
 death_coords: [41.5236, -90.5776]
+cause_of_death: "инсульт"
 nationality: "британец, американец"
 fields: ["кино"]
 awards: ["Почётный «Оскар» (1970)"]
@@ -28,7 +29,7 @@ aliases:
 ---
 ![[assets/cary_grant.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#cary-grant)
+[Досье на атласе персоналий →](static/dash/atlas.html#cary-grant)
 
 ## Кто это
 

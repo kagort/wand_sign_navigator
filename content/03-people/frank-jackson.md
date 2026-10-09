@@ -27,7 +27,7 @@ aliases:
 ---
 ![[assets/jackson.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#frank-jackson)
+[Досье на атласе персоналий →](static/dash/atlas.html#frank-jackson)
 ## Кто это
 > Австралийский философ, профессор Принстонского и Австралийского национального университетов. Известен аргументом «комнаты Мэри» (knowledge argument) против физикализма, работами по философии сознания, квалиа и метафизике. Автор книги «От метафизики к этике» (From Metaphysics to Ethics, 1998).
 

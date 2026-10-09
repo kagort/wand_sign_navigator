@@ -11,6 +11,7 @@ birth_coords: [40.7128, -74.006]
 died: "2017-11-29"
 death_place: "Нью-Йорк, США"
 death_coords: [40.7128, -74.006]
+cause_of_death: "болезнь Паркинсона, последствия инсульта"
 nationality: "американец"
 alma_mater: "Колумбийский колледж; Принстонский университет"
 affiliations: ["Массачусетский технологический институт", "Ратгерский университет"]
@@ -31,7 +32,7 @@ aliases:
 ---
 ![[assets/j-fodor.png|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#dzherri-fodor)
+[Досье на атласе персоналий →](static/dash/atlas.html#dzherri-fodor)
 
 ## Кто это
 > Американский философ и когнитивист (1935–2017), автор теории языка мысли и концептуального атомизма. Основная работа, на которую ссылается Уилсон: *Concepts: Where Cognitive Science Went Wrong* (Oxford UP, 1998).

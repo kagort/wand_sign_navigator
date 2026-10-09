@@ -32,7 +32,7 @@ aliases:
 ---
 ![[b_bosanquet.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#bernard-bosanquet)
+[Досье на атласе персоналий →](static/dash/atlas.html#bernard-bosanquet)
 ## Кто это
 
 > Английский философ, представитель британского абсолютного идеализма. Автор *The Essentials of Logic*, откуда Уилсон цитирует формулу о «мире как идее».

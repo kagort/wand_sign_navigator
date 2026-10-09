@@ -28,7 +28,7 @@ aliases:
 ---
 ![[assets/james_thomson.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#james-thomson)
+[Досье на атласе персоналий →](static/dash/atlas.html#james-thomson)
 
 ## Кто это
 

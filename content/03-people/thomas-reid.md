@@ -32,7 +32,7 @@ aliases:
 ---
 ![[assets/thomas_reid.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#thomas-reid)
+[Досье на атласе персоналий →](static/dash/atlas.html#thomas-reid)
 
 ## Кто это
 

@@ -30,6 +30,8 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   const a = target.closest("a")
   if (!a) return
   if ("routerIgnore" in a.dataset) return
+  // статические страницы (дашборды в quartz/static/dash) открываем обычной загрузкой, а не через SPA
+  if (new URL(a.href, window.location.href).pathname.includes("/static/")) return
   const { href } = a
   if (!isLocalUrl(href)) return
   return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }

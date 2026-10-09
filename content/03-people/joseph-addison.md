@@ -30,7 +30,7 @@ aliases:
 ---
 ![[assets/j_addison.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#joseph-addison)
+[Досье на атласе персоналий →](static/dash/atlas.html#joseph-addison)
 ## Кто это
 
 > Английский писатель, эссеист и политический деятель. В цикле *Pleasures of the Imagination* развивал эстетику воображения и чувственного восприятия.

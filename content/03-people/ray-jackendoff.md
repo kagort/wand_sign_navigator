@@ -23,7 +23,7 @@ aliases:
 ---
 ![[assets/r_jackendoff.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#ray-jackendoff)
+[Досье на атласе персоналий →](static/dash/atlas.html#ray-jackendoff)
 
 ## Кто это
 

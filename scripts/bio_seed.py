@@ -116,3 +116,44 @@ if __name__ == "__main__":
         fm = fm[:m.end()] + "\n" + "\n".join(add) + fm[m.end():]
         open(f, "w", encoding="utf8").write(fm + rest)
     print("без данных:", missing)
+
+
+# Причина смерти (добавлено 09.10.2026): только хорошо задокументированные случаи; спорное помечено.
+CAUSE = {
+    "bertrand-russell": "грипп", "buster-keaton": "рак лёгких", "cary-grant": "инсульт",
+    "charles-darwin": "болезнь сердца", "charles-lamb": "рожистое воспаление после падения",
+    "coleridge": "сердечная недостаточность", "david-hume": "рак (предположительно, кишечника или печени)",
+    "david-lewis": "осложнения сахарного диабета", "doctor-seuss": "рак ротовой полости",
+    "dzherri-fodor": "болезнь Паркинсона, последствия инсульта", "george-berkeley": "внезапная смерть (предположительно, инсульт)",
+    "heinrich-hertz": "гранулематоз с полиангиитом (предположительно)", "helen-keller": "последствия инсультов",
+    "hermann-helmholtz": "кровоизлияние в мозг", "hilaire-belloc": "ожоги и шок после падения в камин",
+    "hilary-putnam": "мезотелиома", "j-l-austin": "рак лёгких", "john-dewey": "пневмония",
+    "l-susan-stebbing": "рак", "leonhard-euler": "кровоизлияние в мозг", "ludwig-wittgenstein": "рак простаты",
+    "nils-abel": "туберкулёз", "otto-neurath": "сердечный приступ", "paul-hindemith": "острый панкреатит",
+    "pierre-duhem": "сердечный приступ", "rene-descartes": "пневмония (по другой версии — отравление)",
+    "richard-vagner": "сердечный приступ", "robert-ingersoll": "сердечная недостаточность",
+    "t-h-huxley": "сердечный приступ", "uilyam-okkam": "предположительно, чума", "william-hazlitt": "рак желудка (предположительно)",
+    "william-james": "сердечная недостаточность", "william-wordsworth": "плеврит",
+    "wolfgang-amadeus-mozart": "острая лихорадочная болезнь; точная причина неизвестна",
+}
+
+
+def add_cause():
+    import glob, json, os, re
+    os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "content", "03-people"))
+    for pid, cause in CAUSE.items():
+        f = pid + ".md"
+        s = open(f, encoding="utf8").read()
+        end = s.index("\n---\n", 4)
+        fm = s[:end]
+        if re.search(r"^cause_of_death:", fm, re.M):
+            continue
+        m = re.search(r"^death_coords:.*$", fm, re.M) or re.search(r"^death_place:.*$", fm, re.M) or re.search(r"^died:.*$", fm, re.M)
+        line = "cause_of_death: " + json.dumps(cause, ensure_ascii=False)
+        fm = fm[:m.end()] + "\n" + line + fm[m.end():]
+        open(f, "w", encoding="utf8").write(fm + s[end:])
+    print("причина смерти:", len(CAUSE))
+
+
+if __name__ == "__main__":
+    add_cause()

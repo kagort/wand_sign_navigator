@@ -26,7 +26,7 @@ aliases:
 ---
 ![[assets/f_winckel.png|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#fritz-winckel)
+[Досье на атласе персоналий →](static/dash/atlas.html#fritz-winckel)
 ## Кто это
 > Немецкий музыковед и акустик XX века, автор книги «Музыка, звук и ощущение» (Music, Sound and Sensation, 1967), в которой исследуются физические и психологические основы музыкального восприятия.
 

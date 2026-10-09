@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (xi) Наши перспективы
 
-← [[chapter_1_x|(x) Преувеличенные опасения]] · [[chapter_1|Глава 1. Широкий экран]] · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_xi)
+← [[chapter_1_x|(x) Преувеличенные опасения]] · [[chapter_1|Глава 1. Широкий экран]] · [на линии книги](static/dash/linia.html#chapter_1_xi)
 
 ## Аннотация
 

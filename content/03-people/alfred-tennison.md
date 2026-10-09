@@ -30,7 +30,7 @@ aliases:
 ---
 ![[assets/a_tennyson.webp|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#alfred-tennison)
+[Досье на атласе персоналий →](static/dash/atlas.html#alfred-tennison)
 ## Кто это
 > Английский поэт викторианской эпохи (1809–1892). У Уилсона в этом фрагменте упомянут только по имени.
 

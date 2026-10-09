@@ -27,7 +27,7 @@ aliases:
 ---
 ![[assets/roaring_lion.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#roaring-lion)
+[Досье на атласе персоналий →](static/dash/atlas.html#roaring-lion)
 
 ## Кто это
 

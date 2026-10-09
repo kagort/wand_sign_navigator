@@ -26,7 +26,7 @@ aliases:
   - Crispin Wright
   - Криспин Райт
 ---
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#crispin-wright)
+[Досье на атласе персоналий →](static/dash/atlas.html#crispin-wright)
 
 
 ![[assets/c_wright.jpg|200]]

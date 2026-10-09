@@ -9,7 +9,7 @@ tags:
 
 # Глава 3 · (iii) Концептуальные направленности
 
-← [[chapter_3_ii|(ii) Классическое склеивание]] · [[chapter_3|Глава 3. Классический клей]] · [[chapter_3_iv|(iv) Блюстители концептуальной сферы]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_3_iii)
+← [[chapter_3_ii|(ii) Классическое склеивание]] · [[chapter_3|Глава 3. Классический клей]] · [[chapter_3_iv|(iv) Блюстители концептуальной сферы]] → · [на линии книги](static/dash/linia.html#chapter_3_iii)
 
 ## Аннотация
 

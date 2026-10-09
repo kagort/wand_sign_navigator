@@ -30,7 +30,7 @@ aliases:
 ---
 ![[assets/augustin_cauchy.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#ogyusten-koshi)
+[Досье на атласе персоналий →](static/dash/atlas.html#ogyusten-koshi)
 ## Кто это
 > Французский математик (1789–1857), один из создателей строгого математического анализа. В контексте Уилсона важно его определение суммы бесконечного ряда как предела частичных сумм (справочно, «Cours d'analyse», 1821).
 

@@ -32,7 +32,7 @@ aliases:
   - Sellars
   - Селларс
 ---
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#wilfrid-sellars)
+[Досье на атласе персоналий →](static/dash/atlas.html#wilfrid-sellars)
 
 
 ![[assets/w_sellars.jpg|200]]

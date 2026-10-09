@@ -32,7 +32,7 @@ aliases:
   - Харди
   - Г. Х. Харди
 ---
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#godfri-kharold-khardi)
+[Досье на атласе персоналий →](static/dash/atlas.html#godfri-kharold-khardi)
 
 
 ![[assets/gotfrey-harold-hardy.jpg|200]]

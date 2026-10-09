@@ -11,6 +11,7 @@ birth_coords: [52.3906, 13.0645]
 died: "1894-09-08"
 death_place: "Шарлоттенбург (Берлин)"
 death_coords: [52.5167, 13.3]
+cause_of_death: "кровоизлияние в мозг"
 nationality: "немец"
 alma_mater: "Медико-хирургический институт Фридриха Вильгельма, Берлин"
 affiliations: ["Кёнигсбергский университет", "Боннский университет", "Гейдельбергский университет", "Берлинский университет"]
@@ -30,7 +31,7 @@ aliases:
 ---
 ![[assets/h_helmholtz.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#hermann-helmholtz)
+[Досье на атласе персоналий →](static/dash/atlas.html#hermann-helmholtz)
 
 ## Кто это
 

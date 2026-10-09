@@ -11,6 +11,7 @@ birth_coords: [50.75, -3.28]
 died: "1834-07-25"
 death_place: "Хайгейт, Лондон"
 death_coords: [51.57, -0.15]
+cause_of_death: "сердечная недостаточность"
 nationality: "британец"
 alma_mater: "Джизус-колледж, Кембридж"
 fields: ["поэзия", "литературная критика", "философия"]
@@ -33,7 +34,7 @@ aliases:
 ---
 ![[assets/s_t_coleridge.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#coleridge)
+[Досье на атласе персоналий →](static/dash/atlas.html#coleridge)
 ## Кто это
 
 > Английский поэт, философ и критик, один из центральных представителей британского романтизма.

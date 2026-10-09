@@ -11,6 +11,7 @@ birth_coords: [34.7309, -87.7025]
 died: "1968-06-01"
 death_place: "Истон, Коннектикут, США"
 death_coords: [41.25, -73.3]
+cause_of_death: "последствия инсультов"
 nationality: "американка"
 alma_mater: "Рэдклифф-колледж"
 fields: ["литература", "общественная деятельность"]
@@ -32,7 +33,7 @@ aliases:
 ---
 ![[assets/helen_keller.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#helen-keller)
+[Досье на атласе персоналий →](static/dash/atlas.html#helen-keller)
 
 ## Кто это
 

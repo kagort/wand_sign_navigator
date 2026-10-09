@@ -30,7 +30,7 @@ aliases:
   - Meyer Howard Abrams
   - М. Х. Абрамс
 ---
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#m-h-abrams)
+[Досье на атласе персоналий →](static/dash/atlas.html#m-h-abrams)
 
 
 ![[assets/m_abrams.jpg|200]]

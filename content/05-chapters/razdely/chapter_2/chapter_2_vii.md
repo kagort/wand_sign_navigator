@@ -9,7 +9,7 @@ tags:
 
 # Глава 2 · (vii) Сезонность в концептуальной оценке
 
-← [[chapter_2_vi|(vi) Амфиболические грёзы]] · [[chapter_2|Глава 2. Потерянные струны]] · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_2_vii)
+← [[chapter_2_vi|(vi) Амфиболические грёзы]] · [[chapter_2|Глава 2. Потерянные струны]] · [на линии книги](static/dash/linia.html#chapter_2_vii)
 
 ## Аннотация
 

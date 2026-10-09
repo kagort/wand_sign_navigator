@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (i) Введение в наши темы
 
-[[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_ii|(ii) Классическая картина концепций]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_i)
+[[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_ii|(ii) Классическая картина концепций]] → · [на линии книги](static/dash/linia.html#chapter_1_i)
 
 ## Аннотация
 

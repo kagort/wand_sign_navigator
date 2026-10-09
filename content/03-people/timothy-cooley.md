@@ -26,7 +26,7 @@ aliases:
 ---
 ![[assets/t_cooley.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#timothy-cooley)
+[Досье на атласе персоналий →](static/dash/atlas.html#timothy-cooley)
 ## Кто это
 
 > Американский этномузыковед, редактор и автор работ по полевой этномузыкологии. В данном фрагменте Уилсон обращается прежде всего к его введению в сборник *Shadows in the Field*.

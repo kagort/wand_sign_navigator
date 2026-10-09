@@ -28,7 +28,7 @@ aliases:
 ---
 ![[assets/j_piaget.png|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#jean-piaget)
+[Досье на атласе персоналий →](static/dash/atlas.html#jean-piaget)
 
 ## Кто это
 
