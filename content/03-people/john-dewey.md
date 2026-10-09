@@ -5,6 +5,18 @@ title_en: John Dewey
 type: персоналия
 status: draft
 years: "1859–1952"
+born: "1859-10-20"
+birth_place: "Берлингтон, Вермонт, США"
+birth_coords: [44.4759, -73.2121]
+died: "1952-06-01"
+death_place: "Нью-Йорк, США"
+death_coords: [40.7128, -74.006]
+nationality: "американец"
+alma_mater: "Вермонтский университет; Университет Джонса Хопкинса"
+affiliations: ["Чикагский университет", "Колумбийский университет"]
+fields: ["прагматизм", "философия образования", "эпистемология"]
+sep: "https://plato.stanford.edu/entries/dewey/"
+bio_checked: false
 tags:
   - прагматизм
   - философия-образования

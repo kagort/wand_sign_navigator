@@ -5,6 +5,12 @@ title_en: David E. Whisnant
 type: персоналия
 status: draft
 years: "1938–2024"
+born: "1938"
+died: "2024"
+nationality: "американец"
+affiliations: ["Университет Северной Каролины в Чапел-Хилле"]
+fields: ["американистика", "фольклористика", "культурная политика"]
+bio_checked: false
 tags:
   - фольклористика
   - этномузыковедение

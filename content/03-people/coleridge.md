@@ -5,6 +5,17 @@ title_en: Samuel Taylor Coleridge
 type: персоналия
 status: draft
 years: 1772–1834
+born: "1772-10-21"
+birth_place: "Оттери-Сент-Мэри, Девон, Англия"
+birth_coords: [50.75, -3.28]
+died: "1834-07-25"
+death_place: "Хайгейт, Лондон"
+death_coords: [51.57, -0.15]
+nationality: "британец"
+alma_mater: "Джизус-колледж, Кембридж"
+fields: ["поэзия", "литературная критика", "философия"]
+colleagues: ["[[william-wordsworth]]", "[[r-southey]]", "[[charles-lamb]]", "[[william-hazlitt]]"]
+bio_checked: false
 tags:
   - романтизм
   - английская-литература

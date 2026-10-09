@@ -5,6 +5,16 @@ title_en: Niels Henrik Abel
 type: персоналия
 status: draft
 years: "1802–1829"
+born: "1802-08-05"
+birth_place: "Недстранн, Норвегия"
+birth_coords: [59.35, 5.85]
+died: "1829-04-06"
+death_place: "Фроланд, Норвегия"
+death_coords: [58.53, 8.65]
+nationality: "норвежец"
+alma_mater: "Университет Кристиании"
+fields: ["алгебра", "математический анализ"]
+bio_checked: false
 first_appearance: "гл. 3, «Блюстители концептуальной сферы», с. 149"
 tags:
   - математика

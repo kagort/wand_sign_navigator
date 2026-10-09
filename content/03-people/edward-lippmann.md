@@ -5,6 +5,12 @@ title_en: Edward Lippmann
 type: персоналия
 status: draft
 years: 1920-2010
+born: "1920"
+died: "2010"
+nationality: "американец"
+affiliations: ["Колумбийский университет"]
+fields: ["музыковедение", "музыкальная эстетика"]
+bio_checked: false
 tags:
   - музыка
   - эстетика

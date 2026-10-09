@@ -1,0 +1,3944 @@
+[
+ {
+  "id": "amphibolic-dreams",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Амфиболические грёзы",
+  "title_en": "amphibolic dreams",
+  "status": "draft",
+  "tags": [
+   "амфиболизм",
+   "романтизм",
+   "философия-восприятия",
+   "субъективизм",
+   "философия-науки"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/amphibolic-dreams",
+  "portrait": null,
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolism",
+   "bernard-bosanquet",
+   "immanuel-kant",
+   "m-h-abrams",
+   "william-wordsworth"
+  ]
+ },
+ {
+  "id": "amphibolism",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Амфиболизм",
+  "title_en": "amphibolism",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "эпистемология",
+   "философия-науки",
+   "субъект-и-объект",
+   "амфиболизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/amphibolism",
+  "portrait": null,
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolic-dreams",
+   "bernard-bosanquet",
+   "immanuel-kant",
+   "klassicheskoe-skleivanie",
+   "m-h-abrams"
+  ]
+ },
+ {
+  "id": "blujdayushee-kachestvo",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "«Блуждающее значение» (метафора буксира Скаффи)",
+  "title_en": "wandering significance",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "центральное-понятие",
+   "заглавие-книги",
+   "метафора",
+   "опережающая-справка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/blujdayushee-kachestvo",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "buksir-skaffi",
+   "cary-grant",
+   "klassicheskaya-kartina-kontseptsiy",
+   "korabl-noyrata",
+   "metafora-morskogo-puteshestviya",
+   "oliver-heaviside",
+   "otto-neurath",
+   "semanticheskaya-zavershennost",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "chuvstvitelnost-k-kontekstu",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Чувствительность к контексту",
+  "title_en": "context-sensitivity",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/chuvstvitelnost-k-kontekstu",
+  "portrait": null,
+  "sections": [
+   "chapter_1_iv",
+   "chapter_3_iii"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "leonhard-euler",
+   "semanticheskaya-zavershennost",
+   "tik-tok-of-oz"
+  ]
+ },
+ {
+  "id": "cis-formatsiya",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Cis-формация",
+  "title_en": "cis formation",
+  "status": "draft",
+  "tags": [
+   "химия",
+   "клатратгидрат"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/cis-formatsiya",
+  "portrait": null,
+  "sections": [
+   "chapter_2_iii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "gauche-formatsiya",
+   "klatratgidrat",
+   "troposfernoe-samodovolstvo"
+  ]
+ },
+ {
+  "id": "deflyatsionizm",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Дефляционизм (об абстрактных сущностях)",
+  "title_en": "Deflationism about abstract entities",
+  "status": "draft",
+  "tags": [
+   "номинализм",
+   "метафизика-предикатов",
+   "анти-концептуализм",
+   "этимология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/deflyatsionizm",
+  "portrait": null,
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "george-berkeley",
+   "obshchie-imena",
+   "quine-nominalism"
+  ]
+ },
+ {
+  "id": "filosofskie-issledovaniya-vitgenshteyna",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "«Философские исследования»",
+  "title_en": "Philosophical Investigations",
+  "status": "draft",
+  "tags": [
+   "ключевая-работа",
+   "витгенштейн"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/filosofskie-issledovaniya-vitgenshteyna",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy",
+   "ludwig-wittgenstein"
+  ]
+ },
+ {
+  "id": "gauche-formatsiya",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Gauche-формация (гош-конформация)",
+  "title_en": "gauche formation",
+  "status": "draft",
+  "tags": [
+   "химия",
+   "клатратгидрат"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/gauche-formatsiya",
+  "portrait": null,
+  "sections": [
+   "chapter_2_iii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "cis-formatsiya",
+   "klatratgidrat",
+   "troposfernoe-samodovolstvo"
+  ]
+ },
+ {
+  "id": "genericheskie-primery",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Генерические примеры",
+  "title_en": "Generic examples",
+  "status": "draft",
+  "tags": [
+   "методология",
+   "примеры",
+   "сезонность-концептуальной-оценки"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/genericheskie-primery",
+  "portrait": null,
+  "sections": [
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "dzherri-fodor",
+   "klassicheskoe-skleivanie",
+   "kontseptualnaya-peregruzka"
+  ]
+ },
+ {
+  "id": "gleichschaltung-ostin",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Gleichschaltung у Остина",
+  "title_en": "Gleichschaltung",
+  "status": "draft",
+  "tags": [
+   "остин",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/gleichschaltung-ostin",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "j-l-austin",
+   "sense-and-sensibilia",
+   "sense-data"
+  ]
+ },
+ {
+  "id": "inferentsialnaya-napravlennost",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Инференциальная направленность",
+  "title_en": "inferential directivity",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "направленности",
+   "вывод"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/inferentsialnaya-napravlennost",
+  "portrait": null,
+  "sections": [
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "david-hume",
+   "helen-keller",
+   "kontseptualnaya-peregruzka",
+   "rene-descartes",
+   "robert-boyle",
+   "teoriya-deskriptsy",
+   "yadro-kontseptualnogo-soderzhaniya"
+  ]
+ },
+ {
+  "id": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Интенционально-обоснованная предикатная значимость",
+  "title_en": "Intention-based picture of predicative significance",
+  "status": "draft",
+  "tags": [
+   "интенция",
+   "средневековая-философия-языка",
+   "Оккам",
+   "Витгенштейн",
+   "классическая-картина-концепций"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "portrait": null,
+  "sections": [
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "klassicheskoe-skleivanie",
+   "logiko-filosofsky-traktat",
+   "uilyam-okkam"
+  ]
+ },
+ {
+  "id": "klassicheskaya-kartina-kontseptsiy",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Классическая картина концепций",
+  "title_en": "the classical picture (of concepts)",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "центральное-понятие"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/klassicheskaya-kartina-kontseptsiy",
+  "portrait": null,
+  "sections": [
+   "chapter_1_ii",
+   "chapter_1_iii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "bertrand-russell",
+   "filosofskie-issledovaniya-vitgenshteyna",
+   "gottlob-frege",
+   "nyuton-issledovaniya-sveta",
+   "problemy-filosofii-1912",
+   "terminy-kontseptualnoy-otsenki",
+   "ur-philosophy"
+  ]
+ },
+ {
+  "id": "klassicheskoe-skleivanie",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Классическое склеивание",
+  "title_en": "classical gluing",
+  "status": "draft",
+  "tags": [
+   "классическая-картина",
+   "концептуализация",
+   "философия-науки",
+   "корреспонденция",
+   "Рассел",
+   "универсалии"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/klassicheskoe-skleivanie",
+  "portrait": null,
+  "sections": [
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   2,
+   3
+  ],
+  "links": [
+   "alfred-north-whitehead",
+   "amphibolism",
+   "bertrand-russell",
+   "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+   "klassicheskaya-kartina-kontseptsiy",
+   "ludwig-wittgenstein",
+   "metafora-dvortsa-rassela",
+   "metafora-verstaka-rassela",
+   "semanticheskaya-zavershennost"
+  ]
+ },
+ {
+  "id": "kontseptualnaya-peregruzka",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Концептуальная перегрузка",
+  "title_en": "Conceptual overloading",
+  "status": "draft",
+  "tags": [
+   "классическая-картина-концепций",
+   "метафора-дома",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/kontseptualnaya-peregruzka",
+  "portrait": null,
+  "sections": [
+   "chapter_3_i",
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "deflyatsionizm",
+   "klassicheskoe-skleivanie",
+   "metafora-dvortsa-rassela"
+  ]
+ },
+ {
+  "id": "obshchie-imena",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Общие имена",
+  "title_en": "general names / general terms",
+  "status": "draft",
+  "tags": [
+   "семантика",
+   "номинализм",
+   "предикаты",
+   "заготовка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/obshchie-imena",
+  "portrait": null,
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "deflyatsionizm",
+   "george-berkeley"
+  ]
+ },
+ {
+  "id": "otkrytaya-tekstura",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Открытая текстура",
+  "title_en": "open texture",
+  "status": "draft",
+  "tags": [
+   "семантика",
+   "философия-языка",
+   "заготовка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/otkrytaya-tekstura",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "blujdayushee-kachestvo",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "participatory-idealism",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Партиципативный идеализм",
+  "title_en": "participatory idealism",
+  "status": "draft",
+  "tags": [
+   "философия-сознания",
+   "идеализм",
+   "участие",
+   "субъективизм",
+   "этномузыковедение"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/participatory-idealism",
+  "portrait": null,
+  "sections": [
+   "chapter_2_v",
+   "chapter_2_vii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "jeff-todd-titon",
+   "semantic-holism",
+   "tim-erikson"
+  ]
+ },
+ {
+  "id": "problemy-filosofii-1912",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "«Проблемы философии» (1912)",
+  "title_en": "The Problems of Philosophy (1912)",
+  "status": "draft",
+  "tags": [
+   "ключевая-работа",
+   "источник-фреймворка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/problemy-filosofii-1912",
+  "portrait": null,
+  "sections": [
+   "chapter_1_ii",
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "bertrand-russell",
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "quine-nominalism",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Куайновский (мягкий) номинализм",
+  "title_en": "Quinean nominalism",
+  "status": "draft",
+  "tags": [
+   "онтология",
+   "номинализм",
+   "дефляционизм",
+   "заготовка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/quine-nominalism",
+  "portrait": null,
+  "sections": [],
+  "chapters": [
+   3,
+   5
+  ],
+  "links": [
+   "deflyatsionizm",
+   "george-berkeley",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "semantic-holism",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Семантический холизм",
+  "title_en": "semantic holism",
+  "status": "draft",
+  "tags": [
+   "семантика",
+   "философия-языка",
+   "холизм",
+   "постструктурализм",
+   "этномузыковедение"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/semantic-holism",
+  "portrait": null,
+  "sections": [
+   "chapter_2_v"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "david-whisnant",
+   "jeff-todd-titon",
+   "participatory-idealism",
+   "semanticheskaya-zavershennost",
+   "timothy-cooley"
+  ]
+ },
+ {
+  "id": "semanticheskaya-zavershennost",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Семантическая завершённость",
+  "title_en": "semantic finality",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "семантика",
+   "классическая-картина",
+   "сквозной-термин"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/semanticheskaya-zavershennost",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "blujdayushee-kachestvo",
+   "chuvstvitelnost-k-kontekstu",
+   "doctor-seuss",
+   "jean-piaget",
+   "klassicheskaya-kartina-kontseptsiy",
+   "ray-jackendoff",
+   "tezis-silnoy-kompozitsionalnosti",
+   "tik-tok-of-oz"
+  ]
+ },
+ {
+  "id": "sense-data",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Sense data (чувственные данные)",
+  "title_en": "sense data",
+  "status": "draft",
+  "tags": [
+   "философия-восприятия",
+   "остин"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/sense-data",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "j-l-austin",
+   "sense-and-sensibilia"
+  ]
+ },
+ {
+  "id": "staraya-shkola-obydennogo-yazyka",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Старая школа обыденного языка",
+  "title_en": "The old school of ordinary language philosophy",
+  "status": "draft",
+  "tags": [
+   "оксфордская-философия",
+   "метод",
+   "дефляционизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/staraya-shkola-obydennogo-yazyka",
+  "portrait": null,
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "deflyatsionizm",
+   "j-l-austin"
+  ]
+ },
+ {
+  "id": "teoriya-deskriptsy",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Теория дескрипций",
+  "title_en": "Theory of descriptions",
+  "status": "draft",
+  "tags": [
+   "Рассел",
+   "логика",
+   "классическая-картина-концепций"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/teoriya-deskriptsy",
+  "portrait": null,
+  "sections": [
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "bertrand-russell",
+   "klassicheskoe-skleivanie"
+  ]
+ },
+ {
+  "id": "terminy-kontseptualnoy-otsenki",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Термины концептуальной оценки",
+  "title_en": "terms of conceptual assessment",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/terminy-kontseptualnoy-otsenki",
+  "portrait": null,
+  "sections": [
+   "chapter_1_ii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "korobochka-s-the"
+  ]
+ },
+ {
+  "id": "tezis-silnoy-kompozitsionalnosti",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Тезис о сильной композициональности",
+  "title_en": "strong compositionality thesis",
+  "status": "draft",
+  "tags": [
+   "семантика",
+   "классическая-картина"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/tezis-silnoy-kompozitsionalnosti",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "doctor-seuss",
+   "klassicheskaya-kartina-kontseptsiy",
+   "ray-jackendoff",
+   "semanticheskaya-zavershennost"
+  ]
+ },
+ {
+  "id": "tik-tok-of-oz",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "«Tik-Tok of Oz» (эпизод с феей и радугой)",
+  "title_en": "Tik-Tok of Oz",
+  "status": "draft",
+  "tags": [
+   "детская-литература",
+   "радуга"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/tik-tok-of-oz",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "semanticheskaya-zavershennost"
+  ]
+ },
+ {
+  "id": "tip-token",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Различение тип/токен",
+  "title_en": "type/token distinction",
+  "status": "draft",
+  "tags": [
+   "логика",
+   "философия-языка",
+   "универсалии"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/tip-token",
+  "portrait": null,
+  "sections": [
+   "chapter_1_i"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "korobochka-s-the"
+  ]
+ },
+ {
+  "id": "troposfernoe-samodovolstvo",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Тропосферное самодовольство",
+  "title_en": "tropospheric complacency",
+  "status": "draft",
+  "tags": [
+   "ur-философия",
+   "концептуальное-расширение",
+   "хаб"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/troposfernoe-samodovolstvo",
+  "portrait": null,
+  "sections": [
+   "chapter_2_iii",
+   "chapter_2_vii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "charles-darwin",
+   "klassicheskaya-kartina-kontseptsiy",
+   "klatratgidrat",
+   "nataniel-gotorn"
+  ]
+ },
+ {
+  "id": "ur-philosophy",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Ur-философия",
+  "title_en": "ur-philosophy",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/ur-philosophy",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "yadro-kontseptualnogo-soderzhaniya",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Ядро концептуального содержания",
+  "title_en": "core of conceptual content / classical core",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "классическая-картина",
+   "направленности"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/yadro-kontseptualnogo-soderzhaniya",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "blujdayushee-kachestvo",
+   "buksir-skaffi",
+   "david-hume",
+   "ernst-mach",
+   "helen-keller",
+   "inferentsialnaya-napravlennost",
+   "klassicheskaya-kartina-kontseptsiy",
+   "kontseptualnaya-peregruzka",
+   "rene-descartes",
+   "robert-boyle",
+   "thomas-reid"
+  ]
+ },
+ {
+  "id": "amok",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Амок (в состоянии амока)",
+  "title_en": "amok / running amok",
+  "status": "draft",
+  "tags": [
+   "метафора-иррациональности",
+   "критика-философии-языка",
+   "литературная-аллюзия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/amok",
+  "portrait": null,
+  "sections": [
+   "chapter_2_vii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": []
+ },
+ {
+  "id": "buksir-skaffi",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Буксир Скаффи",
+  "title_en": "Scuffy the Tugboat",
+  "status": "draft",
+  "tags": [
+   "заглавная-метафора",
+   "язык-как-течение",
+   "детская-литература"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/buksir-skaffi",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/02-metaphors/assets/scuffy_tugboat.jpg",
+  "sections": [
+   "chapter_3_v"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "blujdayushee-kachestvo",
+   "kontseptualnaya-peregruzka",
+   "korabl-noyrata",
+   "morskie-i-rechnye-metafory",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "dolgonosik-iz-ballady",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Долгоносик из баллады",
+  "title_en": "The weevil from the ballad",
+  "status": "draft",
+  "tags": [
+   "фольклор",
+   "музыкальный-бэкграунд-Уилсона",
+   "осиротевшая-концепция"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/dolgonosik-iz-ballady",
+  "portrait": null,
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "empty-form",
+   "uilson-fiddle-music"
+  ]
+ },
+ {
+  "id": "empty-form",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "«Пустая форма»",
+  "title_en": "empty form",
+  "status": "draft",
+  "tags": [
+   "эпиграф",
+   "предикаты",
+   "классическая-картина",
+   "заготовка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/empty-form",
+  "portrait": null,
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "dolgonosik-iz-ballady",
+   "isaac-hawkins-browne",
+   "klassicheskoe-skleivanie"
+  ]
+ },
+ {
+  "id": "gambit-skvoznoy-termin",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "«Гамбит» — сквозной термин книги",
+  "title_en": "gambit",
+  "status": "draft",
+  "tags": [
+   "методология",
+   "сквозной-термин"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/gambit-skvoznoy-termin",
+  "portrait": null,
+  "sections": [
+   "chapter_1_iii",
+   "chapter_1_ix",
+   "chapter_1_vii",
+   "chapter_1_x"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "obhodnye-strategii-dom-nauki",
+   "t-h-huxley",
+   "terminy-kontseptualnoy-otsenki",
+   "untamed-women"
+  ]
+ },
+ {
+  "id": "korabl-noyrata",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Корабль Нойрата",
+  "title_en": "Neurath's ship / Neurath's boat",
+  "status": "draft",
+  "tags": [
+   "методология",
+   "язык-как-течение",
+   "холизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/korabl-noyrata",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/02-metaphors/assets/neurath_boat.jpg",
+  "sections": [
+   "chapter_1_vii",
+   "chapter_3_v"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "buksir-skaffi",
+   "metafora-morskogo-puteshestviya",
+   "morskie-i-rechnye-metafory",
+   "otto-neurath",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "metafora-dvortsa-rassela",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Дворец (дом) Рассела",
+  "title_en": "Russell's palace (house of classical content)",
+  "status": "draft",
+  "tags": [
+   "метафора-дома",
+   "классическая-картина-концепций",
+   "концептуальная-перегрузка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/metafora-dvortsa-rassela",
+  "portrait": null,
+  "sections": [
+   "chapter_3_iii",
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "bertrand-russell",
+   "klassicheskaya-kartina-kontseptsiy",
+   "kontseptualnaya-peregruzka",
+   "metafora-verstaka-rassela"
+  ]
+ },
+ {
+  "id": "metafora-morskogo-puteshestviya",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Метафора морского путешествия (гавань, Саргассово море, сирены, корабль в море)",
+  "title_en": "harbor / Sargasso Sea / sirens / ship at sea metaphor",
+  "status": "draft",
+  "tags": [
+   "методология",
+   "ur-философия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/metafora-morskogo-puteshestviya",
+  "portrait": null,
+  "sections": [
+   "chapter_1_v",
+   "chapter_1_vii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "korabl-noyrata",
+   "morskie-i-rechnye-metafory",
+   "otto-neurath",
+   "ur-philosophy"
+  ]
+ },
+ {
+  "id": "metafora-puti",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Дорожная метафора (ось колеса, тормоза здравого смысла, ДТП)",
+  "title_en": "road safety metaphor",
+  "status": "draft",
+  "tags": [
+   "риторика",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/metafora-puti",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "metafora-verstaka-rassela",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Баночка клея на верстаке Рассела",
+  "title_en": "Russell's workbench and the jar of glue",
+  "status": "draft",
+  "tags": [
+   "метафора-инструмента",
+   "классическое-склеивание",
+   "Рассел"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/metafora-verstaka-rassela",
+  "portrait": null,
+  "sections": [
+   "chapter_3_iii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "bertrand-russell",
+   "klassicheskoe-skleivanie",
+   "metafora-dvortsa-rassela"
+  ]
+ },
+ {
+  "id": "morskie-i-rechnye-metafory",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Морские и речные метафоры",
+  "title_en": "nautical and river metaphors",
+  "status": "draft",
+  "tags": [
+   "хаб",
+   "MOC",
+   "язык-как-течение",
+   "сквозная-метафора"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/morskie-i-rechnye-metafory",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "blujdayushee-kachestvo",
+   "buksir-skaffi",
+   "kontseptualnaya-peregruzka",
+   "korabl-noyrata",
+   "metafora-morskogo-puteshestviya",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "muzykalnaya-metafora-glavy-2",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Музыкальная метафора (глава 2)",
+  "title_en": "musical metaphor as case study",
+  "status": "draft",
+  "tags": [
+   "ур-философия",
+   "методология",
+   "сквозной-пример"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/muzykalnaya-metafora-glavy-2",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy",
+   "simfoniya-40-mozart",
+   "skripichnaya-muzyka-vostochnogo-kentukki"
+  ]
+ },
+ {
+  "id": "obhodnye-strategii-dom-nauki",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Обходные стратегии: великий дом науки без ключей от парадной двери",
+  "title_en": "back-door gambits into the house of science",
+  "status": "draft",
+  "tags": [
+   "методология",
+   "прикладная-математика"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/obhodnye-strategii-dom-nauki",
+  "portrait": null,
+  "sections": [
+   "chapter_1_vii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "gambit-skvoznoy-termin",
+   "metafora-morskogo-puteshestviya"
+  ]
+ },
+ {
+  "id": "uellsovskaya-pishcha-bogov",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Уэллсовская пища богов",
+  "title_en": "Wells's Food of the Gods",
+  "status": "draft",
+  "tags": [
+   "метафора-раздувания",
+   "философский-метод",
+   "литературная-аллюзия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/uellsovskaya-pishcha-bogov",
+  "portrait": null,
+  "sections": [
+   "chapter_2_vii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": []
+ },
+ {
+  "id": "yazyk-urii-gipa",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Язык Урии Гипа",
+  "title_en": "the Uriah Heeps of language",
+  "status": "draft",
+  "tags": [
+   "диккенс",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/yazyk-urii-gipa",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/02-metaphors/assets/uriah_heep.jpg",
+  "sections": [
+   "chapter_1_iv"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "terminy-kontseptualnoy-otsenki",
+   "ur-philosophy"
+  ]
+ },
+ {
+  "id": "alfred-north-whitehead",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Альфред Норт Уайтхед",
+  "title_en": "Alfred North Whitehead",
+  "status": "draft",
+  "tags": [
+   "философия",
+   "философия-науки",
+   "процессуальная-философия",
+   "математика"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/alfred-north-whitehead",
+  "portrait": null,
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "coleridge",
+   "immanuel-kant",
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "alfred-tennison",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Альфред Теннисон",
+  "title_en": "Alfred, Lord Tennyson",
+  "status": "draft",
+  "tags": [
+   "поэзия",
+   "Викторианская-эпоха"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/alfred-tennison",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/a_tennyson.webp",
+  "sections": [
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "charles-darwin",
+   "godfri-kharold-khardi"
+  ]
+ },
+ {
+  "id": "anthony-of-padua",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Антоний Падуанский",
+  "title_en": "Anthony of Padua",
+  "status": "draft",
+  "tags": [
+   "религия",
+   "риторика",
+   "францисканцы"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/anthony-of-padua",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/saint_anthony.jpg",
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "oliver-heaviside",
+   "p-j-nahin"
+  ]
+ },
+ {
+  "id": "bernard-bosanquet",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Бернард Бозанкет",
+  "title_en": "Bernard Bosanquet",
+  "status": "draft",
+  "tags": [
+   "британский-идеализм",
+   "философия",
+   "логика",
+   "идеализм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/bernard-bosanquet",
+  "portrait": null,
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolic-dreams",
+   "amphibolism",
+   "immanuel-kant"
+  ]
+ },
+ {
+  "id": "bertrand-russell",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Бертран Рассел",
+  "title_en": "Bertrand Russell",
+  "status": "draft",
+  "tags": [
+   "логика",
+   "философия-языка",
+   "аналитическая-философия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/bertrand-russell",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/russel_1936.jpg",
+  "sections": [
+   "chapter_1_ii",
+   "chapter_2_vi",
+   "chapter_3_iii"
+  ],
+  "chapters": [
+   1,
+   2,
+   3
+  ],
+  "links": [
+   "blujdayushee-kachestvo",
+   "gottlob-frege",
+   "harvard-context",
+   "klassicheskaya-kartina-kontseptsiy",
+   "klassicheskoe-skleivanie",
+   "problemy-filosofii-1912",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "buster-keaton",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Бастер Китон",
+  "title_en": "Buster Keaton",
+  "status": "draft",
+  "tags": [
+   "кино",
+   "пример-кейс"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/buster-keaton",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/buster-keaton.jpg",
+  "sections": [
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "david-hume",
+   "inferentsialnaya-napravlennost"
+  ]
+ },
+ {
+  "id": "cary-grant",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Кэри Грант",
+  "title_en": "Cary Grant",
+  "status": "draft",
+  "tags": [
+   "кино",
+   "пример-инструкции"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/cary-grant",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/cary_grant.jpg",
+  "sections": [
+   "chapter_3_v"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "buksir-skaffi",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "charles-darwin",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Чарльз Дарвин",
+  "title_en": "Charles Darwin",
+  "status": "draft",
+  "tags": [
+   "эстетика",
+   "естествознание",
+   "потеря-чувствительности"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/charles-darwin",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/ch_darwin.jpg",
+  "sections": [
+   "chapter_2_ii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "skripichnaya-muzyka-vostochnogo-kentukki",
+   "william-james"
+  ]
+ },
+ {
+  "id": "charles-lamb",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Чарльз Лэмб",
+  "title_en": "Charles Lamb",
+  "status": "draft",
+  "tags": [
+   "эссеистика",
+   "английская-литература"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/charles-lamb",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/c_lamb.jpg",
+  "sections": [
+   "chapter_1_iv"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "religio-medici-tsitata",
+   "thomas-browne"
+  ]
+ },
+ {
+  "id": "charles-marks",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Чарльз Маркс",
+  "title_en": "Charles E. Marks",
+  "status": "draft",
+  "tags": [
+   "философия-сознания",
+   "история-философии",
+   "личный-учитель"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/charles-marks",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/ch_marks.jpg",
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "hilary-putnam",
+   "ludwig-wittgenstein"
+  ]
+ },
+ {
+  "id": "coleridge",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Сэмюэл Тейлор Кольридж",
+  "title_en": "Samuel Taylor Coleridge",
+  "status": "draft",
+  "tags": [
+   "романтизм",
+   "английская-литература",
+   "философия-природы",
+   "философия-науки"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/coleridge",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/s_t_coleridge.jpg",
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolic-dreams",
+   "immanuel-kant",
+   "lake-poets",
+   "william-wordsworth"
+  ]
+ },
+ {
+  "id": "crispin-wright",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Криспин Райт",
+  "title_en": "Crispin Wright",
+  "status": "draft",
+  "tags": [
+   "аналитическая-философия",
+   "философия-языка",
+   "эпистемология",
+   "истина",
+   "объективность"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/crispin-wright",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/c_wright.jpg",
+  "sections": [],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolism",
+   "klassicheskoe-skleivanie",
+   "wilfrid-sellars"
+  ]
+ },
+ {
+  "id": "david-hume",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Дэвид Юм",
+  "title_en": "David Hume",
+  "status": "draft",
+  "tags": [
+   "эмпиризм",
+   "скептицизм",
+   "шотландское-просвещение"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/david-hume",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/d_hume.jpg",
+  "sections": [
+   "chapter_1_ix",
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "buster-keaton",
+   "hilaire-belloc",
+   "inferentsialnaya-napravlennost",
+   "terminy-kontseptualnoy-otsenki"
+  ]
+ },
+ {
+  "id": "david-lewis",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Дэвид Льюис",
+  "title_en": "David Lewis",
+  "status": "draft",
+  "tags": [
+   "метафизика",
+   "философия-языка",
+   "возможные-миры"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/david-lewis",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/d_lewis.jpg",
+  "sections": [
+   "chapter_1_viii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "bertrand-russell",
+   "harvard-context",
+   "klassicheskaya-kartina-kontseptsiy",
+   "michael-dummett",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "david-whisnant",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Дэвид Э. Уизнант",
+  "title_en": "David E. Whisnant",
+  "status": "draft",
+  "tags": [
+   "фольклористика",
+   "этномузыковедение",
+   "культурная-политика",
+   "сохранение-культуры",
+   "культурная-инаковость"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/david-whisnant",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/d-whisnant.webp",
+  "sections": [
+   "chapter_2_v"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "jeff-todd-titon",
+   "semantic-holism",
+   "timothy-cooley"
+  ]
+ },
+ {
+  "id": "doctor-seuss",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Доктор Зойс (Доктор Сьюз)",
+  "title_en": "Dr. Seuss",
+  "status": "draft",
+  "tags": [
+   "детская-литература",
+   "юмор"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/doctor-seuss",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/dr_seuss.jpg",
+  "sections": [
+   "chapter_1_vi"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "tezis-silnoy-kompozitsionalnosti"
+  ]
+ },
+ {
+  "id": "duke-of-iron",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Железный Герцог",
+  "title_en": "The Duke of Iron",
+  "status": "draft",
+  "tags": [
+   "калипсо",
+   "музыка",
+   "эпиграф"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/duke-of-iron",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/duke_of_iron.jpg",
+  "sections": [
+   "chapter_1_i"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "roaring-lion"
+  ]
+ },
+ {
+  "id": "dzherri-fodor",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Джерри Фодор",
+  "title_en": "Jerry Fodor",
+  "status": "draft",
+  "tags": [
+   "философия-сознания",
+   "концепты",
+   "когнитивная-наука"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/dzherri-fodor",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/j-fodor.png",
+  "sections": [
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "genericheskie-primery"
+  ]
+ },
+ {
+  "id": "edward-lippmann",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Эдвард Липпман",
+  "title_en": "Edward Lippmann",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "эстетика",
+   "психология-восприятия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/edward-lippmann",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/lippmann.jpg.webp",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "charles-darwin",
+   "skripichnaya-muzyka-vostochnogo-kentukki",
+   "wolfgang-hildesheimer"
+  ]
+ },
+ {
+  "id": "ernst-mach",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Эрнст Мах",
+  "title_en": "Ernst Mach",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "философия-науки",
+   "позитивизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/ernst-mach",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/ernst_mach.webp",
+  "sections": [
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "helen-keller",
+   "pierre-duhem",
+   "yadro-kontseptualnogo-soderzhaniya"
+  ]
+ },
+ {
+  "id": "f-t-vischer",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Ф. Т. Вишер",
+  "title_en": "Friedrich Theodor Vischer",
+  "status": "draft",
+  "tags": [
+   "эстетика",
+   "немецкая-философия",
+   "философия-музыки",
+   "романтизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/f-t-vischer",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/f_t_vischer.jpg",
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolic-dreams",
+   "amphibolism"
+  ]
+ },
+ {
+  "id": "frank-and-anne-warner",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Фрэнк и Энн Уорнер",
+  "title_en": "Frank and Anne Warner",
+  "status": "draft",
+  "tags": [
+   "фольклористика",
+   "этномузыковедение",
+   "традиционная-музыка",
+   "полевые-записи",
+   "сохранение-музыки",
+   "американский-фольклор"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/frank-and-anne-warner",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/the_warners.jpg",
+  "sections": [
+   "chapter_2_v"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "jeff-todd-titon",
+   "participatory-idealism",
+   "semantic-holism",
+   "tim-erikson"
+  ]
+ },
+ {
+  "id": "frank-jackson",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Фрэнк Джексон",
+  "title_en": "Frank Jackson",
+  "status": "draft",
+  "tags": [
+   "философия-сознания",
+   "субъективизм",
+   "квалиа",
+   "музыкальное-восприятие"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/frank-jackson",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/jackson.jpg",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy",
+   "vasco-ronchi"
+  ]
+ },
+ {
+  "id": "franz-reuleaux",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Франц Рёло",
+  "title_en": "Franz Reuleaux",
+  "status": "draft",
+  "tags": [
+   "машиностроение",
+   "история-техники"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/franz-reuleaux",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/freuleaux.jpg",
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "jacques-hadamard",
+   "oliver-heaviside"
+  ]
+ },
+ {
+  "id": "fritz-winckel",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Фриц Винкель",
+  "title_en": "Fritz Winckel",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "акустика",
+   "комбинационные-тоны",
+   "субъективизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/fritz-winckel",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/f_winckel.png",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "giuseppe-tartini",
+   "paul-hindemith",
+   "vasco-ronchi"
+  ]
+ },
+ {
+  "id": "george-berkeley",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Джордж Беркли",
+  "title_en": "George Berkeley",
+  "status": "draft",
+  "tags": [
+   "номинализм",
+   "абстрактные-идеи",
+   "эмпиризм-XVIII-века"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/george-berkeley",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/g_berkeley.jpg",
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "deflyatsionizm",
+   "obshchie-imena"
+  ]
+ },
+ {
+  "id": "giuseppe-tartini",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Джузеппе Тартини",
+  "title_en": "Giuseppe Tartini",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "акустика",
+   "комбинационные-тоны",
+   "скрипка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/giuseppe-tartini",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/tartini.jpg",
+  "sections": [
+   "chapter_2_iv",
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "hermann-helmholtz",
+   "paul-hindemith",
+   "w-a-sorge"
+  ]
+ },
+ {
+  "id": "godfri-kharold-khardi",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Годфри Харольд Харди",
+  "title_en": "G. H. Hardy",
+  "status": "draft",
+  "tags": [
+   "математика",
+   "расходящиеся-ряды",
+   "определения"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/godfri-kharold-khardi",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/gotfrey-harold-hardy.jpg",
+  "sections": [
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "alfred-tennison",
+   "bertrand-russell",
+   "nils-abel",
+   "ogyusten-koshi",
+   "problema-raskhodyashchikhsya-ryadov"
+  ]
+ },
+ {
+  "id": "gottlob-frege",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Готлоб Фреге",
+  "title_en": "Gottlob Frege",
+  "status": "draft",
+  "tags": [
+   "логика",
+   "философия-математики",
+   "основоположник-аналитической-традиции"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/gottlob-frege",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/frege.jpg",
+  "sections": [
+   "chapter_1_ii",
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "bertrand-russell",
+   "klassicheskaya-kartina-kontseptsiy",
+   "klassicheskoe-skleivanie"
+  ]
+ },
+ {
+  "id": "heinrich-hertz",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Генрих Герц",
+  "title_en": "Heinrich Hertz",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "философия-механики",
+   "холизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/heinrich-hertz",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/h_hertz.jpg",
+  "sections": [
+   "chapter_1_ix"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "hermann-helmholtz"
+  ]
+ },
+ {
+  "id": "helen-keller",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Хелен Келлер",
+  "title_en": "Helen Keller",
+  "status": "draft",
+  "tags": [
+   "восприятие",
+   "цвет",
+   "пример-кейс"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/helen-keller",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/helen_keller.jpg",
+  "sections": [
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "ernst-mach",
+   "inferentsialnaya-napravlennost",
+   "thomas-reid",
+   "yadro-kontseptualnogo-soderzhaniya"
+  ]
+ },
+ {
+  "id": "hermann-helmholtz",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Герман фон Гельмгольц",
+  "title_en": "Hermann von Helmholtz",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "холизм",
+   "история-науки"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/hermann-helmholtz",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/h_helmholtz.jpg",
+  "sections": [
+   "chapter_1_ix"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "heinrich-hertz"
+  ]
+ },
+ {
+  "id": "hilaire-belloc",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Хилэр Беллок",
+  "title_en": "Hilaire Belloc",
+  "status": "draft",
+  "tags": [
+   "литература",
+   "юмор",
+   "цитата"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/hilaire-belloc",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/h_belloc.jpg",
+  "sections": [
+   "chapter_1_ix"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "david-hume",
+   "doctor-seuss"
+  ]
+ },
+ {
+  "id": "hilary-putnam",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Хилари Патнэм",
+  "title_en": "Hilary Putnam",
+  "status": "draft",
+  "tags": [
+   "философия-языка",
+   "философия-сознания",
+   "философия-науки"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/hilary-putnam",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/putnam.jpg",
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "bertrand-russell",
+   "harvard-context",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "immanuel-kant",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Иммануил Кант",
+  "title_en": "Immanuel Kant",
+  "status": "draft",
+  "tags": [
+   "немецкая-философия",
+   "трансцендентальная-философия",
+   "эпистемология",
+   "амфиболизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/immanuel-kant",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/i_kant.jpg",
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolism",
+   "bernard-bosanquet",
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "isaac-hawkins-browne",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Исаак Хокинс Браун",
+  "title_en": "Isaac Hawkins Browne",
+  "status": "draft",
+  "tags": [
+   "эпиграф",
+   "поэзия-XVIII-века",
+   "эмблема-главы"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/isaac-hawkins-browne",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/isaac_hawkins_browne.jpg",
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "empty-form"
+  ]
+ },
+ {
+  "id": "isaac-newton",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Исаак Ньютон",
+  "title_en": "Isaac Newton",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "история-науки",
+   "классическая-механика"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/isaac-newton",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/i_newton.jpg",
+  "sections": [
+   "chapter_1_iii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy",
+   "nyuton-issledovaniya-sveta",
+   "oliver-heaviside"
+  ]
+ },
+ {
+  "id": "j-l-austin",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Дж. Л. Остин",
+  "title_en": "John Langshaw Austin",
+  "status": "draft",
+  "tags": [
+   "философия-языка",
+   "теория-речевых-актов",
+   "обыденный-язык"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/j-l-austin",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/jlaustin.jpg",
+  "sections": [
+   "chapter_1_v",
+   "chapter_3_i"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "gleichschaltung-ostin",
+   "thomas-reid"
+  ]
+ },
+ {
+  "id": "jacques-hadamard",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Жак Адамар",
+  "title_en": "Jacques Hadamard",
+  "status": "draft",
+  "tags": [
+   "прикладная-математика",
+   "история-физики"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/jacques-hadamard",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/hadamard.jpg",
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "blujdayushee-kachestvo",
+   "franz-reuleaux",
+   "oliver-heaviside"
+  ]
+ },
+ {
+  "id": "james-thomson",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Джеймс Томсон",
+  "title_en": "James Thomson",
+  "status": "draft",
+  "tags": [
+   "поэзия",
+   "XVIII-век",
+   "источник-эпиграфа"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/james-thomson",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/james_thomson.jpg",
+  "sections": [
+   "chapter_1_iii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "isaac-newton",
+   "nyuton-issledovaniya-sveta"
+  ]
+ },
+ {
+  "id": "jean-piaget",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Жан Пиаже",
+  "title_en": "Jean Piaget",
+  "status": "draft",
+  "tags": [
+   "психология",
+   "когнитивное-развитие"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/jean-piaget",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/j_piaget.png",
+  "sections": [
+   "chapter_1_vi"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "semanticheskaya-zavershennost",
+   "tik-tok-of-oz"
+  ]
+ },
+ {
+  "id": "jeff-todd-titon",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Джефф Тодд Титон",
+  "title_en": "Jeff Todd Titon",
+  "status": "draft",
+  "tags": [
+   "этномузыковедение",
+   "фольклористика",
+   "философия-музыки",
+   "субъективизм",
+   "партиципативность"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/jeff-todd-titon",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/j_titon.jpg",
+  "sections": [
+   "chapter_2_v",
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   2,
+   3
+  ],
+  "links": [
+   "david-whisnant",
+   "participatory-idealism",
+   "semantic-holism",
+   "tim-erikson",
+   "timothy-cooley"
+  ]
+ },
+ {
+  "id": "john-dewey",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Джон Дьюи",
+  "title_en": "John Dewey",
+  "status": "draft",
+  "tags": [
+   "прагматизм",
+   "философия-образования"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/john-dewey",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/j_dewey.jpg",
+  "sections": [
+   "chapter_1_iv",
+   "chapter_2_iv",
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   1,
+   2,
+   3
+  ],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "joseph-addison",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Джозеф Аддисон",
+  "title_en": "Joseph Addison",
+  "status": "draft",
+  "tags": [
+   "английская-литература",
+   "эстетика",
+   "философия-восприятия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/joseph-addison",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/j_addison.jpg",
+  "sections": [
+   "chapter_2_vi",
+   "chapter_3_i"
+  ],
+  "chapters": [
+   2,
+   3
+  ],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy",
+   "lake-poets",
+   "t-h-huxley"
+  ]
+ },
+ {
+  "id": "l-susan-stebbing",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Л. Сьюзен Стеббинг",
+  "title_en": "L. Susan Stebbing",
+  "status": "draft",
+  "tags": [
+   "аналитическая-философия",
+   "философия-науки",
+   "логика",
+   "критика-физикализма"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/l-susan-stebbing",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/s_stebbing.jpg",
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "alfred-north-whitehead",
+   "amphibolism",
+   "immanuel-kant"
+  ]
+ },
+ {
+  "id": "leonhard-euler",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Леонард Эйлер",
+  "title_en": "Leonhard Euler",
+  "status": "draft",
+  "tags": [
+   "математика",
+   "история-науки"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/leonhard-euler",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/leonard-euler.jpg",
+  "sections": [
+   "chapter_1_vi"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "chuvstvitelnost-k-kontekstu"
+  ]
+ },
+ {
+  "id": "ludwig-wittgenstein",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Людвиг Витгенштейн",
+  "title_en": "Ludwig Wittgenstein",
+  "status": "draft",
+  "tags": [
+   "философия-языка",
+   "аналитическая-философия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/ludwig-wittgenstein",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/l_vitgenshtejn.jpg",
+  "sections": [
+   "chapter_1_iii",
+   "chapter_1_ix",
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "bitva-pri-eyname",
+   "blujdayushee-kachestvo",
+   "charles-marks",
+   "filosofskie-issledovaniya-vitgenshteyna",
+   "harvard-context",
+   "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+   "klassicheskaya-kartina-kontseptsiy",
+   "klassicheskoe-skleivanie",
+   "logiko-filosofsky-traktat"
+  ]
+ },
+ {
+  "id": "m-h-abrams",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "М. Х. Абрамс",
+  "title_en": "M. H. Abrams",
+  "status": "draft",
+  "tags": [
+   "литературоведение",
+   "романтизм",
+   "теория-литературы",
+   "философия-романтизма"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/m-h-abrams",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/m_abrams.jpg",
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolic-dreams",
+   "coleridge",
+   "william-wordsworth"
+  ]
+ },
+ {
+  "id": "michael-dummett",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Майкл Даммит",
+  "title_en": "Michael Dummett",
+  "status": "draft",
+  "tags": [
+   "философия-языка",
+   "антиреализм",
+   "фреге"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/michael-dummett",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/m_dummet.jpg",
+  "sections": [
+   "chapter_1_viii",
+   "chapter_3_iii"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "gottlob-frege",
+   "klassicheskaya-kartina-kontseptsiy",
+   "robert-brandom",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "nataniel-gotorn",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Натаниэль Готорн",
+  "title_en": "Nathaniel Hawthorne",
+  "status": "draft",
+  "tags": [
+   "литература",
+   "тропосферное-самодовольство"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/nataniel-gotorn",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/n-hawthorne.jpg",
+  "sections": [
+   "chapter_2_iii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "osyol-silvestr",
+   "troposfernoe-samodovolstvo"
+  ]
+ },
+ {
+  "id": "nils-abel",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Нильс Хенрик Абель",
+  "title_en": "Niels Henrik Abel",
+  "status": "draft",
+  "tags": [
+   "математика",
+   "расходящиеся-ряды"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/nils-abel",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/nils_abel.jpg",
+  "sections": [
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "godfri-kharold-khardi",
+   "problema-raskhodyashchikhsya-ryadov"
+  ]
+ },
+ {
+  "id": "ogyusten-koshi",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Огюстен Луи Коши",
+  "title_en": "Augustin-Louis Cauchy",
+  "status": "draft",
+  "tags": [
+   "математика",
+   "анализ",
+   "определения"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/ogyusten-koshi",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/augustin_cauchy.jpg",
+  "sections": [
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "godfri-kharold-khardi",
+   "problema-raskhodyashchikhsya-ryadov"
+  ]
+ },
+ {
+  "id": "oliver-heaviside",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Оливер Хевисайд",
+  "title_en": "Oliver Heaviside",
+  "status": "draft",
+  "tags": [
+   "электротехника",
+   "история-физики"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/oliver-heaviside",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/oheaviside.jpg",
+  "sections": [
+   "chapter_3_v",
+   "predislovie"
+  ],
+  "chapters": [
+   0,
+   3
+  ],
+  "links": [
+   "blujdayushee-kachestvo",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "otto-neurath",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Отто Нейрат",
+  "title_en": "Otto Neurath",
+  "status": "draft",
+  "tags": [
+   "венский-кружок",
+   "логический-позитивизм",
+   "методология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/otto-neurath",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/otto_neurath.jpg",
+  "sections": [
+   "chapter_1_vii",
+   "chapter_3_v"
+  ],
+  "chapters": [
+   1,
+   3
+  ],
+  "links": [
+   "korabl-noyrata",
+   "metafora-morskogo-puteshestviya",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "p-j-nahin",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Пол Дж. Нахин",
+  "title_en": "Paul J. Nahin",
+  "status": "draft",
+  "tags": [
+   "электротехника",
+   "история-физики",
+   "научпоп"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/p-j-nahin",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/nahin.jpg",
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "oliver-heaviside"
+  ]
+ },
+ {
+  "id": "paul-hindemith",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Пауль Хиндемит",
+  "title_en": "Paul Hindemith",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "композиция",
+   "акустика",
+   "комбинационные-тоны"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/paul-hindemith",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/hindemith.jpg",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "fritz-winckel",
+   "giuseppe-tartini"
+  ]
+ },
+ {
+  "id": "pierre-duhem",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Пьер Дюгем",
+  "title_en": "Pierre Duhem",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "философия-науки",
+   "история-науки"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/pierre-duhem",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/pierre_duhem.jpg",
+  "sections": [
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "ernst-mach",
+   "robert-boyle",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "r-southey",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Роберт Саути",
+  "title_en": "Robert Southey",
+  "status": "draft",
+  "tags": [
+   "романтизм",
+   "английская-литература",
+   "озёрная-школа"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/r-southey",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/r_southey.jpg",
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "coleridge",
+   "lake-poets",
+   "william-wordsworth"
+  ]
+ },
+ {
+  "id": "ray-jackendoff",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Рэй Джекендофф",
+  "title_en": "Ray Jackendoff",
+  "status": "draft",
+  "tags": [
+   "лингвистика",
+   "семантика"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/ray-jackendoff",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/r_jackendoff.jpg",
+  "sections": [
+   "chapter_1_vi"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "semanticheskaya-zavershennost",
+   "tezis-silnoy-kompozitsionalnosti"
+  ]
+ },
+ {
+  "id": "rene-descartes",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Рене Декарт",
+  "title_en": "René Descartes",
+  "status": "draft",
+  "tags": [
+   "рационализм",
+   "механистическая-философия",
+   "геометрия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/rene-descartes",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/rene_descartes.jpg",
+  "sections": [
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "david-hume",
+   "inferentsialnaya-napravlennost",
+   "robert-boyle",
+   "thomas-reid",
+   "yadro-kontseptualnogo-soderzhaniya"
+  ]
+ },
+ {
+  "id": "richard-vagner",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Рихард Вагнер",
+  "title_en": "Richard Wagner",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "цитируемый-автор"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/richard-vagner",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/r_wagner.jpg",
+  "sections": [
+   "chapter_2_i"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "simfoniya-40-mozart",
+   "wolfgang-amadeus-mozart"
+  ]
+ },
+ {
+  "id": "roaring-lion",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Могучий Лев (в оригинале — Roaring Lion, точнее «Ревущий/Рычащий Лев»)",
+  "title_en": "Roaring Lion",
+  "status": "draft",
+  "tags": [
+   "калипсо",
+   "музыка",
+   "авторство"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/roaring-lion",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/roaring_lion.jpg",
+  "sections": [
+   "chapter_1_i"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "blujdayushee-kachestvo",
+   "duke-of-iron",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "robert-boyle",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Роберт Бойль",
+  "title_en": "Robert Boyle",
+  "status": "draft",
+  "tags": [
+   "химия",
+   "механистическая-философия",
+   "история-физики"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/robert-boyle",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/robert_boyle.jpg",
+  "sections": [
+   "chapter_3_vi"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "david-hume",
+   "inferentsialnaya-napravlennost",
+   "isaac-newton",
+   "rene-descartes"
+  ]
+ },
+ {
+  "id": "robert-brandom",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Роберт Брэндом",
+  "title_en": "Robert Brandom",
+  "status": "draft",
+  "tags": [
+   "философия-языка",
+   "инференциализм",
+   "питтсбург"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/robert-brandom",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/r_brandom.jpg",
+  "sections": [
+   "chapter_1_viii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "blagodarnosti-predisloviya",
+   "klassicheskaya-kartina-kontseptsiy",
+   "michael-dummett",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "robert-fludd",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Роберт Фладд",
+  "title_en": "Robert Fludd",
+  "status": "draft",
+  "tags": [
+   "ренессанс",
+   "эзотерика",
+   "музыка",
+   "объективизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/robert-fludd",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/r_fludd.jpg",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "isaac-newton",
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "robert-ingersoll",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Роберт Ингерсолл",
+  "title_en": "Robert Ingersoll",
+  "status": "draft",
+  "tags": [
+   "риторика",
+   "метафора-типаж"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/robert-ingersoll",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/r_ingersoll.jpg",
+  "sections": [
+   "chapter_1_ii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "t-h-huxley",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Томас Генри Хаксли",
+  "title_en": "Thomas Henry Huxley",
+  "status": "draft",
+  "tags": [
+   "биология",
+   "история-науки",
+   "викторианская-эпоха"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/t-h-huxley",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/t_h_huxley.jpg",
+  "sections": [
+   "chapter_1_iv",
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   1,
+   2
+  ],
+  "links": [
+   "joseph-addison",
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "thomas-browne",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Сэр Томас Браун",
+  "title_en": "Sir Thomas Browne",
+  "status": "draft",
+  "tags": [
+   "английская-литература",
+   "XVII-век"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/thomas-browne",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/th_browne.jpg",
+  "sections": [
+   "chapter_1_iv"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "charles-lamb",
+   "religio-medici-tsitata"
+  ]
+ },
+ {
+  "id": "thomas-reid",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Томас Рид",
+  "title_en": "Thomas Reid",
+  "status": "draft",
+  "tags": [
+   "эпистемология",
+   "философия-восприятия",
+   "здравый-смысл"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/thomas-reid",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/thomas_reid.jpg",
+  "sections": [
+   "chapter_2_v",
+   "chapter_3_vi",
+   "predislovie"
+  ],
+  "chapters": [
+   0,
+   2,
+   3
+  ],
+  "links": [
+   "helen-keller",
+   "inferentsialnaya-napravlennost",
+   "j-l-austin",
+   "rene-descartes",
+   "yadro-kontseptualnogo-soderzhaniya"
+  ]
+ },
+ {
+  "id": "tim-erikson",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Тим Эриксон",
+  "title_en": "Tim Erikson",
+  "status": "draft",
+  "tags": [
+   "фольклористика",
+   "этномузыковедение",
+   "сохранение-музыки",
+   "исполнение",
+   "партиципативность"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/tim-erikson",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/t_erikson.webp",
+  "sections": [
+   "chapter_2_v"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "jeff-todd-titon",
+   "participatory-idealism"
+  ]
+ },
+ {
+  "id": "timothy-cooley",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Тимоти Дж. Кули",
+  "title_en": "Timothy J. Cooley",
+  "status": "draft",
+  "tags": [
+   "этномузыковедение",
+   "фольклористика",
+   "постструктурализм",
+   "семантический-холизм",
+   "объективность"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/timothy-cooley",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/t_cooley.jpg",
+  "sections": [
+   "chapter_2_v"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "david-whisnant",
+   "jeff-todd-titon",
+   "semantic-holism"
+  ]
+ },
+ {
+  "id": "uilyam-okkam",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Уильям Оккам",
+  "title_en": "William of Ockham",
+  "status": "draft",
+  "tags": [
+   "схоластика",
+   "философия-языка",
+   "терминизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/uilyam-okkam",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/william_of_ockham.jpg",
+  "sections": [
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "intentsionalno-obosnovannaya-predikatnaya-znachimost"
+  ]
+ },
+ {
+  "id": "vasco-ronchi",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Васко Рончи",
+  "title_en": "Vasco Ronchi",
+  "status": "draft",
+  "tags": [
+   "оптика",
+   "физика",
+   "субъективизм",
+   "звук"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/vasco-ronchi",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/ronchi.jpg",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "isaac-newton",
+   "nyuton-issledovaniya-sveta"
+  ]
+ },
+ {
+  "id": "volker-scherliess",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Фолькер Шерлисс",
+  "title_en": "Volker Scherliess",
+  "status": "draft",
+  "tags": [
+   "музыковедение",
+   "цитируемый-автор"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/volker-scherliess",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/v_scherliess.jpg",
+  "sections": [
+   "chapter_2_i"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "simfoniya-40-mozart"
+  ]
+ },
+ {
+  "id": "w-a-sorge",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Георг Андреас Зорге",
+  "title_en": "G.A. Sorge",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "акустика",
+   "комбинационные-тоны"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/w-a-sorge",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/sorge.jpg",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "giuseppe-tartini",
+   "hermann-helmholtz"
+  ]
+ },
+ {
+  "id": "wilfrid-sellars",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Уилфрид Селларс",
+  "title_en": "Wilfrid Sellars",
+  "status": "draft",
+  "tags": [
+   "аналитическая-философия",
+   "философия-языка",
+   "философия-разума",
+   "прагматизм"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/wilfrid-sellars",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/w_sellars.jpg",
+  "sections": [],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolism",
+   "john-dewey",
+   "klassicheskoe-skleivanie"
+  ]
+ },
+ {
+  "id": "willard-quine",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Уиллард Куайн",
+  "title_en": "Willard Van Orman Quine",
+  "status": "draft",
+  "tags": [
+   "семантика",
+   "философия-логики",
+   "эпистемология"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/willard-quine",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/quinewo.jpg",
+  "sections": [
+   "chapter_3_i",
+   "chapter_3_ii",
+   "chapter_3_v",
+   "predislovie"
+  ],
+  "chapters": [
+   0,
+   3
+  ],
+  "links": [
+   "bertrand-russell",
+   "blujdayushee-kachestvo",
+   "buksir-skaffi",
+   "cary-grant",
+   "george-berkeley",
+   "harvard-context",
+   "hilary-putnam",
+   "korabl-noyrata",
+   "oliver-heaviside",
+   "otkrytaya-tekstura",
+   "otto-neurath"
+  ]
+ },
+ {
+  "id": "william-hazlitt",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Уильям Хэзлитт",
+  "title_en": "William Hazlitt",
+  "status": "draft",
+  "tags": [
+   "эссеистика",
+   "стилистический-образец"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/william-hazlitt",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/w_hazlitt.jpg",
+  "sections": [
+   "chapter_1_xi"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "david-hume"
+  ]
+ },
+ {
+  "id": "william-james",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Уильям Джеймс",
+  "title_en": "William James",
+  "status": "draft",
+  "tags": [
+   "психология",
+   "изменчивость-восприятия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/william-james",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/w_james.jpg",
+  "sections": [
+   "chapter_2_ii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "charles-darwin"
+  ]
+ },
+ {
+  "id": "william-wordsworth",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Уильям Вордсворт",
+  "title_en": "William Wordsworth",
+  "status": "draft",
+  "tags": [
+   "романтизм",
+   "английская-литература",
+   "философия-природы",
+   "озёрная-школа"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/william-wordsworth",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/wordsworth.jpg",
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolic-dreams",
+   "coleridge",
+   "lake-poets",
+   "m-h-abrams"
+  ]
+ },
+ {
+  "id": "wolfgang-amadeus-mozart",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Вольфганг Амадей Моцарт",
+  "title_en": "Wolfgang Amadeus Mozart",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "пример-центральная-фигура"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/wolfgang-amadeus-mozart",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/mozart.jpg",
+  "sections": [
+   "chapter_2_i"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "richard-vagner",
+   "simfoniya-40-mozart"
+  ]
+ },
+ {
+  "id": "wolfgang-hildesheimer",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Вольфганг Хильдесхаймер",
+  "title_en": "Wolfgang Hildesheimer",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "эстетика",
+   "музыкальное-восприятие"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/wolfgang-hildesheimer",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/hildesheimer.jpg",
+  "sections": [
+   "chapter_2_iv"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "charles-darwin",
+   "edward-lippmann"
+  ]
+ },
+ {
+  "id": "korobochka-s-the",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "Коробочка со словом «the» (казус Армстронга)",
+  "title_en": null,
+  "status": "draft",
+  "tags": [
+   "универсалии",
+   "педагогика-философии",
+   "ирония"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/korobochka-s-the",
+  "portrait": null,
+  "sections": [
+   "chapter_1_i"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "tip-token"
+  ]
+ },
+ {
+  "id": "nyuton-issledovaniya-sveta",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "Ньютоновские исследования света (призма)",
+  "title_en": null,
+  "status": "draft",
+  "tags": [
+   "физика",
+   "история-науки",
+   "аналогия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/nyuton-issledovaniya-sveta",
+  "portrait": null,
+  "sections": [
+   "chapter_1_iii"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "isaac-newton",
+   "james-thomson",
+   "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "oklahoma-hoedown-primer",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "«Хоудаун» из Оклахомы (казус хлопающей публики)",
+  "title_en": "Oklahoma Hoedown case",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "субъективность-восприятия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/oklahoma-hoedown-primer",
+  "portrait": null,
+  "sections": [
+   "chapter_2_i"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "simfoniya-40-mozart",
+   "skripichnaya-muzyka-vostochnogo-kentukki"
+  ]
+ },
+ {
+  "id": "problema-raskhodyashchikhsya-ryadov",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "Проблема расходящихся рядов",
+  "title_en": "The problem of divergent series",
+  "status": "draft",
+  "tags": [
+   "математика",
+   "определения",
+   "методология",
+   "Харди"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/problema-raskhodyashchikhsya-ryadov",
+  "portrait": null,
+  "sections": [
+   "chapter_3_iv"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "bertrand-russell",
+   "godfri-kharold-khardi",
+   "nils-abel",
+   "ogyusten-koshi"
+  ]
+ },
+ {
+  "id": "raki-i-somy",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "Раки и сомы (crayfish / catfish)",
+  "title_en": "crayfish and catfish",
+  "status": "draft",
+  "tags": [
+   "народная-этимология",
+   "классификация",
+   "игра-слов",
+   "непереводимое"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/raki-i-somy",
+  "portrait": null,
+  "sections": [
+   "chapter_3_i"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "blujdayushee-kachestvo"
+  ]
+ },
+ {
+  "id": "simfoniya-40-mozart",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "Симфония №40 соль минор (Моцарт)",
+  "title_en": "Symphony No. 40 in G Minor",
+  "status": "draft",
+  "tags": [
+   "музыка",
+   "ключевой-пример"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/simfoniya-40-mozart",
+  "portrait": null,
+  "sections": [
+   "chapter_2_i"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "richard-vagner",
+   "volker-scherliess",
+   "wolfgang-amadeus-mozart"
+  ]
+ },
+ {
+  "id": "all-hat-no-cattle",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "«All hat and no cattle» / «Big hat, no cattle»",
+  "title_en": "All hat and no cattle",
+  "status": "draft",
+  "tags": [
+   "идиома",
+   "этимология",
+   "классическая-картина-концептов"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/all-hat-no-cattle",
+  "portrait": null,
+  "sections": [
+   "chapter_1_xi"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "alpiyskiy-kurort-komiksy"
+  ]
+ },
+ {
+  "id": "alpiyskiy-kurort-komiksy",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Альпийский курорт в «комических романах»",
+  "title_en": "Alpine resort in \"comic novels\"",
+  "status": "draft",
+  "tags": [
+   "источник-метафоры",
+   "литературный-жанр",
+   "классическая-картина-концептов"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/alpiyskiy-kurort-komiksy",
+  "portrait": null,
+  "sections": [
+   "chapter_1_xi"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "all-hat-no-cattle"
+  ]
+ },
+ {
+  "id": "bitva-pri-eyname",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Битва при Энтитеме (Antietam)",
+  "title_en": "Battle of Antietam",
+  "status": "draft",
+  "tags": [
+   "иллюстрация",
+   "символ",
+   "интенция",
+   "Витгенштейн",
+   "Гражданская-война-в-США",
+   "перевод-неточность"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/bitva-pri-eyname",
+  "portrait": null,
+  "sections": [
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "etimologii-svyatogo-isidora",
+   "logiko-filosofsky-traktat",
+   "ludwig-wittgenstein"
+  ]
+ },
+ {
+  "id": "blagodarnosti-predisloviya",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Благодарности в предисловии: кто есть кто",
+  "title_en": null,
+  "status": null,
+  "tags": [
+   "хаб",
+   "предисловие"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/blagodarnosti-predisloviya",
+  "portrait": null,
+  "sections": [],
+  "chapters": [],
+  "links": []
+ },
+ {
+  "id": "etimologii-svyatogo-isidora",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "«Этимологии» святого Исидора",
+  "title_en": "Etymologiae (Isidore of Seville)",
+  "status": "draft",
+  "tags": [
+   "иллюстрация",
+   "источник",
+   "заготовка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/etimologii-svyatogo-isidora",
+  "portrait": null,
+  "sections": [
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "bitva-pri-eyname"
+  ]
+ },
+ {
+  "id": "gete-arhetipy-vitgenshteyna",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Морфология растений Гёте и архетипы языковых игр Витгенштейна",
+  "title_en": null,
+  "status": "draft",
+  "tags": [
+   "витгенштейн",
+   "методология",
+   "точка-расхождения"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/gete-arhetipy-vitgenshteyna",
+  "portrait": null,
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "blujdayushee-kachestvo",
+   "charles-marks",
+   "ludwig-wittgenstein"
+  ]
+ },
+ {
+  "id": "harvard-context",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Гарвард, 1970-е: контекст",
+  "title_en": null,
+  "status": null,
+  "tags": [
+   "история-философии",
+   "фон"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/harvard-context",
+  "portrait": null,
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "bertrand-russell",
+   "hilary-putnam",
+   "ludwig-wittgenstein",
+   "willard-quine"
+  ]
+ },
+ {
+  "id": "klatratgidrat",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Клатратгидрат (газогидрат)",
+  "title_en": "clathrate hydrate",
+  "status": "draft",
+  "tags": [
+   "химия",
+   "тропосферное-самодовольство",
+   "естественные-виды"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/klatratgidrat",
+  "portrait": null,
+  "sections": [
+   "chapter_2_iii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "cis-formatsiya",
+   "gauche-formatsiya",
+   "troposfernoe-samodovolstvo"
+  ]
+ },
+ {
+  "id": "lake-poets",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Озёрная школа",
+  "title_en": "Lake Poets",
+  "status": "draft",
+  "tags": [
+   "романтизм",
+   "английская-литература",
+   "философия-природы",
+   "поэзия"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/lake-poets",
+  "portrait": null,
+  "sections": [
+   "chapter_2_vi"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "amphibolic-dreams",
+   "coleridge",
+   "m-h-abrams",
+   "r-southey",
+   "william-wordsworth"
+  ]
+ },
+ {
+  "id": "logiko-filosofsky-traktat",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "«Логико-философский трактат»",
+  "title_en": "Tractatus Logico-Philosophicus",
+  "status": "draft",
+  "tags": [
+   "Витгенштейн",
+   "философия-языка",
+   "интенция",
+   "анимизм-символа"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/logiko-filosofsky-traktat",
+  "portrait": null,
+  "sections": [
+   "chapter_3_ii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "bitva-pri-eyname",
+   "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+   "uilyam-okkam"
+  ]
+ },
+ {
+  "id": "osyol-silvestr",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Осёл Сильвестр (из книги «Sylvester and the Magic Pebble»)",
+  "title_en": "Sylvester the donkey (Sylvester and the Magic Pebble)",
+  "status": "draft",
+  "tags": [
+   "детская-литература",
+   "анимизм",
+   "тропосферное-самодовольство"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/osyol-silvestr",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/06-context/assets/sylvestr.jpg",
+  "sections": [
+   "chapter_2_iii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "nataniel-gotorn",
+   "troposfernoe-samodovolstvo"
+  ]
+ },
+ {
+  "id": "religio-medici-tsitata",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "«Religio Medici» и цитата Лэмба о Брауне",
+  "title_en": "Religio Medici",
+  "status": "draft",
+  "tags": [
+   "цитата",
+   "источник",
+   "абстракция",
+   "заготовка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/religio-medici-tsitata",
+  "portrait": null,
+  "sections": [
+   "chapter_1_iv"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "charles-lamb",
+   "thomas-browne"
+  ]
+ },
+ {
+  "id": "sense-and-sensibilia",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "«Sense and Sensibilia» Дж. Л. Остина",
+  "title_en": "Sense and Sensibilia",
+  "status": "draft",
+  "tags": [
+   "остин",
+   "обыденный-язык",
+   "источник",
+   "заготовка"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/sense-and-sensibilia",
+  "portrait": null,
+  "sections": [
+   "chapter_1_v"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": [
+   "gleichschaltung-ostin",
+   "j-l-austin",
+   "sense-data",
+   "staraya-shkola-obydennogo-yazyka"
+  ]
+ },
+ {
+  "id": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Скрипичная музыка Восточного Кентукки (собирательская практика Уилсона)",
+  "title_en": "old-time fiddle tunes of eastern Kentucky",
+  "status": "draft",
+  "tags": [
+   "фольклор",
+   "биография-автора",
+   "хаб"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/skripichnaya-muzyka-vostochnogo-kentukki",
+  "portrait": null,
+  "sections": [
+   "chapter_2_i"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "oklahoma-hoedown-primer",
+   "volker-scherliess"
+  ]
+ },
+ {
+  "id": "teksasskaya-skripichnaya-muzyka",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Техасская скрипичная музыка (пример «жажды мажорных септаккордов»)",
+  "title_en": "Texas fiddle music",
+  "status": "draft",
+  "tags": [
+   "фольклор",
+   "забывчивость-через-обучение",
+   "гармония"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/teksasskaya-skripichnaya-muzyka",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/06-context/assets/1901_fort_worth_fiddlers.jpeg",
+  "sections": [
+   "chapter_2_ii"
+  ],
+  "chapters": [
+   2
+  ],
+  "links": [
+   "charles-darwin",
+   "skripichnaya-muzyka-vostochnogo-kentukki"
+  ]
+ },
+ {
+  "id": "uilson-fiddle-music",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Уилсон и старинная скрипичная традиция: реальный биографический контекст",
+  "title_en": null,
+  "status": null,
+  "tags": [
+   "хаб",
+   "биография-автора",
+   "фольклор"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/uilson-fiddle-music",
+  "portrait": null,
+  "sections": [
+   "predislovie"
+  ],
+  "chapters": [
+   0
+  ],
+  "links": [
+   "gambit-skvoznoy-termin"
+  ]
+ },
+ {
+  "id": "untamed-women",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "«Неукротимые женщины» (Untamed Women, 1952)",
+  "title_en": "Untamed Women",
+  "status": "draft",
+  "tags": [
+   "источник-мысленного-эксперимента",
+   "кино",
+   "биография-уилсона"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/untamed-women",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/06-context/assets/un_wom.jpg",
+  "sections": [
+   "chapter_1_ix"
+  ],
+  "chapters": [
+   1
+  ],
+  "links": []
+ }
+]

@@ -5,6 +5,18 @@ title_en: Ernst Mach
 type: персоналия
 status: draft
 years: "1838–1916"
+born: "1838-02-18"
+birth_place: "Хирлиц (Хрлице) близ Брюнна, Моравия"
+birth_coords: [49.13, 16.65]
+died: "1916-02-19"
+death_place: "Фатерштеттен близ Мюнхена, Германия"
+death_coords: [48.105, 11.769]
+nationality: "австриец"
+alma_mater: "Венский университет"
+affiliations: ["Грацский университет", "Пражский (Карлов) университет", "Венский университет"]
+fields: ["физика", "психофизика", "философия науки"]
+sep: "https://plato.stanford.edu/entries/ernst-mach/"
+bio_checked: false
 tags:
   - физика
   - философия-науки

@@ -5,6 +5,19 @@ title_en: Thomas Henry Huxley
 type: персоналия
 status: draft
 years: "1825–1895"
+born: "1825-05-04"
+birth_place: "Илинг, Лондон"
+birth_coords: [51.513, -0.3089]
+died: "1895-06-29"
+death_place: "Истборн, Англия"
+death_coords: [50.768, 0.2905]
+nationality: "британец"
+alma_mater: "Медицинская школа больницы Чаринг-Кросс"
+affiliations: ["Королевская горная школа, Лондон"]
+fields: ["сравнительная анатомия", "эволюционная биология"]
+colleagues: ["[[charles-darwin]]"]
+awards: ["Медаль Копли (1888)"]
+bio_checked: false
 tags:
   - биология
   - история-науки

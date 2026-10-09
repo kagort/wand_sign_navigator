@@ -5,6 +5,16 @@ title_en: Isaac Hawkins Browne
 type: персоналия
 status: draft
 years: 1705–1760
+born: "1705-01-21"
+birth_place: "Бертон-апон-Трент, Англия"
+birth_coords: [52.8019, -1.637]
+died: "1760-02-14"
+death_place: "Лондон"
+death_coords: [51.5074, -0.1278]
+nationality: "британец"
+alma_mater: "Тринити-колледж, Кембридж"
+fields: ["поэзия", "пародия"]
+bio_checked: false
 first_appearance: гл. 3, «Классический клей», эпиграф, с. 137
 tags:
   - эпиграф

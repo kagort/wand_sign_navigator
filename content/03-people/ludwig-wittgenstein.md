@@ -5,6 +5,20 @@ title_en: Ludwig Wittgenstein
 type: персоналия
 status: draft
 years: "1889–1951"
+born: "1889-04-26"
+birth_place: "Вена, Австро-Венгрия"
+birth_coords: [48.2082, 16.3738]
+died: "1951-04-29"
+death_place: "Кембридж, Англия"
+death_coords: [52.2053, 0.1218]
+nationality: "австриец, британский подданный с 1939"
+alma_mater: "Высшая техническая школа Шарлоттенбурга; Манчестерский университет; Тринити-колледж, Кембридж"
+affiliations: ["Тринити-колледж, Кембридж"]
+fields: ["философия языка", "философия логики", "философия математики"]
+teachers: ["[[bertrand-russell]]"]
+colleagues: ["[[gottlob-frege]]"]
+sep: "https://plato.stanford.edu/entries/wittgenstein/"
+bio_checked: false
 tags:
   - философия-языка
   - аналитическая-философия

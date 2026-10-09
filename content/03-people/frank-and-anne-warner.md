@@ -5,6 +5,9 @@ title_en: Frank and Anne Warner
 type: персоналия  
 status: draft  
 years: "Фрэнк: 1903–1978; Энн: 1905–1991"  
+nationality: "американцы"
+fields: ["фольклористика", "полевые записи"]
+bio_checked: false
 tags:
 - фольклористика
 - этномузыковедение

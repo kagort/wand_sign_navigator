@@ -5,6 +5,17 @@ title_en: Helen Keller
 type: персоналия
 status: draft
 years: "1880–1968"
+born: "1880-06-27"
+birth_place: "Таскамбия, Алабама, США"
+birth_coords: [34.7309, -87.7025]
+died: "1968-06-01"
+death_place: "Истон, Коннектикут, США"
+death_coords: [41.25, -73.3]
+nationality: "американка"
+alma_mater: "Рэдклифф-колледж"
+fields: ["литература", "общественная деятельность"]
+awards: ["Президентская медаль Свободы (1964)"]
+bio_checked: false
 tags:
   - восприятие
   - цвет

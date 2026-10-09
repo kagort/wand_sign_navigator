@@ -5,6 +5,11 @@ title_en: Roaring Lion
 type: персоналия
 status: draft
 years: "1908–1999"
+born: "1908"
+died: "1999"
+nationality: "тринидадец"
+fields: ["калипсо"]
+bio_checked: false
 tags:
   - калипсо
   - музыка

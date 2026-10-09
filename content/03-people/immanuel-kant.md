@@ -5,6 +5,18 @@ title_en: Immanuel Kant
 type: персоналия
 status: draft
 years: "1724–1804"
+born: "1724-04-22"
+birth_place: "Кёнигсберг, Пруссия"
+birth_coords: [54.7104, 20.4522]
+died: "1804-02-12"
+death_place: "Кёнигсберг, Пруссия"
+death_coords: [54.7104, 20.4522]
+nationality: "немец"
+alma_mater: "Кёнигсбергский университет"
+affiliations: ["Кёнигсбергский университет"]
+fields: ["эпистемология", "метафизика", "этика", "эстетика"]
+sep: "https://plato.stanford.edu/entries/kant/"
+bio_checked: false
 tags:
   - немецкая-философия
   - трансцендентальная-философия

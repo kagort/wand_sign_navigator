@@ -5,6 +5,17 @@ title_en: Charles Lamb
 type: персоналия
 status: draft
 years: "1775–1834"
+born: "1775-02-10"
+birth_place: "Лондон"
+birth_coords: [51.5074, -0.1278]
+died: "1834-12-27"
+death_place: "Эдмонтон, Лондон"
+death_coords: [51.62, -0.06]
+nationality: "британец"
+alma_mater: "школа Христова госпиталя, Лондон"
+fields: ["эссеистика", "литературная критика"]
+colleagues: ["[[coleridge]]", "[[william-hazlitt]]", "[[william-wordsworth]]", "[[r-southey]]"]
+bio_checked: false
 tags:
   - эссеистика
   - английская-литература

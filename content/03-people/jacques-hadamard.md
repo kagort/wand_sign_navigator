@@ -5,6 +5,17 @@ title_en: Jacques Hadamard
 type: персоналия
 status: draft
 years: 1865–1963
+born: "1865-12-08"
+birth_place: "Версаль, Франция"
+birth_coords: [48.8049, 2.1204]
+died: "1963-10-17"
+death_place: "Париж"
+death_coords: [48.8566, 2.3522]
+nationality: "француз"
+alma_mater: "Высшая нормальная школа"
+affiliations: ["Коллеж де Франс", "Политехническая школа", "Парижский университет"]
+fields: ["математический анализ", "теория чисел", "дифференциальные уравнения"]
+bio_checked: false
 tags:
   - прикладная-математика
   - история-физики

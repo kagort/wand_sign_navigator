@@ -5,6 +5,18 @@ title_en: Jerry Fodor
 type: персоналия
 status: draft
 years: "1935–2017"
+born: "1935-04-22"
+birth_place: "Нью-Йорк, США"
+birth_coords: [40.7128, -74.006]
+died: "2017-11-29"
+death_place: "Нью-Йорк, США"
+death_coords: [40.7128, -74.006]
+nationality: "американец"
+alma_mater: "Колумбийский колледж; Принстонский университет"
+affiliations: ["Массачусетский технологический институт", "Ратгерский университет"]
+fields: ["философия сознания", "когнитивная наука"]
+teachers: ["[[hilary-putnam]]"]
+bio_checked: false
 first_appearance: "гл. 3, «Блюстители концептуальной сферы», с. 154"
 tags:
   - философия-сознания

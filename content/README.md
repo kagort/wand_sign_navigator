@@ -57,6 +57,9 @@ content/
    git push origin v5          # сайт пересоберётся автоматически
    ```
 
+Таблица персоналий и данные для дашбордов собираются из карточек:
+`python scripts/build_dataset.py` → `data/people.xlsx`, `data/*.json` (поля — в [[konventsii|Конвенциях]]).
+
 Подробно про синхронизацию и что делать при конфликте — `docs/SYNC.md` в репозитории,
 журнал сессий — `docs/Progress.md`.
 

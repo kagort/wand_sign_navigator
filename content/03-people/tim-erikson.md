@@ -5,6 +5,9 @@ title_en: Tim Erikson
 type: персоналия
 status: draft
 years: "1966–"
+nationality: "американец"
+fields: ["народная музыка", "скрипка"]
+bio_checked: false
 tags:
   - фольклористика
   - этномузыковедение

@@ -5,6 +5,16 @@ title_en: Giuseppe Tartini
 type: персоналия
 status: draft
 years: "1692–1770"
+born: "1692-04-08"
+birth_place: "Пирано, Истрия (Венецианская республика)"
+birth_coords: [45.528, 13.568]
+died: "1770-02-26"
+death_place: "Падуя"
+death_coords: [45.4064, 11.8768]
+nationality: "итальянец"
+alma_mater: "Падуанский университет"
+fields: ["скрипка", "композиция", "теория музыки"]
+bio_checked: false
 tags:
   - музыка
   - акустика

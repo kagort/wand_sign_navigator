@@ -5,6 +5,18 @@ title_en: Pierre Duhem
 type: персоналия
 status: draft
 years: "1861–1916"
+born: "1861-06-09"
+birth_place: "Париж"
+birth_coords: [48.8566, 2.3522]
+died: "1916-09-14"
+death_place: "Кабреспин, Франция"
+death_coords: [43.37, 2.45]
+nationality: "француз"
+alma_mater: "Высшая нормальная школа"
+affiliations: ["Лилльский университет", "Реннский университет", "Университет Бордо"]
+fields: ["термодинамика", "философия науки", "история науки"]
+sep: "https://plato.stanford.edu/entries/duhem/"
+bio_checked: false
 tags:
   - физика
   - философия-науки

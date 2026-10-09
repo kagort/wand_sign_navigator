@@ -5,6 +5,18 @@ title_en: William James
 type: персоналия
 status: draft
 years: "1842–1910"
+born: "1842-01-11"
+birth_place: "Нью-Йорк, США"
+birth_coords: [40.7128, -74.006]
+died: "1910-08-26"
+death_place: "Чокоруа, Нью-Гэмпшир, США"
+death_coords: [43.88, -71.23]
+nationality: "американец"
+alma_mater: "Гарвардская медицинская школа"
+affiliations: ["Гарвардский университет"]
+fields: ["психология", "прагматизм"]
+sep: "https://plato.stanford.edu/entries/james/"
+bio_checked: false
 tags:
   - психология
   - изменчивость-восприятия

@@ -5,6 +5,17 @@ title_en: Alfred, Lord Tennyson
 type: персоналия
 status: draft
 years: 1809–1892
+born: "1809-08-06"
+birth_place: "Сомерсби, Линкольншир, Англия"
+birth_coords: [53.25, 0.01]
+died: "1892-10-06"
+death_place: "Олдуорт близ Хейзлмира, Англия"
+death_coords: [51.08, -0.72]
+nationality: "британец"
+alma_mater: "Тринити-колледж, Кембридж"
+fields: ["поэзия"]
+awards: ["Поэт-лауреат Великобритании (1850)"]
+bio_checked: false
 first_appearance: гл. 3, «Блюстители концептуальной сферы», с. 150 (отсылка к гл. 2)
 tags:
   - поэзия

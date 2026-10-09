@@ -5,6 +5,14 @@ title_en: Robert Brandom
 type: персоналия
 status: draft
 years: "р. 1950"
+born: "1950"
+nationality: "американец"
+alma_mater: "Йельский университет; Принстонский университет"
+affiliations: ["Питтсбургский университет"]
+fields: ["философия языка", "инференциализм", "прагматизм"]
+teachers: ["[[david-lewis]]"]
+colleagues: ["[[wilfrid-sellars]]"]
+bio_checked: false
 tags:
   - философия-языка
   - инференциализм

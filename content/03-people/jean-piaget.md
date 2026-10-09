@@ -5,6 +5,17 @@ title_en: Jean Piaget
 type: персоналия
 status: draft
 years: "1896–1980"
+born: "1896-08-09"
+birth_place: "Невшатель, Швейцария"
+birth_coords: [46.99, 6.93]
+died: "1980-09-16"
+death_place: "Женева, Швейцария"
+death_coords: [46.2044, 6.1432]
+nationality: "швейцарец"
+alma_mater: "Невшательский университет"
+affiliations: ["Женевский университет", "Институт Жан-Жака Руссо"]
+fields: ["психология развития", "генетическая эпистемология"]
+bio_checked: false
 tags:
   - психология
   - когнитивное-развитие

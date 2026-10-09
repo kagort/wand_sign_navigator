@@ -5,6 +5,19 @@ title_en: Wilfrid Sellars
 type: персоналия
 status: draft
 years: "1912–1989"
+born: "1912-05-20"
+birth_place: "Анн-Арбор, Мичиган, США"
+birth_coords: [42.2808, -83.743]
+died: "1989-07-02"
+death_place: "Питтсбург, США"
+death_coords: [40.4406, -79.9959]
+nationality: "американец"
+alma_mater: "Мичиганский университет; Ориел-колледж, Оксфорд"
+affiliations: ["Миннесотский университет", "Йельский университет", "Питтсбургский университет"]
+fields: ["эпистемология", "философия сознания", "философия языка"]
+colleagues: ["[[robert-brandom]]"]
+sep: "https://plato.stanford.edu/entries/sellars/"
+bio_checked: false
 tags:
   - аналитическая-философия
   - философия-языка

@@ -5,6 +5,7 @@ title_en: Charles E. Marks
 type: персоналия
 status: draft
 years: "ок. 1940 (оценка, не подтверждено первоисточником) – 2022"
+bio_checked: false
 tags:
   - философия-сознания
   - история-философии

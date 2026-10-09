@@ -5,6 +5,14 @@ title_en: Frank Jackson
 type: персоналия
 status: draft
 years: "1943–"
+born: "1943-08-31"
+birth_place: "Мельбурн, Австралия"
+birth_coords: [-37.8136, 144.9631]
+nationality: "австралиец"
+alma_mater: "Мельбурнский университет; Университет Ла Троба"
+affiliations: ["Австралийский национальный университет"]
+fields: ["философия сознания", "метафизика"]
+bio_checked: false
 tags:
   - философия-сознания
   - субъективизм

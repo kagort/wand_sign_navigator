@@ -5,6 +5,19 @@ title_en: Gottlob Frege
 type: персоналия
 status: draft
 years: "1848–1925"
+born: "1848-11-08"
+birth_place: "Висмар, Мекленбург"
+birth_coords: [53.8913, 11.465]
+died: "1925-07-26"
+death_place: "Бад-Кляйнен, Мекленбург"
+death_coords: [53.77, 11.47]
+nationality: "немец"
+alma_mater: "Йенский университет; Гёттингенский университет"
+affiliations: ["Йенский университет"]
+fields: ["логика", "философия математики", "философия языка"]
+colleagues: ["[[bertrand-russell]]", "[[ludwig-wittgenstein]]"]
+sep: "https://plato.stanford.edu/entries/frege/"
+bio_checked: false
 tags:
   - логика
   - философия-математики

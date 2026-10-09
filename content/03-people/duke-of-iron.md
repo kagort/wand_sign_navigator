@@ -5,6 +5,11 @@ title_en: The Duke of Iron
 type: персоналия
 status: draft
 years: "1906–1968"
+born: "1906"
+died: "1968"
+nationality: "тринидадец"
+fields: ["калипсо"]
+bio_checked: false
 tags:
   - калипсо
   - музыка

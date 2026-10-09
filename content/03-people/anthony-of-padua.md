@@ -5,6 +5,16 @@ title_en: Anthony of Padua
 type: персоналия
 status: draft
 years: 1195–1231
+born: "1195"
+birth_place: "Лиссабон, Португалия"
+birth_coords: [38.7223, -9.1393]
+died: "1231-06-13"
+death_place: "Арчелла близ Падуи, Италия"
+death_coords: [45.4064, 11.8768]
+nationality: "португалец"
+affiliations: ["Орден францисканцев"]
+fields: ["богословие", "проповедь"]
+bio_checked: false
 tags:
   - религия
   - риторика
