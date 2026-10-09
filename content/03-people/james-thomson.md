@@ -23,7 +23,6 @@ related:
   - "[[nyuton-issledovaniya-sveta]]"
   - "[[isaac-newton]]"
 aliases:
-  - James Thomson
   - Джеймс Томсон
 ---
 ![[assets/james_thomson.jpg|200]]

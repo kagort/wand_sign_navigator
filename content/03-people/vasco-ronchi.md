@@ -25,7 +25,6 @@ related:
   - "[[isaac-newton]]"
   - "[[nyuton-issledovaniya-sveta]]"
 aliases:
-  - Vasco Ronchi
   - Васко Рончи
   - Васко Ронки
 ---

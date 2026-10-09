@@ -26,7 +26,6 @@ related:
   - "[[giuseppe-tartini]]"
   - "[[fritz-winckel]]"
 aliases:
-  - Paul Hindemith
   - Хиндемит
 ---
 ![[assets/hindemith.jpg|200]]

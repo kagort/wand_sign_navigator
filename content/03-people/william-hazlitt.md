@@ -23,7 +23,6 @@ tags:
 related:
   - "[[predislovie]]"
 aliases:
-  - William Hazlitt
   - Уильям Хэзлитт
   - Хэзлитт
 ---

@@ -16,7 +16,6 @@ related:
   - "[[gleichschaltung-ostin]]"
   - "[[staraya-shkola-obydennogo-yazyka]]"
 aliases:
-  - Sense and Sensibilia
   - Смысл и чувствительность
 ---
 

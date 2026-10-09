@@ -10,8 +10,6 @@ tags:
   - радуга
 related:
   - "[[semanticheskaya-zavershennost]]"
-aliases:
-  - Tik-Tok of Oz
 ---
 
 ## Краткое определение

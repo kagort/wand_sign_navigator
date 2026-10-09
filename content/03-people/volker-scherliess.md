@@ -13,7 +13,6 @@ tags:
 related:
   - "[[simfoniya-40-mozart]]"
 aliases:
-  - Volker Scherliess
   - Шерлисс
 ---
 ![[assets/v_scherliess.jpg|200]]

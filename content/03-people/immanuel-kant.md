@@ -27,7 +27,6 @@ related:
   - "[[bernard-bosanquet]]"
   - "[[klassicheskaya-kartina-kontseptsiy]]"
 aliases:
-  - Immanuel Kant
   - Kant
   - Кант
 ---

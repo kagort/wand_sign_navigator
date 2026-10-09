@@ -23,7 +23,6 @@ tags:
 related:
   - "[[empty-form]]"
 aliases:
-  - Isaac Hawkins Browne
   - Hawkins Browne
   - Исаак Хокинс Браун
 ---

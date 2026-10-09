@@ -21,7 +21,6 @@ tags:
 related:
   - "[[klassicheskaya-kartina-kontseptsiy]]"
 aliases:
-  - Robert Ingersoll
   - Robert Green Ingersoll
   - Роберт Ингерсолл
   - Роберт Ингерсолс

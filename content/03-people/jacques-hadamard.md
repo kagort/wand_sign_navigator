@@ -23,7 +23,6 @@ related:
   - "[[franz-reuleaux]]"
   - "[[oliver-heaviside]]"
 aliases:
-  - Jacques Hadamard
   - Жак Адамар
   - Адамар
 ---

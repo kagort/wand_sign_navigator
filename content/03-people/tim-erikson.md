@@ -18,7 +18,6 @@ related:
   - "[[jeff-todd-titon]]"
   - "[[participatory-idealism]]"
 aliases:
-  - Tim Erikson
   - Tim Erickson
   - Тим Эриксон
 ---

@@ -19,7 +19,6 @@ related:
   - "[[charles-darwin]]"
   - "[[skripichnaya-muzyka-vostochnogo-kentukki]]"
 aliases:
-  - Edward Lippmann
   - Эдвард Липпман
 ---
 [Досье на атласе персоналий →](static/dash/atlas.html#edward-lippmann)

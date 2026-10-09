@@ -24,7 +24,6 @@ related:
   - "[[isaac-newton]]"
   - "[[klassicheskaya-kartina-kontseptsiy]]"
 aliases:
-  - Robert Fludd
   - Роберт Фладд
 ---
 ![[assets/r_fludd.jpg|200]]

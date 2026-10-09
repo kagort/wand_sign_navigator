@@ -25,6 +25,8 @@
   body{background:var(--paper);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;-webkit-font-smoothing:antialiased}
   a{color:inherit}
   header{display:flex;align-items:center;gap:20px;flex-wrap:wrap;padding:28px 40px 22px;border-bottom:3px solid var(--ink)}
+  .home{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:600;text-decoration:none;padding:7px 14px;border-radius:20px;border:1.5px solid var(--ink);flex:0 0 auto}
+  .home:hover{background:var(--ink);color:var(--paper)}
   .line-bullet{width:58px;height:58px;border-radius:50%;background:var(--c3);color:#fff;flex:0 0 auto;display:flex;align-items:center;justify-content:center;font-family:'Literata',Georgia,serif;font-weight:700;font-size:26px}
   h1{font-family:'Literata',Georgia,serif;font-weight:700;font-size:clamp(20px,3.4vw,32px);letter-spacing:0;line-height:1.1}
   .sub{color:var(--grey);font-size:14px;margin-top:6px}
@@ -107,6 +109,7 @@
 </head>
 <body>
 <header>
+  <a class="home" href="../../" title="На главную путеводителя">⌂ Домой</a>
   <div class="line-bullet" aria-hidden="true">А</div>
   <div>
     <h1>Атлас персоналий</h1>

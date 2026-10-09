@@ -18,7 +18,6 @@ related:
   - "[[participatory-idealism]]"
   - "[[semanticheskaya-zavershennost]]"
 aliases:
-  - semantic holism
   - семантический холизм
 ---
 

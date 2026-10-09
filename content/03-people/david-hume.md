@@ -27,7 +27,6 @@ related:
   - "[[inferentsialnaya-napravlennost]]"
   - "[[buster-keaton]]"
 aliases:
-  - David Hume
   - Дэвид Юм
   - Давид Юм
 ---

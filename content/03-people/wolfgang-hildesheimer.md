@@ -22,7 +22,6 @@ related:
   - "[[charles-darwin]]"
   - "[[edward-lippmann]]"
 aliases:
-  - Wolfgang Hildesheimer
   - Вольфганг Хильдесхаймер
 ---
 ![[assets/hildesheimer.jpg|200]]

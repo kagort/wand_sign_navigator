@@ -30,7 +30,6 @@ related:
   - "[[bitva-pri-eyname]]"
   - "[[klassicheskoe-skleivanie]]"
 aliases:
-  - Ludwig Wittgenstein
   - Людвиг Витгенштейн
   - Витгенштейн
 ---

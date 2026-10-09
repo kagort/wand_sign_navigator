@@ -29,7 +29,6 @@ related:
   - "[[david-hume]]"
 aliases:
   - René Descartes
-  - Rene Descartes
   - Декарт
   - картезианский
 ---

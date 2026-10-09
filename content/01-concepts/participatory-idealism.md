@@ -16,7 +16,6 @@ related:
   - "[[tim-erikson]]"
   - "[[semantic-holism]]"
 aliases:
-  - participatory idealism
   - партиципативный идеализм
 ---
 

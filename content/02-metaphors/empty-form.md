@@ -15,7 +15,6 @@ related:
   - "[[dolgonosik-iz-ballady]]"
   - "[[klassicheskoe-skleivanie]]"
 aliases:
-  - empty form
   - пустая форма
 ---
 

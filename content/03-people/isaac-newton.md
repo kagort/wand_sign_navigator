@@ -26,7 +26,6 @@ related:
   - "[[nyuton-issledovaniya-sveta]]"
   - "[[klassicheskaya-kartina-kontseptsiy]]"
 aliases:
-  - Isaac Newton
   - Исаак Ньютон
 ---
 ![[assets/i_newton.jpg|200]]

@@ -23,7 +23,6 @@ related:
   - "[[participatory-idealism]]"
   - "[[tim-erikson]]"
 aliases:
-  - Jeff Todd Titon
   - Titon
   - Джефф Тодд Титон
 ---

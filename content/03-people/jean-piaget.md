@@ -23,7 +23,6 @@ related:
   - "[[tik-tok-of-oz]]"
   - "[[semanticheskaya-zavershennost]]"
 aliases:
-  - Jean Piaget
   - Жан Пиаже
 ---
 ![[assets/j_piaget.png|200]]

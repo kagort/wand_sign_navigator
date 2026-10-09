@@ -28,7 +28,6 @@ related:
   - "[[immanuel-kant]]"
   - "[[klassicheskaya-kartina-kontseptsiy]]"
 aliases:
-  - Alfred North Whitehead
   - A. N. Whitehead
   - Уайтхед
   - Альфред

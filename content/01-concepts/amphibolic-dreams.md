@@ -18,7 +18,6 @@ related:
   - "[[m-h-abrams]]"
   - "[[william-wordsworth]]"
 aliases:
-  - amphibolic dreams
   - амфиболические грёзы
 ---
 

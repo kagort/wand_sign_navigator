@@ -23,7 +23,6 @@ related:
   - "[[semantic-holism]]"
 aliases:
   - David E. Whisnant
-  - David Whisnant
   - Дэвид Уизнант
 ---
 ![[assets/d-whisnant.webp|200]]

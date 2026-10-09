@@ -23,7 +23,6 @@ tags:
 related:
   - "[[david-hume]]"
 aliases:
-  - Hilaire Belloc
   - Joseph Hilaire Pierre René Belloc
   - Хилэр Беллок
   - Хиллари Беллок

@@ -29,7 +29,6 @@ related:
   - "[[m-h-abrams]]"
   - "[[amphibolic-dreams]]"
 aliases:
-  - William Wordsworth
   - Wordsworth
   - Вордсворт
 ---

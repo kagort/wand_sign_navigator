@@ -22,7 +22,6 @@ related:
   - "[[klassicheskaya-kartina-kontseptsiy]]"
   - "[[vasco-ronchi]]"
 aliases:
-  - Frank Jackson
   - Фрэнк Джексон
 ---
 ![[assets/jackson.jpg|200]]

@@ -21,7 +21,6 @@ related:
   - "[[semantic-holism]]"
 aliases:
   - Timothy J. Cooley
-  - Timothy Cooley
   - Cooley
 ---
 ![[assets/t_cooley.jpg|200]]

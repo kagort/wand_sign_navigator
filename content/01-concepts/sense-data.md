@@ -12,7 +12,6 @@ related:
   - "[[j-l-austin]]"
   - "[[sense-and-sensibilia]]"
 aliases:
-  - sense data
   - чувственные данные
 ---
 

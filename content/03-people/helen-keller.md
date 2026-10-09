@@ -27,7 +27,6 @@ related:
   - "[[ernst-mach]]"
   - "[[thomas-reid]]"
 aliases:
-  - Helen Keller
   - Хеллен Келлер
   - Келлер
 ---

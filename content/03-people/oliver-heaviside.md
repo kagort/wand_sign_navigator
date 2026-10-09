@@ -22,7 +22,6 @@ tags:
 related:
   - "[[blujdayushee-kachestvo]]"
 aliases:
-  - Oliver Heaviside
   - Хевисайд
 ---
 ![[assets/oheaviside.jpg|200]]

@@ -33,7 +33,6 @@ related:
   - "[[gottlob-frege]]"
   - "[[problemy-filosofii-1912]]"
 aliases:
-  - Bertrand Russell
   - Бертран Рассел
   - Рассел
 ---

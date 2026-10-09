@@ -27,7 +27,6 @@ related:
   - "[[willard-quine]]"
   - "[[korabl-noyrata]]"
 aliases:
-  - Otto Neurath
   - Отто Нейрат
   - Отто Нойрат
   - Neurath

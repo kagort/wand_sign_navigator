@@ -23,7 +23,6 @@ related:
   - "[[david-hume]]"
   - "[[inferentsialnaya-napravlennost]]"
 aliases:
-  - Buster Keaton
   - Китон
   - аргументы Шерлока-младшего
   - Sherlock Jr.

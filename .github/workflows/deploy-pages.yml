@@ -48,6 +48,7 @@ jobs:
           pip install pyyaml openpyxl
           python scripts/build_dataset.py
           python scripts/build_dashboards.py
+          python scripts/build_chapter_index.py
 
       - name: Build Quartz
         run: npx quartz build -d content

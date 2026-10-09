@@ -29,7 +29,6 @@ related:
 aliases:
   - Berkeley
   - епископ Беркли
-  - George Berkeley
 ---
 [Досье на атласе персоналий →](static/dash/atlas.html#george-berkeley)
 

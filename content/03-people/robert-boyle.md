@@ -28,7 +28,6 @@ related:
   - "[[david-hume]]"
   - "[[isaac-newton]]"
 aliases:
-  - Robert Boyle
   - Бойль
 ---
 ![[assets/robert_boyle.jpg|200]]

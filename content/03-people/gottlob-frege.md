@@ -26,7 +26,6 @@ related:
   - "[[klassicheskaya-kartina-kontseptsiy]]"
   - "[[bertrand-russell]]"
 aliases:
-  - Gottlob Frege
   - Готлоб Фреге
 ---
 ![[assets/frege.jpg|200]]
