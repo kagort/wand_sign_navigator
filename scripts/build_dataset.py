@@ -146,6 +146,7 @@ def main():
             nationality=fm.get("nationality"), alma_mater=fm.get("alma_mater"),
             affiliations=fm.get("affiliations") or [], fields=fm.get("fields") or [],
             awards=fm.get("awards") or [], sep=fm.get("sep"), wiki_ru=fm.get("wiki_ru"),
+            cause_of_death=fm.get("cause_of_death"),
             notes=fm.get("notes"), bio_checked=bool(fm.get("bio_checked")),
             tags=c["tags"], sections=c["sections"], chapters=c["chapters"], **rel,
             who=section_text(body, "Кто это"),
@@ -181,7 +182,8 @@ GROUPS = [  # (название группы, цвет, [(колонка, фун
         ("Имя и фамилия", lambda p: p["title"]), ("Имя (оригинал)", lambda p: p["title_en"]),
         ("Национальность", lambda p: p["nationality"]), ("Портрет", lambda p: p["portrait"])]),
     ("БИОГРАФИЯ — ВРЕМЯ", "C6E0B4", [
-        ("Годы жизни", lambda p: p["years"]), ("Дата рождения", lambda p: p["born"]), ("Дата смерти", lambda p: p["died"])]),
+        ("Годы жизни", lambda p: p["years"]), ("Дата рождения", lambda p: p["born"]), ("Дата смерти", lambda p: p["died"]),
+        ("Причина смерти", lambda p: p["cause_of_death"])]),
     ("БИОГРАФИЯ — МЕСТО", "D9C3E9", [
         ("Место рождения", lambda p: p["birth_place"]), ("Координаты рождения", lambda p: coords(p["birth_coords"])),
         ("Место смерти", lambda p: p["death_place"]), ("Координаты смерти", lambda p: coords(p["death_coords"]))]),
@@ -244,6 +246,7 @@ def write_xlsx(people, path):
     ref.append(["Колонка", "Поле во frontmatter карточки", "Формат"])
     for row in [
         ("Дата рождения / смерти", "born / died", "ГГГГ-ММ-ДД, ГГГГ или «ок. ГГГГ»"),
+        ("Причина смерти", "cause_of_death", "текст; спорное — с пометкой «предположительно»"),
         ("Место рождения / смерти", "birth_place / death_place", "текст"),
         ("Координаты", "birth_coords / death_coords", "[широта, долгота]"),
         ("Национальность", "nationality", "текст"),

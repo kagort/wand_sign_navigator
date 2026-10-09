@@ -28,7 +28,7 @@ aliases:
 ---
 ![[assets/d-whisnant.webp|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#david-whisnant)
+[Досье на атласе персоналий →](static/dash/atlas.html#david-whisnant)
 ## Кто это
 
 > Американский исследователь фольклора и культурной политики, автор книги *All That Is Native and Fine* (1983).

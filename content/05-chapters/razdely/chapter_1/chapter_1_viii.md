@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (viii) Зачем изучать концепции?
 
-← [[chapter_1_vii|(vii) Уроки прикладной математики]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_ix|(ix) Смягченный скептицизм]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_viii)
+← [[chapter_1_vii|(vii) Уроки прикладной математики]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_ix|(ix) Смягченный скептицизм]] → · [на линии книги](static/dash/linia.html#chapter_1_viii)
 
 ## Аннотация
 

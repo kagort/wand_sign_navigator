@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (iv) Науку нужно использовать, а не упоминать
 
-← [[chapter_1_iii|(iii) Концептуальная оценка]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_v|(v) Ur-философские течения]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_iv)
+← [[chapter_1_iii|(iii) Концептуальная оценка]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_v|(v) Ur-философские течения]] → · [на линии книги](static/dash/linia.html#chapter_1_iv)
 
 ## Аннотация
 

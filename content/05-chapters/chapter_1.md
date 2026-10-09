@@ -7,7 +7,7 @@ tags:
 
 # Глава 1. Широкий экран (стр. 21–82)
 
-[Смотреть на линии книги →](https://kagort.github.io/wand_sign_navigator/linia/)
+[Смотреть на линии книги →](static/dash/linia.html)
 
 ## Разделы
 

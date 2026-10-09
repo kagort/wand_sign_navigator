@@ -9,7 +9,7 @@ tags:
 
 # Глава 3 · (v) Блуждающее значение
 
-← [[chapter_3_iv|(iv) Блюстители концептуальной сферы]] · [[chapter_3|Глава 3. Классический клей]] · [[chapter_3_vi|(vi) Перегруженные содержания]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_3_v)
+← [[chapter_3_iv|(iv) Блюстители концептуальной сферы]] · [[chapter_3|Глава 3. Классический клей]] · [[chapter_3_vi|(vi) Перегруженные содержания]] → · [на линии книги](static/dash/linia.html#chapter_3_v)
 
 ## Аннотация
 

@@ -52,11 +52,14 @@ jobs:
       - name: Build Quartz
         run: npx quartz build -d content
 
-      - name: Add dashboards to the site
+      - name: Redirect old dashboard addresses
+        # дашборды теперь лежат в quartz/static/dash/ и попадают на сайт сами (/static/dash/…);
+        # старые адреса /linia/ и /atlas/ перенаправляют туда, сохраняя #якорь
         run: |
-          mkdir -p public/linia public/atlas
-          cp dashboards/linia.html public/linia/index.html
-          cp dashboards/atlas.html public/atlas/index.html
+          for d in linia atlas; do
+            mkdir -p public/$d
+            printf '<!doctype html><meta charset="utf-8"><title>…</title><script>location.replace("../static/dash/%s.html"+location.hash)</script><a href="../static/dash/%s.html">Перейти</a>\n' $d $d > public/$d/index.html
+          done
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

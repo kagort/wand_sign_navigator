@@ -11,6 +11,7 @@ birth_coords: [54.663, -3.362]
 died: "1850-04-23"
 death_place: "Райдал-Маунт, Эмблсайд, Англия"
 death_coords: [54.45, -2.98]
+cause_of_death: "плеврит"
 nationality: "англичанин"
 alma_mater: "Сент-Джонс-колледж, Кембридж"
 fields: ["поэзия"]
@@ -34,7 +35,7 @@ aliases:
 ---
 ![[assets/wordsworth.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#william-wordsworth)
+[Досье на атласе персоналий →](static/dash/atlas.html#william-wordsworth)
 ## Кто это
 
 > Английский поэт-романтик, один из основателей и центральных представителей Озёрной школы.

@@ -9,7 +9,7 @@ tags:
 
 # Глава 3 · (vi) Перегруженные содержания
 
-← [[chapter_3_v|(v) Блуждающее значение]] · [[chapter_3|Глава 3. Классический клей]] · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_3_vi)
+← [[chapter_3_v|(v) Блуждающее значение]] · [[chapter_3|Глава 3. Классический клей]] · [на линии книги](static/dash/linia.html#chapter_3_vi)
 
 ## Аннотация
 

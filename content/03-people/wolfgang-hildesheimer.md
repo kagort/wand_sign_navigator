@@ -27,7 +27,7 @@ aliases:
 ---
 ![[assets/hildesheimer.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#wolfgang-hildesheimer)
+[Досье на атласе персоналий →](static/dash/atlas.html#wolfgang-hildesheimer)
 ## Кто это
 > Немецкий писатель, драматург и художник, автор биографии Моцарта (1982).
 

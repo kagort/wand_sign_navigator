@@ -11,6 +11,7 @@ birth_coords: [47.8095, 13.055]
 died: "1791-12-05"
 death_place: "Вена"
 death_coords: [48.2082, 16.3738]
+cause_of_death: "острая лихорадочная болезнь; точная причина неизвестна"
 nationality: "австриец (Зальцбургское архиепископство)"
 fields: ["композиция"]
 bio_checked: false
@@ -26,7 +27,7 @@ aliases:
 ---
 ![[assets/mozart.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#wolfgang-amadeus-mozart)
+[Досье на атласе персоналий →](static/dash/atlas.html#wolfgang-amadeus-mozart)
 ## Кто это
 
 > Австрийский композитор, чья Симфония №40 соль минор служит Уилсону отправной точкой для разбора проблем музыкальной атрибуции в главе 2.

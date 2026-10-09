@@ -11,6 +11,7 @@ birth_coords: [46.97, 0.7]
 died: "1650-02-11"
 death_place: "Стокгольм, Швеция"
 death_coords: [59.3293, 18.0686]
+cause_of_death: "пневмония (по другой версии — отравление)"
 nationality: "француз"
 alma_mater: "Коллегия Ла Флеш; Университет Пуатье"
 fields: ["метафизика", "эпистемология", "математика", "натурфилософия"]
@@ -34,7 +35,7 @@ aliases:
 ---
 ![[assets/rene_descartes.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#rene-descartes)
+[Досье на атласе персоналий →](static/dash/atlas.html#rene-descartes)
 
 ## Кто это
 

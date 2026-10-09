@@ -11,6 +11,7 @@ birth_coords: [51.4214, -0.2064]
 died: "1943-09-11"
 death_place: "Лондон"
 death_coords: [51.5074, -0.1278]
+cause_of_death: "рак"
 nationality: "британка"
 alma_mater: "Гиртон-колледж, Кембридж"
 affiliations: ["Бедфорд-колледж, Лондонский университет"]
@@ -30,7 +31,7 @@ aliases:
   - Susan Stebbing
   - Стеббинг
 ---
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#l-susan-stebbing)
+[Досье на атласе персоналий →](static/dash/atlas.html#l-susan-stebbing)
 
 
 ![[assets/s_stebbing.jpg|200]]

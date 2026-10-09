@@ -9,7 +9,7 @@ tags:
 
 # Глава 2 · (v) Субъективный экстремизм
 
-← [[chapter_2_iv|(iv) Инструменты и задачи]] · [[chapter_2|Глава 2. Потерянные струны]] · [[chapter_2_vi|(vi) Амфиболические грёзы]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_2_v)
+← [[chapter_2_iv|(iv) Инструменты и задачи]] · [[chapter_2|Глава 2. Потерянные струны]] · [[chapter_2_vi|(vi) Амфиболические грёзы]] → · [на линии книги](static/dash/linia.html#chapter_2_v)
 
 ## Аннотация
 

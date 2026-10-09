@@ -7,7 +7,7 @@ tags:
 
 # Глава 3. Классический клей (стр. 136–216)
 
-[Смотреть на линии книги →](https://kagort.github.io/wand_sign_navigator/linia/)
+[Смотреть на линии книги →](static/dash/linia.html)
 
 ## Разделы
 

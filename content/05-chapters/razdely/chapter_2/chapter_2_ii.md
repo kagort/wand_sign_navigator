@@ -9,7 +9,7 @@ tags:
 
 # Глава 2 · (ii) Объективный экстремизм
 
-← [[chapter_2_i|(i) Манящая муза ur-философии]] · [[chapter_2|Глава 2. Потерянные струны]] · [[chapter_2_iii|(iii) Тропосферное самодовольство]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_2_ii)
+← [[chapter_2_i|(i) Манящая муза ur-философии]] · [[chapter_2|Глава 2. Потерянные струны]] · [[chapter_2_iii|(iii) Тропосферное самодовольство]] → · [на линии книги](static/dash/linia.html#chapter_2_ii)
 
 ## Аннотация
 

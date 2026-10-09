@@ -11,6 +11,7 @@ birth_coords: [52.53, -7.14]
 died: "1753-01-14"
 death_place: "Оксфорд, Англия"
 death_coords: [51.752, -1.2577]
+cause_of_death: "внезапная смерть (предположительно, инсульт)"
 nationality: "ирландец"
 alma_mater: "Тринити-колледж, Дублин"
 affiliations: ["Тринити-колледж, Дублин", "епископ Клойнский (с 1734)"]
@@ -30,7 +31,7 @@ aliases:
   - епископ Беркли
   - George Berkeley
 ---
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#george-berkeley)
+[Досье на атласе персоналий →](static/dash/atlas.html#george-berkeley)
 
 
 ![[assets/g_berkeley.jpg|200]]

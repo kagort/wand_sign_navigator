@@ -27,7 +27,7 @@ aliases:
 ---
 ![[assets/n-hawthorne.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#nataniel-gotorn)
+[Досье на атласе персоналий →](static/dash/atlas.html#nataniel-gotorn)
 
 ## Кто это
 > Американский писатель XIX века, автор рассказа «The Snow Image» («Образ снега») из сборника *Twice-Told Tales* — истории о духе, таинственным образом оживляющем ледяную/снежную статую, и о недалёком «мистере Линдси», не способном признать это чудо.

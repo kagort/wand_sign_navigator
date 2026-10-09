@@ -11,6 +11,7 @@ birth_coords: [47.5596, 7.5886]
 died: "1783-09-18"
 death_place: "Санкт-Петербург"
 death_coords: [59.9311, 30.3609]
+cause_of_death: "кровоизлияние в мозг"
 nationality: "швейцарец"
 alma_mater: "Базельский университет"
 affiliations: ["Петербургская академия наук", "Берлинская академия наук"]
@@ -27,7 +28,7 @@ aliases:
 ---
 ![[assets/leonard-euler.jpg|200]]
 
-[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#leonhard-euler)
+[Досье на атласе персоналий →](static/dash/atlas.html#leonhard-euler)
 
 ## Кто это
 

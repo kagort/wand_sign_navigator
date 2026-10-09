@@ -9,7 +9,7 @@ tags:
 
 # Глава 1 · (vii) Уроки прикладной математики
 
-← [[chapter_1_vi|(vi) Семантическая завершённость]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_viii|(viii) Зачем изучать концепции?]] → · [на линии книги](https://kagort.github.io/wand_sign_navigator/linia/#chapter_1_vii)
+← [[chapter_1_vi|(vi) Семантическая завершённость]] · [[chapter_1|Глава 1. Широкий экран]] · [[chapter_1_viii|(viii) Зачем изучать концепции?]] → · [на линии книги](static/dash/linia.html#chapter_1_vii)
 
 ## Аннотация
 
