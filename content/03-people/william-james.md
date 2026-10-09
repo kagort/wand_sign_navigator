@@ -24,7 +24,6 @@ tags:
 related:
   - "[[charles-darwin]]"
 aliases:
-  - William James
   - Уильям Джеймс
 ---
 ![[assets/w_james.jpg|200]]

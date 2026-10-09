@@ -22,6 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 OUT = ROOT / "data"
 SITE = "https://kagort.github.io/wand_sign_navigator/"
+STEMS = set()  # имена файлов карточек (заполняется в main)
 
 FOLDER_KIND = {
     "01-concepts": "концепт",
@@ -33,6 +34,7 @@ FOLDER_KIND = {
 SECTION_RE = re.compile(r"\[\[(chapter_(\d)_([ivx]+)|predislovie)(?:[|\\\]#])")
 CHAPTER_RE = re.compile(r"\[\[(?:chapter_(\d)(?:_[ivx]+)?|(predislovie))(?:[|\\\]#])")
 LINK_RE = re.compile(r"(?<!!)\[\[([^\]|#\\]+)")
+GENERATED_RE = re.compile(r"<!-- (chapter-[a-z]+):start -->.*?<!-- \1:end -->", re.S)  # блоки build_chapter_index.py
 PORTRAIT_RE = re.compile(r"!\[\[(assets/[^\]|]+)")
 
 
@@ -77,14 +79,30 @@ def slug(path):
     return path.relative_to(CONTENT).with_suffix("").as_posix()
 
 
+def quartz_slug(text):
+    """Как Quartz превращает алиас в адрес (slugifyPath из @quartz-community/utils)."""
+    s = re.sub(r"\s", "-", text).replace("&", "-and-").replace("%", "-percent")
+    return s.replace("?", "").replace("#", "").lower()
+
+
+def check_aliases(path, fm):
+    """Алиас, совпадающий с именем файла другой или этой же карточки, Quartz регистрирует как адрес в корне сайта
+    (/otto-neurath), и ссылки [[otto-neurath]] уходят туда, на страницу-редирект, а не прямо на карточку."""
+    for alias in fm.get("aliases") or []:
+        if quartz_slug(str(alias)) in STEMS:
+            print(f"ВНИМАНИЕ: {path.relative_to(ROOT)}: алиас «{alias}» совпадает с именем файла карточки — удалите его")
+
+
 def main():
     cards, sections = {}, {}
+    STEMS.update(p.stem.lower() for p in CONTENT.rglob("*.md"))
     for path in sorted(CONTENT.rglob("*.md")):
         rel = path.relative_to(CONTENT)
         fm, body = read_card(path)
+        check_aliases(path, fm)
         cid = path.stem
         if cid == "predislovie":
-            sections[cid] = dict(id=cid, chapter=0, section="", title="Предисловие", annotation=plain(re.sub(r"^#.*$", "", body, flags=re.M)), url=SITE + slug(path), cards=[])
+            sections[cid] = dict(id=cid, chapter=0, section="", title="Предисловие", annotation=plain(re.sub(r"^#.*$", "", GENERATED_RE.sub("", body), flags=re.M)), url=SITE + slug(path), cards=[])
             continue
         if rel.parts[0] == "05-chapters" and fm.get("type") == "раздел-главы":
             ch, sec = re.match(r"chapter_(\d)_([ivx]+)", cid).groups()

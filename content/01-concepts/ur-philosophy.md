@@ -10,8 +10,6 @@ tags:
   - методология
 related:
   - "[[klassicheskaya-kartina-kontseptsiy]]"
-aliases:
-  - ur-philosophy
 ---
 
 ## Краткое определение

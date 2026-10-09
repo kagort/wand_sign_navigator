@@ -59,6 +59,7 @@ content/
 
 Таблица персоналий и данные для дашбордов собираются из карточек:
 `python scripts/build_dataset.py` → `data/people.xlsx`, `data/*.json` (поля — в [[konventsii|Конвенциях]]);
+`python scripts/build_chapter_index.py` → сводка и список всех карточек в хабах глав (`05-chapters/chapter_N.md`, `predislovie.md`);
 `python scripts/build_dashboards.py` → `quartz/static/dash/linia.html` («Линия книги») и `quartz/static/dash/atlas.html`
 («Атлас персоналий»); на сайте — `/static/dash/linia` и `/static/dash/atlas` (старые адреса `/linia/`, `/atlas/` перенаправляют).
 Шаблоны — `dashboards/*.template.html`; библиотеки лежат в `quartz/static/dash/vendor/`, поэтому дашборды работают и без интернета

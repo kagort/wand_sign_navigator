@@ -26,7 +26,6 @@ related:
   - "[[pierre-duhem]]"
   - "[[helen-keller]]"
 aliases:
-  - Ernst Mach
   - Мах
 ---
 ![[assets/ernst_mach.webp|200]]

@@ -28,7 +28,6 @@ related:
   - "[[amphibolism]]"
   - "[[klassicheskoe-skleivanie]]"
 aliases:
-  - Wilfrid Sellars
   - Sellars
   - Селларс
 ---

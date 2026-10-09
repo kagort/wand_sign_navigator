@@ -27,7 +27,6 @@ related:
   - "[[yadro-kontseptualnogo-soderzhaniya]]"
   - "[[inferentsialnaya-napravlennost]]"
 aliases:
-  - Thomas Reid
   - Томас Рид
 ---
 ![[assets/thomas_reid.jpg|200]]

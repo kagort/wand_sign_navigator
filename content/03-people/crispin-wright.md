@@ -23,7 +23,6 @@ related:
   - "[[klassicheskoe-skleivanie]]"
   - "[[wilfrid-sellars]]"
 aliases:
-  - Crispin Wright
   - Криспин Райт
 ---
 [Досье на атласе персоналий →](static/dash/atlas.html#crispin-wright)

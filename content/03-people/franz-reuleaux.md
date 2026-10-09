@@ -23,7 +23,6 @@ related:
   - "[[jacques-hadamard]]"
   - "[[oliver-heaviside]]"
 aliases:
-  - Franz Reuleaux
   - Франц Рёло
   - Рёло
 ---

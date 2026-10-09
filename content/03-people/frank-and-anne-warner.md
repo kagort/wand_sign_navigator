@@ -21,7 +21,6 @@ related:
 - "[[participatory-idealism]]"
 - "[[semantic-holism]]"  
 aliases:
-- Frank and Anne Warner
 - Anne and Frank Warner
 - The Warners
 - Фрэнк и Энн Уорнер

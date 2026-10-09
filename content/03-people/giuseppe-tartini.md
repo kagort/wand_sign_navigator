@@ -24,7 +24,6 @@ related:
   - "[[w-a-sorge]]"
   - "[[hermann-helmholtz]]"
 aliases:
-  - Giuseppe Tartini
   - Тартини
 ---
 ![[assets/tartini.jpg|200]]

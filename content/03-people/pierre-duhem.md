@@ -26,7 +26,6 @@ related:
   - "[[ernst-mach]]"
   - "[[willard-quine]]"
 aliases:
-  - Pierre Duhem
   - Дюгем
   - Дюэм
 ---

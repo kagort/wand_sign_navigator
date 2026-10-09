@@ -23,7 +23,6 @@ related:
   - "[[p-j-nahin]]"
   - "[[oliver-heaviside]]"
 aliases:
-  - Anthony of Padua
   - Антоний Падуанский
   - Антоний Лиссабонский
 ---

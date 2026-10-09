@@ -21,7 +21,6 @@ related:
   - "[[giuseppe-tartini]]"
   - "[[vasco-ronchi]]"
 aliases:
-  - Fritz Winckel
   - Винкель
 ---
 ![[assets/f_winckel.png|200]]

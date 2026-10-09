@@ -28,7 +28,6 @@ related:
   - "[[klassicheskaya-kartina-kontseptsiy]]"
   - "[[bertrand-russell]]"
 aliases:
-  - David Lewis
   - David K. Lewis
   - Дэвид Льюис
 ---

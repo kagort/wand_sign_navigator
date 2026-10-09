@@ -27,7 +27,6 @@ related:
   - "[[willard-quine]]"
   - "[[bertrand-russell]]"
 aliases:
-  - Hilary Putnam
   - Хилари Патнэм
   - Патнэм
 ---

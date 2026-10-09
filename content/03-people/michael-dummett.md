@@ -26,7 +26,6 @@ related:
   - "[[gottlob-frege]]"
   - "[[willard-quine]]"
 aliases:
-  - Michael Dummett
   - Michael A. E. Dummett
   - Майкл Даммит
   - Даммит

@@ -24,7 +24,6 @@ related:
   - "[[lake-poets]]"
   - "[[klassicheskaya-kartina-kontseptsiy]]"
 aliases:
-  - Joseph Addison
   - Addison
   - Джозеф Аддисон
 ---

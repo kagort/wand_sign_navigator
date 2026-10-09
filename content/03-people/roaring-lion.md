@@ -18,7 +18,6 @@ related:
   - "[[duke-of-iron]]"
   - "[[willard-quine]]"
 aliases:
-  - Roaring Lion
   - Rafael de Leon
   - Hubert Raphael Charles
   - Могучий Лев

@@ -23,7 +23,6 @@ related:
   - "[[buksir-skaffi]]"
   - "[[willard-quine]]"
 aliases:
-  - Cary Grant
   - Грант
   - Кэри Грант
 ---

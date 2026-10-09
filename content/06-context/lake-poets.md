@@ -17,7 +17,6 @@ related:
   - "[[m-h-abrams]]"
   - "[[amphibolic-dreams]]"
 aliases:
-  - Lake Poets
   - Озёрная школа
 ---
 

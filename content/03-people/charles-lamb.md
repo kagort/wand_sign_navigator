@@ -24,7 +24,6 @@ related:
   - "[[thomas-browne]]"
   - "[[religio-medici-tsitata]]"
 aliases:
-  - Charles Lamb
   - Чарльз Лэмб
 ---
 ![[assets/c_lamb.jpg|200]]

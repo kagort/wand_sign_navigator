@@ -25,7 +25,6 @@ tags:
 related:
   - "[[hermann-helmholtz]]"
 aliases:
-  - Heinrich Hertz
   - Генрих Герц
   - Герц
 ---

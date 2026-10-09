@@ -23,7 +23,6 @@ tags:
 related:
   - "[[chuvstvitelnost-k-kontekstu]]"
 aliases:
-  - Leonhard Euler
   - Леонард Эйлер
 ---
 ![[assets/leonard-euler.jpg|200]]

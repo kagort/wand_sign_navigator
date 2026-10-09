@@ -18,7 +18,6 @@ related:
 - "[[tezis-silnoy-kompozitsionalnosti]]"
 - "[[semanticheskaya-zavershennost]]"
 aliases:
-- Ray Jackendoff
 - Рэй Джекендофф
 ---
 ![[assets/r_jackendoff.jpg|200]]

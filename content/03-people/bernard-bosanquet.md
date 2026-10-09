@@ -26,7 +26,6 @@ related:
   - "[[amphibolism]]"
   - "[[amphibolic-dreams]]"
 aliases:
-  - Bernard Bosanquet
   - Bosanquet
   - Бернард Бозанкет
 ---

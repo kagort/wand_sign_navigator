@@ -22,7 +22,7 @@ sep: "https://plato.stanford.edu/entries/quine/"
 bio_checked: false
 tags: [семантика, философия-логики, эпистемология]
 related: ["[[blujdayushee-kachestvo]]", "[[otkrytaya-tekstura]]", "[[korabl-noyrata]]", "[[buksir-skaffi]]", "[[otto-neurath]]"]
-aliases: ["Willard Quine", "W. V. Quine", "Куайн", "Куйан"]
+aliases: ["W. V. Quine", "Куайн", "Куйан"]
 ---
 ![[assets/quinewo.jpg|220]]
 

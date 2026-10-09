@@ -11,7 +11,6 @@ tags:
   - биография-уилсона
 related: []
 aliases:
-  - Untamed Women
   - Неукротимые женщины
 ---
 ![[assets/un_wom.jpg|300]]

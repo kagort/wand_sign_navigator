@@ -25,7 +25,6 @@ related:
   - "[[willard-quine]]"
   - "[[klassicheskaya-kartina-kontseptsiy]]"
 aliases:
-  - John Dewey
   - Джон Дьюи
 ---
 ![[assets/j_dewey.jpg|200]]

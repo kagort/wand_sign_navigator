@@ -18,7 +18,6 @@ related:
   - "[[amphibolic-dreams]]"
   - "[[klassicheskoe-skleivanie]]"
 aliases:
-  - amphibolism
   - амфиболизм
 ---
 

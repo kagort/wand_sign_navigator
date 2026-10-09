@@ -22,7 +22,6 @@ related:
   - "[[willard-quine]]"
   - "[[michael-dummett]]"
 aliases:
-  - Robert Brandom
   - Robert B. Brandom
   - Роберт Брэндом
 ---

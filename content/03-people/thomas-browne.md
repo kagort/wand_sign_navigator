@@ -24,7 +24,6 @@ related:
 aliases:
   - Sir Thomas Browne
   - Томас Браун
-  - Thomas Browne
 ---
 ![[assets/th_browne.jpg|200]]
 

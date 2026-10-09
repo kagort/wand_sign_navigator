@@ -11,7 +11,6 @@ tags:
   - литературная-аллюзия
 related: []
 aliases:
-  - amok
   - amuck
   - running amok
   - амок

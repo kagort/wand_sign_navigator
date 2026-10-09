@@ -26,7 +26,6 @@ related:
   - "[[william-james]]"
   - "[[skripichnaya-muzyka-vostochnogo-kentukki]]"
 aliases:
-  - Charles Darwin
   - Чарльз Дарвин
 ---
 ![[assets/ch_darwin.jpg|200]]
