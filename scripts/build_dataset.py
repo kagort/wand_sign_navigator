@@ -93,6 +93,7 @@ def main():
                 title=re.sub(r"^Гл\. \d \([ivx]+\)\s*", "", str(fm.get("title", ""))),
                 annotation=section_text(body, "Аннотация"),
                 url=SITE + slug(path), cards=[],
+                _listed=set(LINK_RE.findall(body.split("## Карточки раздела", 1)[-1])),
             )
             continue
         kind = FOLDER_KIND.get(rel.parts[0])
@@ -113,6 +114,13 @@ def main():
 
     for c in cards.values():
         c["links"] = [l for l in c["links"] if l in cards and l != c["id"]]
+    # карточка относится к разделу, если ссылается на него ИЛИ перечислена на странице раздела
+    for sid, s in sections.items():
+        for cid in s.pop("_listed", set()):
+            if cid in cards and sid not in cards[cid]["sections"]:
+                cards[cid]["sections"].append(sid)
+    for c in cards.values():
+        c["sections"].sort()
         for s in c["sections"]:
             if s in sections:
                 sections[s]["cards"].append(c["id"])

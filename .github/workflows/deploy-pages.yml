@@ -38,8 +38,24 @@ jobs:
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build dataset and dashboards
+        run: |
+          pip install pyyaml openpyxl
+          python scripts/build_dataset.py
+          python scripts/build_dashboards.py
+
       - name: Build Quartz
         run: npx quartz build -d content
+
+      - name: Add dashboards to the site
+        run: |
+          mkdir -p public/linia
+          cp dashboards/linia.html public/linia/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

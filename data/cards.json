@@ -75,7 +75,9 @@
   ],
   "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/blujdayushee-kachestvo",
   "portrait": null,
-  "sections": [],
+  "sections": [
+   "chapter_3_v"
+  ],
   "chapters": [],
   "links": [
    "buksir-skaffi",
@@ -400,7 +402,9 @@
   "portrait": null,
   "sections": [
    "chapter_3_i",
-   "chapter_3_iv"
+   "chapter_3_iv",
+   "chapter_3_v",
+   "chapter_3_vi"
   ],
   "chapters": [
    3
@@ -816,7 +820,9 @@
   ],
   "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/yadro-kontseptualnogo-soderzhaniya",
   "portrait": null,
-  "sections": [],
+  "sections": [
+   "chapter_3_vi"
+  ],
   "chapters": [],
   "links": [
    "blujdayushee-kachestvo",
@@ -869,7 +875,8 @@
   "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/buksir-skaffi",
   "portrait": "https://kagort.github.io/wand_sign_navigator/02-metaphors/assets/scuffy_tugboat.jpg",
   "sections": [
-   "chapter_3_v"
+   "chapter_3_v",
+   "chapter_3_vi"
   ],
   "chapters": [
    3
@@ -1108,7 +1115,9 @@
   ],
   "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/morskie-i-rechnye-metafory",
   "portrait": null,
-  "sections": [],
+  "sections": [
+   "chapter_3_v"
+  ],
   "chapters": [],
   "links": [
    "blujdayushee-kachestvo",
@@ -2166,7 +2175,8 @@
   "url": "https://kagort.github.io/wand_sign_navigator/03-people/isaac-newton",
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/i_newton.jpg",
   "sections": [
-   "chapter_1_iii"
+   "chapter_1_iii",
+   "chapter_3_vi"
   ],
   "chapters": [
    1

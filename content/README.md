@@ -58,7 +58,9 @@ content/
    ```
 
 Таблица персоналий и данные для дашбордов собираются из карточек:
-`python scripts/build_dataset.py` → `data/people.xlsx`, `data/*.json` (поля — в [[konventsii|Конвенциях]]).
+`python scripts/build_dataset.py` → `data/people.xlsx`, `data/*.json` (поля — в [[konventsii|Конвенциях]]);
+`python scripts/build_dashboards.py` → `dashboards/linia.html` («Линия книги», на сайте — `/linia/`).
+При каждом push в `v5` это делается автоматически перед сборкой сайта.
 
 Подробно про синхронизацию и что делать при конфликте — `docs/SYNC.md` в репозитории,
 журнал сессий — `docs/Progress.md`.
