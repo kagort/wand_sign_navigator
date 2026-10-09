@@ -5,6 +5,18 @@ title_en: John Langshaw Austin
 type: персоналия
 status: draft
 years: 1911–1960
+born: "1911-03-26"
+birth_place: "Ланкастер, Англия"
+birth_coords: [54.0466, -2.8007]
+died: "1960-02-08"
+death_place: "Оксфорд, Англия"
+death_coords: [51.752, -1.2577]
+nationality: "британец"
+alma_mater: "Баллиол-колледж, Оксфорд"
+affiliations: ["Оксфордский университет"]
+fields: ["философия обыденного языка", "теория речевых актов"]
+sep: "https://plato.stanford.edu/entries/austin-jl/"
+bio_checked: false
 tags:
   - философия-языка
   - теория-речевых-актов

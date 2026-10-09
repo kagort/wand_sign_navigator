@@ -5,6 +5,17 @@ title_en: L. Susan Stebbing
 type: персоналия
 status: draft
 years: 1885–1943
+born: "1885-12-02"
+birth_place: "Уимблдон, Лондон"
+birth_coords: [51.4214, -0.2064]
+died: "1943-09-11"
+death_place: "Лондон"
+death_coords: [51.5074, -0.1278]
+nationality: "британка"
+alma_mater: "Гиртон-колледж, Кембридж"
+affiliations: ["Бедфорд-колледж, Лондонский университет"]
+fields: ["логика", "аналитическая философия", "критическое мышление"]
+bio_checked: false
 tags:
   - аналитическая-философия
   - философия-науки

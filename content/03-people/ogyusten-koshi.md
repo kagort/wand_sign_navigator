@@ -5,6 +5,17 @@ title_en: Augustin-Louis Cauchy
 type: персоналия
 status: draft
 years: "1789–1857"
+born: "1789-08-21"
+birth_place: "Париж"
+birth_coords: [48.8566, 2.3522]
+died: "1857-05-23"
+death_place: "Со, Франция"
+death_coords: [48.7766, 2.2908]
+nationality: "француз"
+alma_mater: "Политехническая школа; Школа мостов и дорог"
+affiliations: ["Политехническая школа", "Коллеж де Франс", "Парижский университет"]
+fields: ["математический анализ", "механика сплошных сред"]
+bio_checked: false
 first_appearance: "гл. 3, «Блюстители концептуальной сферы», с. 149"
 tags:
   - математика

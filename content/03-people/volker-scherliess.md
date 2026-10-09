@@ -4,6 +4,9 @@ title: Фолькер Шерлисс
 title_en: Volker Scherliess
 type: персоналия
 status: draft
+nationality: "немец"
+fields: ["музыковедение"]
+bio_checked: false
 tags:
   - музыковедение
   - цитируемый-автор

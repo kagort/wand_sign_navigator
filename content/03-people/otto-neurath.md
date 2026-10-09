@@ -5,6 +5,18 @@ title_en: Otto Neurath
 type: персоналия
 status: draft
 years: "1882–1945"
+born: "1882-12-10"
+birth_place: "Вена, Австро-Венгрия"
+birth_coords: [48.2082, 16.3738]
+died: "1945-12-22"
+death_place: "Оксфорд, Англия"
+death_coords: [51.752, -1.2577]
+nationality: "австриец"
+alma_mater: "Берлинский университет"
+affiliations: ["Венский кружок", "Музей общества и экономики, Вена", "Институт ISOTYPE"]
+fields: ["философия науки", "социология", "политэкономия", "визуальная статистика"]
+sep: "https://plato.stanford.edu/entries/neurath/"
+bio_checked: false
 tags:
   - венский-кружок
   - логический-позитивизм

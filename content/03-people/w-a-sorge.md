@@ -5,6 +5,15 @@ title_en: G.A. Sorge
 type: персоналия
 status: draft
 years: 1703-1778
+born: "1703-03-21"
+birth_place: "Мелленбах, Шварцбург"
+birth_coords: [50.6, 11.1]
+died: "1778-04-04"
+death_place: "Лобенштайн"
+death_coords: [50.45, 11.64]
+nationality: "немец"
+fields: ["органная музыка", "теория музыки", "акустика"]
+bio_checked: false
 tags:
   - музыка
   - акустика

@@ -5,6 +5,15 @@ title_en: Wolfgang Hildesheimer
 type: персоналия
 status: draft
 years: "1916–1991"
+born: "1916-12-09"
+birth_place: "Гамбург"
+birth_coords: [53.5511, 9.9937]
+died: "1991-08-21"
+death_place: "Поскьяво, Швейцария"
+death_coords: [46.3245, 10.0573]
+nationality: "немец"
+fields: ["проза", "драматургия", "биография"]
+bio_checked: false
 tags:
   - музыка
   - эстетика

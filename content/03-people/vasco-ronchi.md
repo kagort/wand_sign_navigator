@@ -5,6 +5,17 @@ title_en: Vasco Ronchi
 type: персоналия
 status: draft
 years: 1897–1988
+born: "1897-12-19"
+birth_place: "Флоренция"
+birth_coords: [43.7696, 11.2558]
+died: "1988-10-31"
+death_place: "Флоренция"
+death_coords: [43.7696, 11.2558]
+nationality: "итальянец"
+alma_mater: "Высшая нормальная школа, Пиза"
+affiliations: ["Национальный институт оптики, Флоренция"]
+fields: ["оптика", "история оптики"]
+bio_checked: false
 tags:
   - оптика
   - физика

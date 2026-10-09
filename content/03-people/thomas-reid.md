@@ -5,6 +5,18 @@ title_en: Thomas Reid
 type: персоналия
 status: draft
 years: 1710–1796
+born: "1710-04-26"
+birth_place: "Стракан, Кинкардиншир, Шотландия"
+birth_coords: [57.02, -2.52]
+died: "1796-10-07"
+death_place: "Глазго, Шотландия"
+death_coords: [55.8642, -4.2518]
+nationality: "шотландец"
+alma_mater: "Маришал-колледж, Абердин"
+affiliations: ["Кингз-колледж, Абердин", "Университет Глазго"]
+fields: ["философия здравого смысла", "философия восприятия"]
+sep: "https://plato.stanford.edu/entries/reid/"
+bio_checked: false
 tags:
   - эпистемология
   - философия-восприятия

@@ -5,6 +5,17 @@ title_en: Bernard Bosanquet
 type: персоналия
 status: draft
 years: 1848–1923
+born: "1848-06-14"
+birth_place: "Рок-Холл близ Алника, Нортумберленд, Англия"
+birth_coords: [55.45, -1.7]
+died: "1923-02-08"
+death_place: "Лондон"
+death_coords: [51.5074, -0.1278]
+nationality: "британец"
+alma_mater: "Баллиол-колледж, Оксфорд"
+affiliations: ["Университетский колледж, Оксфорд", "Сент-Эндрюсский университет"]
+fields: ["абсолютный идеализм", "эстетика", "логика"]
+bio_checked: false
 tags:
   - британский-идеализм
   - философия

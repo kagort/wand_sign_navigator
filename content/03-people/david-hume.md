@@ -5,6 +5,17 @@ title_en: David Hume
 type: персоналия
 status: draft
 years: "1711–1776"
+born: "1711-05-07"
+birth_place: "Эдинбург, Шотландия"
+birth_coords: [55.9533, -3.1883]
+died: "1776-08-25"
+death_place: "Эдинбург, Шотландия"
+death_coords: [55.9533, -3.1883]
+nationality: "шотландец"
+alma_mater: "Эдинбургский университет"
+fields: ["эмпиризм", "скептицизм", "этика", "история"]
+sep: "https://plato.stanford.edu/entries/hume/"
+bio_checked: false
 tags:
   - эмпиризм
   - скептицизм

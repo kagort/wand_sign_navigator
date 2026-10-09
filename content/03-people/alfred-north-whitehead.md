@@ -5,6 +5,19 @@ title_en: Alfred North Whitehead
 type: персоналия
 status: draft
 years: 1861–1947
+born: "1861-02-15"
+birth_place: "Рамсгит, Англия"
+birth_coords: [51.335, 1.419]
+died: "1947-12-30"
+death_place: "Кембридж, Массачусетс, США"
+death_coords: [42.3736, -71.1097]
+nationality: "британец"
+alma_mater: "Тринити-колледж, Кембридж"
+affiliations: ["Тринити-колледж, Кембридж", "Имперский колледж, Лондон", "Гарвардский университет"]
+fields: ["математика", "логика", "философия процесса"]
+students: ["[[bertrand-russell]]", "[[willard-quine]]"]
+sep: "https://plato.stanford.edu/entries/whitehead/"
+bio_checked: false
 tags:
   - философия
   - философия-науки

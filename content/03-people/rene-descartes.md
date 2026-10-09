@@ -5,6 +5,17 @@ title_en: René Descartes
 type: персоналия
 status: draft
 years: "1596–1650"
+born: "1596-03-31"
+birth_place: "Лаэ (ныне Декарт), Турень, Франция"
+birth_coords: [46.97, 0.7]
+died: "1650-02-11"
+death_place: "Стокгольм, Швеция"
+death_coords: [59.3293, 18.0686]
+nationality: "француз"
+alma_mater: "Коллегия Ла Флеш; Университет Пуатье"
+fields: ["метафизика", "эпистемология", "математика", "натурфилософия"]
+sep: "https://plato.stanford.edu/entries/descartes/"
+bio_checked: false
 tags:
   - рационализм
   - механистическая-философия

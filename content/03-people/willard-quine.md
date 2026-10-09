@@ -5,6 +5,21 @@ title_en: "Willard Van Orman Quine"
 type: персоналия
 status: draft
 years: "1908–2000"
+born: "1908-06-25"
+birth_place: "Акрон, Огайо, США"
+birth_coords: [41.0814, -81.519]
+died: "2000-12-25"
+death_place: "Бостон, США"
+death_coords: [42.3601, -71.0589]
+nationality: "американец"
+alma_mater: "Оберлин-колледж; Гарвардский университет"
+affiliations: ["Гарвардский университет"]
+fields: ["логика", "философия языка", "эпистемология"]
+teachers: ["[[alfred-north-whitehead]]"]
+students: ["[[david-lewis]]"]
+colleagues: ["[[hilary-putnam]]"]
+sep: "https://plato.stanford.edu/entries/quine/"
+bio_checked: false
 tags: [семантика, философия-логики, эпистемология]
 related: ["[[blujdayushee-kachestvo]]", "[[otkrytaya-tekstura]]", "[[korabl-noyrata]]", "[[buksir-skaffi]]", "[[otto-neurath]]"]
 aliases: ["Willard Quine", "W. V. Quine", "Куайн", "Куйан"]

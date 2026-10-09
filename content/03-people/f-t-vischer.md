@@ -5,6 +5,17 @@ title_en: Friedrich Theodor Vischer
 type: персоналия
 status: draft
 years: "1807–1887"
+born: "1807-06-30"
+birth_place: "Людвигсбург, Вюртемберг"
+birth_coords: [48.8975, 9.1919]
+died: "1887-09-14"
+death_place: "Гмунден, Австрия"
+death_coords: [47.918, 13.799]
+nationality: "немец"
+alma_mater: "Тюбингенский университет"
+affiliations: ["Тюбингенский университет", "Цюрихский политехникум"]
+fields: ["эстетика", "литература"]
+bio_checked: false
 tags:
   - эстетика
   - немецкая-философия

@@ -5,6 +5,18 @@ title_en: George Berkeley
 type: персоналия
 status: draft
 years: 1685–1753
+born: "1685-03-12"
+birth_place: "Дайсарт близ Томастауна, Килкенни, Ирландия"
+birth_coords: [52.53, -7.14]
+died: "1753-01-14"
+death_place: "Оксфорд, Англия"
+death_coords: [51.752, -1.2577]
+nationality: "ирландец"
+alma_mater: "Тринити-колледж, Дублин"
+affiliations: ["Тринити-колледж, Дублин", "епископ Клойнский (с 1734)"]
+fields: ["эмпиризм", "идеализм", "теория зрения"]
+sep: "https://plato.stanford.edu/entries/berkeley/"
+bio_checked: false
 first_appearance: "гл. 3, «Классический клей», §(i), с. 137–138"
 tags:
   - номинализм

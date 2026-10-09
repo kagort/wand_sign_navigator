@@ -5,6 +5,19 @@ title_en: Robert Boyle
 type: персоналия
 status: draft
 years: "1627–1691"
+born: "1627-01-25"
+birth_place: "Лисмор, Уотерфорд, Ирландия"
+birth_coords: [52.1367, -7.9309]
+died: "1691-12-31"
+death_place: "Лондон"
+death_coords: [51.5074, -0.1278]
+nationality: "англо-ирландец"
+alma_mater: "Итонский колледж"
+affiliations: ["Оксфорд", "Королевское общество"]
+fields: ["химия", "натурфилософия", "механистическая философия"]
+colleagues: ["[[isaac-newton]]"]
+sep: "https://plato.stanford.edu/entries/boyle/"
+bio_checked: false
 tags:
   - химия
   - механистическая-философия

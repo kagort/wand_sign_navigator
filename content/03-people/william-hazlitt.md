@@ -5,6 +5,17 @@ title_en: William Hazlitt
 type: персоналия
 status: draft
 years: "1778–1830"
+born: "1778-04-10"
+birth_place: "Мейдстон, Кент, Англия"
+birth_coords: [51.2704, 0.5227]
+died: "1830-09-18"
+death_place: "Сохо, Лондон"
+death_coords: [51.5136, -0.1365]
+nationality: "англичанин"
+alma_mater: "Новый колледж в Хакни"
+fields: ["эссеистика", "литературная критика", "живопись"]
+colleagues: ["[[charles-lamb]]", "[[coleridge]]", "[[william-wordsworth]]"]
+bio_checked: false
 tags:
   - эссеистика
   - стилистический-образец

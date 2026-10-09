@@ -5,6 +5,16 @@ title_en: Joseph Addison
 type: персоналия
 status: draft
 years: "1672–1719"
+born: "1672-05-01"
+birth_place: "Милстон, Уилтшир, Англия"
+birth_coords: [51.24, -1.77]
+died: "1719-06-17"
+death_place: "Холланд-Хаус, Кенсингтон, Лондон"
+death_coords: [51.5023, -0.2045]
+nationality: "англичанин"
+alma_mater: "Куинз-колледж и Модлин-колледж, Оксфорд"
+fields: ["эссеистика", "журналистика", "драматургия"]
+bio_checked: false
 tags:
   - английская-литература
   - эстетика

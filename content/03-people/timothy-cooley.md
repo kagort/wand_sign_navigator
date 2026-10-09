@@ -5,6 +5,10 @@ title_en: Timothy J. Cooley
 type: персоналия
 status: draft
 years: "не установлено"
+nationality: "американец"
+affiliations: ["Калифорнийский университет в Санта-Барбаре"]
+fields: ["этномузыкология"]
+bio_checked: false
 tags:
   - этномузыковедение
   - фольклористика

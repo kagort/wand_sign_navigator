@@ -5,6 +5,22 @@ title_en: Bertrand Russell
 type: персоналия
 status: draft
 years: "1872–1970"
+born: "1872-05-18"
+birth_place: "Треллек, Уэльс"
+birth_coords: [51.75, -2.78]
+died: "1970-02-02"
+death_place: "Пенриндейдрайт, Уэльс"
+death_coords: [52.93, -4.07]
+nationality: "британец"
+alma_mater: "Тринити-колледж, Кембридж"
+affiliations: ["Тринити-колледж, Кембридж", "Чикагский университет", "Калифорнийский университет в Лос-Анджелесе"]
+fields: ["математическая логика", "аналитическая философия", "эпистемология"]
+teachers: ["[[alfred-north-whitehead]]"]
+students: ["[[ludwig-wittgenstein]]"]
+colleagues: ["[[gottlob-frege]]", "[[godfri-kharold-khardi]]"]
+awards: ["Нобелевская премия по литературе (1950)"]
+sep: "https://plato.stanford.edu/entries/russell/"
+bio_checked: false
 tags:
   - логика
   - философия-языка

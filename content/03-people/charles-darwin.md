@@ -5,6 +5,18 @@ title_en: Charles Darwin
 type: персоналия
 status: draft
 years: "1809–1882"
+born: "1809-02-12"
+birth_place: "Шрусбери, Англия"
+birth_coords: [52.7073, -2.7553]
+died: "1882-04-19"
+death_place: "Даун-Хаус, Даун, Кент, Англия"
+death_coords: [51.33, 0.05]
+nationality: "британец"
+alma_mater: "Эдинбургский университет; Крайст-колледж, Кембридж"
+fields: ["естествознание", "эволюционная биология", "геология"]
+colleagues: ["[[t-h-huxley]]"]
+awards: ["Медаль Копли (1864)"]
+bio_checked: false
 tags:
   - эстетика
   - естествознание

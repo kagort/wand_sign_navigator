@@ -5,6 +5,15 @@ title_en: Robert Ingersoll
 type: персоналия
 status: draft
 years: "1833–1899"
+born: "1833-08-11"
+birth_place: "Дрезден, Нью-Йорк, США"
+birth_coords: [42.684, -76.957]
+died: "1899-07-21"
+death_place: "Доббс-Ферри, Нью-Йорк, США"
+death_coords: [41.0145, -73.8726]
+nationality: "американец"
+fields: ["ораторское искусство", "агностицизм", "право"]
+bio_checked: false
 tags:
   - риторика
   - метафора-типаж

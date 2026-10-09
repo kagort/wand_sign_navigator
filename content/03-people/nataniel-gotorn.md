@@ -5,6 +5,16 @@ title_en: Nathaniel Hawthorne
 type: персоналия
 status: draft
 years: "1804–1864"
+born: "1804-07-04"
+birth_place: "Сейлем, Массачусетс, США"
+birth_coords: [42.5195, -70.8967]
+died: "1864-05-19"
+death_place: "Плимут, Нью-Гэмпшир, США"
+death_coords: [43.757, -71.6881]
+nationality: "американец"
+alma_mater: "Боудин-колледж"
+fields: ["проза"]
+bio_checked: false
 tags:
   - литература
   - тропосферное-самодовольство

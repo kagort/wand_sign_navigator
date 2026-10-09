@@ -5,6 +5,18 @@ title_en: William Wordsworth
 type: персоналия
 status: draft
 years: "1770–1850"
+born: "1770-04-07"
+birth_place: "Кокермут, Камберленд, Англия"
+birth_coords: [54.663, -3.362]
+died: "1850-04-23"
+death_place: "Райдал-Маунт, Эмблсайд, Англия"
+death_coords: [54.45, -2.98]
+nationality: "англичанин"
+alma_mater: "Сент-Джонс-колледж, Кембридж"
+fields: ["поэзия"]
+colleagues: ["[[coleridge]]", "[[r-southey]]", "[[charles-lamb]]"]
+awards: ["Поэт-лауреат Великобритании (1843)"]
+bio_checked: false
 tags:
   - романтизм
   - английская-литература

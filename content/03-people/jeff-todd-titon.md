@@ -5,6 +5,11 @@ title_en: Jeff Todd Titon
 type: персоналия
 status: draft
 years: 1943–
+born: "1943"
+nationality: "американец"
+affiliations: ["Брауновский университет"]
+fields: ["этномузыкология", "фольклористика"]
+bio_checked: false
 tags:
   - этномузыковедение
   - фольклористика

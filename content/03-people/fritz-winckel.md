@@ -5,6 +5,12 @@ title_en: Fritz Winckel
 type: персоналия
 status: draft
 years: 1907-2000
+born: "1907"
+died: "2000"
+nationality: "немец"
+affiliations: ["Технический университет Берлина"]
+fields: ["акустика", "музыкальная психоакустика"]
+bio_checked: false
 tags:
   - музыка
   - акустика

@@ -5,6 +5,17 @@ title_en: Oliver Heaviside
 type: персоналия
 status: draft
 years: 1850–1925
+born: "1850-05-18"
+birth_place: "Кэмден-Таун, Лондон"
+birth_coords: [51.539, -0.1426]
+died: "1925-02-03"
+death_place: "Торки, Девон, Англия"
+death_coords: [50.4619, -3.5253]
+nationality: "британец"
+alma_mater: "самоучка"
+fields: ["электротехника", "операционное исчисление", "электродинамика"]
+awards: ["Медаль Фарадея (1922, первый лауреат)"]
+bio_checked: false
 tags:
   - электротехника
   - история-физики

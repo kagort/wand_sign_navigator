@@ -5,6 +5,17 @@ title_en: Paul Hindemith
 type: персоналия
 status: draft
 years: "1895–1963"
+born: "1895-11-16"
+birth_place: "Ханау, Германия"
+birth_coords: [50.1264, 8.9283]
+died: "1963-12-28"
+death_place: "Франкфурт-на-Майне, Германия"
+death_coords: [50.1109, 8.6821]
+nationality: "немец"
+alma_mater: "Консерватория Хоха, Франкфурт"
+affiliations: ["Берлинская высшая школа музыки", "Йельский университет"]
+fields: ["композиция", "теория музыки"]
+bio_checked: false
 tags:
   - музыка
   - композиция

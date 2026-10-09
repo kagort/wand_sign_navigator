@@ -5,6 +5,18 @@ title_en: Michael Dummett
 type: персоналия
 status: draft
 years: "1925–2011"
+born: "1925-06-27"
+birth_place: "Лондон"
+birth_coords: [51.5074, -0.1278]
+died: "2011-12-27"
+death_place: "Оксфорд, Англия"
+death_coords: [51.752, -1.2577]
+nationality: "британец"
+alma_mater: "Крайст-Чёрч, Оксфорд"
+affiliations: ["Колледж Всех Душ, Оксфорд", "Нью-колледж, Оксфорд"]
+fields: ["философия языка", "философия математики", "логика"]
+colleagues: ["[[crispin-wright]]"]
+bio_checked: false
 tags:
   - философия-языка
   - антиреализм

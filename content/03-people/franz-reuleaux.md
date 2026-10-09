@@ -5,6 +5,17 @@ title_en: Franz Reuleaux
 type: персоналия
 status: draft
 years: 1829–1905
+born: "1829-09-30"
+birth_place: "Эшвайлер, Пруссия"
+birth_coords: [50.8172, 6.265]
+died: "1905-08-20"
+death_place: "Берлин"
+death_coords: [52.52, 13.405]
+nationality: "немец"
+alma_mater: "Политехникум Карлсруэ"
+affiliations: ["Цюрихский политехникум", "Королевская ремесленная академия (Технический университет Берлина)"]
+fields: ["кинематика машин", "машиноведение"]
+bio_checked: false
 tags:
   - машиностроение
   - история-техники

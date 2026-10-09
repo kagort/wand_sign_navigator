@@ -5,6 +5,16 @@ title_en: James Thomson
 type: персоналия
 status: draft
 years: "1700–1748"
+born: "1700-09-11"
+birth_place: "Эднам, Роксбургшир, Шотландия"
+birth_coords: [55.62, -2.42]
+died: "1748-08-27"
+death_place: "Ричмонд, Суррей, Англия"
+death_coords: [51.461, -0.303]
+nationality: "шотландец"
+alma_mater: "Эдинбургский университет"
+fields: ["поэзия"]
+bio_checked: false
 tags:
   - поэзия
   - XVIII-век

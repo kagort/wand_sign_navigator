@@ -5,6 +5,17 @@ title_en: Leonhard Euler
 type: персоналия
 status: draft
 years: "1707–1783"
+born: "1707-04-15"
+birth_place: "Базель, Швейцария"
+birth_coords: [47.5596, 7.5886]
+died: "1783-09-18"
+death_place: "Санкт-Петербург"
+death_coords: [59.9311, 30.3609]
+nationality: "швейцарец"
+alma_mater: "Базельский университет"
+affiliations: ["Петербургская академия наук", "Берлинская академия наук"]
+fields: ["математика", "механика", "астрономия"]
+bio_checked: false
 tags:
   - математика
   - история-науки

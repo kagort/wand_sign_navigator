@@ -5,6 +5,16 @@ title_en: Robert Fludd
 type: персоналия
 status: draft
 years: "1574–1637"
+born: "1574"
+birth_place: "Берстед, Кент, Англия"
+birth_coords: [51.276, 0.578]
+died: "1637-09-08"
+death_place: "Лондон"
+death_coords: [51.5074, -0.1278]
+nationality: "англичанин"
+alma_mater: "Сент-Джонс-колледж, Оксфорд"
+fields: ["медицина", "герметизм", "космология", "теория музыки"]
+bio_checked: false
 tags:
   - ренессанс
   - эзотерика

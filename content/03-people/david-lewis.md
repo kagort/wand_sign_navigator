@@ -5,6 +5,20 @@ title_en: David Lewis
 type: персоналия
 status: draft
 years: "1941–2001"
+born: "1941-09-28"
+birth_place: "Оберлин, Огайо, США"
+birth_coords: [41.2939, -82.2174]
+died: "2001-10-14"
+death_place: "Принстон, Нью-Джерси, США"
+death_coords: [40.3573, -74.6672]
+nationality: "американец"
+alma_mater: "Суортмор-колледж; Гарвардский университет"
+affiliations: ["Калифорнийский университет в Лос-Анджелесе", "Принстонский университет"]
+fields: ["метафизика", "философия языка", "модальная логика"]
+teachers: ["[[willard-quine]]"]
+students: ["[[robert-brandom]]"]
+sep: "https://plato.stanford.edu/entries/david-lewis/"
+bio_checked: false
 tags:
   - метафизика
   - философия-языка

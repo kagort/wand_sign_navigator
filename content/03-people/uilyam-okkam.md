@@ -5,6 +5,18 @@ title_en: William of Ockham
 type: персоналия
 status: draft
 years: ок. 1287–1347
+born: "ок. 1287"
+birth_place: "Оккам, Суррей, Англия"
+birth_coords: [51.3, -0.45]
+died: "1347-04-10"
+death_place: "Мюнхен"
+death_coords: [48.1351, 11.582]
+nationality: "англичанин"
+alma_mater: "Оксфордский университет"
+affiliations: ["Орден францисканцев"]
+fields: ["логика", "номинализм", "богословие"]
+sep: "https://plato.stanford.edu/entries/ockham/"
+bio_checked: false
 first_appearance: гл. 3, «Классический клей», §(ii), с. 142–143
 tags:
   - схоластика

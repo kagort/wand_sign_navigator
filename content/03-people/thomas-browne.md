@@ -5,6 +5,16 @@ title_en: Sir Thomas Browne
 type: персоналия
 status: draft
 years: 1605–1682
+born: "1605-10-19"
+birth_place: "Лондон"
+birth_coords: [51.5074, -0.1278]
+died: "1682-10-19"
+death_place: "Норидж, Англия"
+death_coords: [52.6309, 1.2974]
+nationality: "англичанин"
+alma_mater: "Пемброк-колледж, Оксфорд; университеты Монпелье, Падуи, Лейдена"
+fields: ["медицина", "эссеистика", "натурфилософия"]
+bio_checked: false
 tags:
   - английская-литература
   - XVII-век

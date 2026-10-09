@@ -5,6 +5,16 @@ title_en: Buster Keaton
 type: персоналия
 status: draft
 years: "1895–1966"
+born: "1895-10-04"
+birth_place: "Пикуа, Канзас, США"
+birth_coords: [37.92, -95.53]
+died: "1966-02-01"
+death_place: "Вудленд-Хиллз, Лос-Анджелес, США"
+death_coords: [34.168, -118.605]
+nationality: "американец"
+fields: ["кино", "комедия"]
+awards: ["Почётный «Оскар» (1960)"]
+bio_checked: false
 tags:
   - кино
   - пример-кейс

@@ -5,6 +5,16 @@ title_en: Cary Grant
 type: персоналия
 status: draft
 years: 1904–1986
+born: "1904-01-18"
+birth_place: "Бристоль, Англия"
+birth_coords: [51.4545, -2.5879]
+died: "1986-11-29"
+death_place: "Дэвенпорт, Айова, США"
+death_coords: [41.5236, -90.5776]
+nationality: "британец, американец"
+fields: ["кино"]
+awards: ["Почётный «Оскар» (1970)"]
+bio_checked: false
 tags:
   - кино
   - пример-инструкции

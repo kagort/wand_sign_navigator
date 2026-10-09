@@ -5,6 +5,18 @@ title_en: G. H. Hardy
 type: персоналия
 status: draft
 years: "1877–1947"
+born: "1877-02-07"
+birth_place: "Кранли, Суррей, Англия"
+birth_coords: [51.141, -0.488]
+died: "1947-12-01"
+death_place: "Кембридж, Англия"
+death_coords: [52.2053, 0.1218]
+nationality: "британец"
+alma_mater: "Тринити-колледж, Кембридж"
+affiliations: ["Тринити-колледж, Кембридж", "Нью-колледж, Оксфорд"]
+fields: ["теория чисел", "математический анализ"]
+colleagues: ["[[bertrand-russell]]"]
+bio_checked: false
 first_appearance: "гл. 3, «Блюстители концептуальной сферы», с. 149–150"
 tags:
   - математика

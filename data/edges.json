@@ -1,0 +1,3172 @@
+[
+ {
+  "source": "alfred-north-whitehead",
+  "target": "bertrand-russell",
+  "type": "учитель→ученик"
+ },
+ {
+  "source": "alfred-north-whitehead",
+  "target": "willard-quine",
+  "type": "учитель→ученик"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "ludwig-wittgenstein",
+  "type": "учитель→ученик"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "gottlob-frege",
+  "type": "коллеги"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "godfri-kharold-khardi",
+  "type": "коллеги"
+ },
+ {
+  "source": "charles-darwin",
+  "target": "t-h-huxley",
+  "type": "коллеги"
+ },
+ {
+  "source": "charles-lamb",
+  "target": "coleridge",
+  "type": "коллеги"
+ },
+ {
+  "source": "charles-lamb",
+  "target": "william-hazlitt",
+  "type": "коллеги"
+ },
+ {
+  "source": "charles-lamb",
+  "target": "william-wordsworth",
+  "type": "коллеги"
+ },
+ {
+  "source": "charles-lamb",
+  "target": "r-southey",
+  "type": "коллеги"
+ },
+ {
+  "source": "coleridge",
+  "target": "william-wordsworth",
+  "type": "коллеги"
+ },
+ {
+  "source": "coleridge",
+  "target": "r-southey",
+  "type": "коллеги"
+ },
+ {
+  "source": "coleridge",
+  "target": "william-hazlitt",
+  "type": "коллеги"
+ },
+ {
+  "source": "crispin-wright",
+  "target": "michael-dummett",
+  "type": "коллеги"
+ },
+ {
+  "source": "willard-quine",
+  "target": "david-lewis",
+  "type": "учитель→ученик"
+ },
+ {
+  "source": "david-lewis",
+  "target": "robert-brandom",
+  "type": "учитель→ученик"
+ },
+ {
+  "source": "hilary-putnam",
+  "target": "dzherri-fodor",
+  "type": "учитель→ученик"
+ },
+ {
+  "source": "gottlob-frege",
+  "target": "ludwig-wittgenstein",
+  "type": "коллеги"
+ },
+ {
+  "source": "hermann-helmholtz",
+  "target": "heinrich-hertz",
+  "type": "учитель→ученик"
+ },
+ {
+  "source": "hilary-putnam",
+  "target": "willard-quine",
+  "type": "коллеги"
+ },
+ {
+  "source": "r-southey",
+  "target": "william-wordsworth",
+  "type": "коллеги"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "isaac-newton",
+  "type": "коллеги"
+ },
+ {
+  "source": "robert-brandom",
+  "target": "wilfrid-sellars",
+  "type": "коллеги"
+ },
+ {
+  "source": "william-hazlitt",
+  "target": "william-wordsworth",
+  "type": "коллеги"
+ },
+ {
+  "source": "amphibolic-dreams",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "amphibolic-dreams",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolic-dreams",
+  "target": "bernard-bosanquet",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolic-dreams",
+  "target": "immanuel-kant",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolic-dreams",
+  "target": "m-h-abrams",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolic-dreams",
+  "target": "william-wordsworth",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolism",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "amphibolism",
+  "target": "amphibolic-dreams",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolism",
+  "target": "bernard-bosanquet",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolism",
+  "target": "immanuel-kant",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolism",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "amphibolism",
+  "target": "m-h-abrams",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "buksir-skaffi",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "cary-grant",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "korabl-noyrata",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "metafora-morskogo-puteshestviya",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "oliver-heaviside",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "otto-neurath",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "chuvstvitelnost-k-kontekstu",
+  "target": "chapter_1_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "chuvstvitelnost-k-kontekstu",
+  "target": "chapter_3_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "chuvstvitelnost-k-kontekstu",
+  "target": "leonhard-euler",
+  "type": "ссылка"
+ },
+ {
+  "source": "chuvstvitelnost-k-kontekstu",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "chuvstvitelnost-k-kontekstu",
+  "target": "tik-tok-of-oz",
+  "type": "ссылка"
+ },
+ {
+  "source": "cis-formatsiya",
+  "target": "chapter_2_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "cis-formatsiya",
+  "target": "gauche-formatsiya",
+  "type": "ссылка"
+ },
+ {
+  "source": "cis-formatsiya",
+  "target": "klatratgidrat",
+  "type": "ссылка"
+ },
+ {
+  "source": "cis-formatsiya",
+  "target": "troposfernoe-samodovolstvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "deflyatsionizm",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "deflyatsionizm",
+  "target": "george-berkeley",
+  "type": "ссылка"
+ },
+ {
+  "source": "deflyatsionizm",
+  "target": "obshchie-imena",
+  "type": "ссылка"
+ },
+ {
+  "source": "deflyatsionizm",
+  "target": "quine-nominalism",
+  "type": "ссылка"
+ },
+ {
+  "source": "filosofskie-issledovaniya-vitgenshteyna",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "filosofskie-issledovaniya-vitgenshteyna",
+  "target": "ludwig-wittgenstein",
+  "type": "ссылка"
+ },
+ {
+  "source": "gauche-formatsiya",
+  "target": "chapter_2_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gauche-formatsiya",
+  "target": "cis-formatsiya",
+  "type": "ссылка"
+ },
+ {
+  "source": "gauche-formatsiya",
+  "target": "klatratgidrat",
+  "type": "ссылка"
+ },
+ {
+  "source": "gauche-formatsiya",
+  "target": "troposfernoe-samodovolstvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "genericheskie-primery",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "genericheskie-primery",
+  "target": "dzherri-fodor",
+  "type": "ссылка"
+ },
+ {
+  "source": "genericheskie-primery",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "genericheskie-primery",
+  "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "gleichschaltung-ostin",
+  "target": "j-l-austin",
+  "type": "ссылка"
+ },
+ {
+  "source": "gleichschaltung-ostin",
+  "target": "sense-and-sensibilia",
+  "type": "ссылка"
+ },
+ {
+  "source": "gleichschaltung-ostin",
+  "target": "sense-data",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "david-hume",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "helen-keller",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "rene-descartes",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "robert-boyle",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "teoriya-deskriptsy",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
+  "type": "ссылка"
+ },
+ {
+  "source": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "target": "logiko-filosofsky-traktat",
+  "type": "ссылка"
+ },
+ {
+  "source": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "target": "uilyam-okkam",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "chapter_1_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "chapter_1_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "filosofskie-issledovaniya-vitgenshteyna",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "gottlob-frege",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "nyuton-issledovaniya-sveta",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "problemy-filosofii-1912",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "terminy-kontseptualnoy-otsenki",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskaya-kartina-kontseptsiy",
+  "target": "ur-philosophy",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "alfred-north-whitehead",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "ludwig-wittgenstein",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "metafora-dvortsa-rassela",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "metafora-verstaka-rassela",
+  "type": "ссылка"
+ },
+ {
+  "source": "klassicheskoe-skleivanie",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "kontseptualnaya-peregruzka",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "kontseptualnaya-peregruzka",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "kontseptualnaya-peregruzka",
+  "target": "deflyatsionizm",
+  "type": "ссылка"
+ },
+ {
+  "source": "kontseptualnaya-peregruzka",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "kontseptualnaya-peregruzka",
+  "target": "metafora-dvortsa-rassela",
+  "type": "ссылка"
+ },
+ {
+  "source": "obshchie-imena",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "obshchie-imena",
+  "target": "deflyatsionizm",
+  "type": "ссылка"
+ },
+ {
+  "source": "obshchie-imena",
+  "target": "george-berkeley",
+  "type": "ссылка"
+ },
+ {
+  "source": "otkrytaya-tekstura",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "otkrytaya-tekstura",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "participatory-idealism",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "participatory-idealism",
+  "target": "chapter_2_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "participatory-idealism",
+  "target": "jeff-todd-titon",
+  "type": "ссылка"
+ },
+ {
+  "source": "participatory-idealism",
+  "target": "semantic-holism",
+  "type": "ссылка"
+ },
+ {
+  "source": "participatory-idealism",
+  "target": "tim-erikson",
+  "type": "ссылка"
+ },
+ {
+  "source": "problemy-filosofii-1912",
+  "target": "chapter_1_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "problemy-filosofii-1912",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "problemy-filosofii-1912",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "problemy-filosofii-1912",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "quine-nominalism",
+  "target": "deflyatsionizm",
+  "type": "ссылка"
+ },
+ {
+  "source": "quine-nominalism",
+  "target": "george-berkeley",
+  "type": "ссылка"
+ },
+ {
+  "source": "quine-nominalism",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "semantic-holism",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "semantic-holism",
+  "target": "david-whisnant",
+  "type": "ссылка"
+ },
+ {
+  "source": "semantic-holism",
+  "target": "jeff-todd-titon",
+  "type": "ссылка"
+ },
+ {
+  "source": "semantic-holism",
+  "target": "participatory-idealism",
+  "type": "ссылка"
+ },
+ {
+  "source": "semantic-holism",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "semantic-holism",
+  "target": "timothy-cooley",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "chuvstvitelnost-k-kontekstu",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "doctor-seuss",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "jean-piaget",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "ray-jackendoff",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "tezis-silnoy-kompozitsionalnosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "semanticheskaya-zavershennost",
+  "target": "tik-tok-of-oz",
+  "type": "ссылка"
+ },
+ {
+  "source": "sense-data",
+  "target": "j-l-austin",
+  "type": "ссылка"
+ },
+ {
+  "source": "sense-data",
+  "target": "sense-and-sensibilia",
+  "type": "ссылка"
+ },
+ {
+  "source": "staraya-shkola-obydennogo-yazyka",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "staraya-shkola-obydennogo-yazyka",
+  "target": "deflyatsionizm",
+  "type": "ссылка"
+ },
+ {
+  "source": "staraya-shkola-obydennogo-yazyka",
+  "target": "j-l-austin",
+  "type": "ссылка"
+ },
+ {
+  "source": "teoriya-deskriptsy",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "teoriya-deskriptsy",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "teoriya-deskriptsy",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "terminy-kontseptualnoy-otsenki",
+  "target": "chapter_1_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "terminy-kontseptualnoy-otsenki",
+  "target": "korobochka-s-the",
+  "type": "ссылка"
+ },
+ {
+  "source": "tezis-silnoy-kompozitsionalnosti",
+  "target": "doctor-seuss",
+  "type": "ссылка"
+ },
+ {
+  "source": "tezis-silnoy-kompozitsionalnosti",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "tezis-silnoy-kompozitsionalnosti",
+  "target": "ray-jackendoff",
+  "type": "ссылка"
+ },
+ {
+  "source": "tezis-silnoy-kompozitsionalnosti",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "tik-tok-of-oz",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "tip-token",
+  "target": "chapter_1_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "tip-token",
+  "target": "korobochka-s-the",
+  "type": "ссылка"
+ },
+ {
+  "source": "troposfernoe-samodovolstvo",
+  "target": "chapter_2_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "troposfernoe-samodovolstvo",
+  "target": "chapter_2_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "troposfernoe-samodovolstvo",
+  "target": "charles-darwin",
+  "type": "ссылка"
+ },
+ {
+  "source": "troposfernoe-samodovolstvo",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "troposfernoe-samodovolstvo",
+  "target": "klatratgidrat",
+  "type": "ссылка"
+ },
+ {
+  "source": "troposfernoe-samodovolstvo",
+  "target": "nataniel-gotorn",
+  "type": "ссылка"
+ },
+ {
+  "source": "ur-philosophy",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "buksir-skaffi",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "david-hume",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "ernst-mach",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "helen-keller",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "rene-descartes",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "robert-boyle",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "thomas-reid",
+  "type": "ссылка"
+ },
+ {
+  "source": "amok",
+  "target": "chapter_2_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "buksir-skaffi",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "buksir-skaffi",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "buksir-skaffi",
+  "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "buksir-skaffi",
+  "target": "korabl-noyrata",
+  "type": "ссылка"
+ },
+ {
+  "source": "buksir-skaffi",
+  "target": "morskie-i-rechnye-metafory",
+  "type": "ссылка"
+ },
+ {
+  "source": "buksir-skaffi",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "dolgonosik-iz-ballady",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "dolgonosik-iz-ballady",
+  "target": "empty-form",
+  "type": "ссылка"
+ },
+ {
+  "source": "dolgonosik-iz-ballady",
+  "target": "uilson-fiddle-music",
+  "type": "ссылка"
+ },
+ {
+  "source": "empty-form",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "empty-form",
+  "target": "dolgonosik-iz-ballady",
+  "type": "ссылка"
+ },
+ {
+  "source": "empty-form",
+  "target": "isaac-hawkins-browne",
+  "type": "ссылка"
+ },
+ {
+  "source": "empty-form",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "chapter_1_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "chapter_1_ix",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "chapter_1_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "chapter_1_x",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "obhodnye-strategii-dom-nauki",
+  "type": "ссылка"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "t-h-huxley",
+  "type": "ссылка"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "terminy-kontseptualnoy-otsenki",
+  "type": "ссылка"
+ },
+ {
+  "source": "gambit-skvoznoy-termin",
+  "target": "untamed-women",
+  "type": "ссылка"
+ },
+ {
+  "source": "korabl-noyrata",
+  "target": "chapter_1_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "korabl-noyrata",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "korabl-noyrata",
+  "target": "buksir-skaffi",
+  "type": "ссылка"
+ },
+ {
+  "source": "korabl-noyrata",
+  "target": "metafora-morskogo-puteshestviya",
+  "type": "ссылка"
+ },
+ {
+  "source": "korabl-noyrata",
+  "target": "morskie-i-rechnye-metafory",
+  "type": "ссылка"
+ },
+ {
+  "source": "korabl-noyrata",
+  "target": "otto-neurath",
+  "type": "ссылка"
+ },
+ {
+  "source": "korabl-noyrata",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-dvortsa-rassela",
+  "target": "chapter_3_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "metafora-dvortsa-rassela",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "metafora-dvortsa-rassela",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-dvortsa-rassela",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-dvortsa-rassela",
+  "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-dvortsa-rassela",
+  "target": "metafora-verstaka-rassela",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-morskogo-puteshestviya",
+  "target": "chapter_1_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "metafora-morskogo-puteshestviya",
+  "target": "chapter_1_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "metafora-morskogo-puteshestviya",
+  "target": "korabl-noyrata",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-morskogo-puteshestviya",
+  "target": "morskie-i-rechnye-metafory",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-morskogo-puteshestviya",
+  "target": "otto-neurath",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-morskogo-puteshestviya",
+  "target": "ur-philosophy",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-puti",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-verstaka-rassela",
+  "target": "chapter_3_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "metafora-verstaka-rassela",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-verstaka-rassela",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "metafora-verstaka-rassela",
+  "target": "metafora-dvortsa-rassela",
+  "type": "ссылка"
+ },
+ {
+  "source": "morskie-i-rechnye-metafory",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "morskie-i-rechnye-metafory",
+  "target": "buksir-skaffi",
+  "type": "ссылка"
+ },
+ {
+  "source": "morskie-i-rechnye-metafory",
+  "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "morskie-i-rechnye-metafory",
+  "target": "korabl-noyrata",
+  "type": "ссылка"
+ },
+ {
+  "source": "morskie-i-rechnye-metafory",
+  "target": "metafora-morskogo-puteshestviya",
+  "type": "ссылка"
+ },
+ {
+  "source": "morskie-i-rechnye-metafory",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "muzykalnaya-metafora-glavy-2",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "muzykalnaya-metafora-glavy-2",
+  "target": "simfoniya-40-mozart",
+  "type": "ссылка"
+ },
+ {
+  "source": "muzykalnaya-metafora-glavy-2",
+  "target": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "type": "ссылка"
+ },
+ {
+  "source": "obhodnye-strategii-dom-nauki",
+  "target": "chapter_1_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "obhodnye-strategii-dom-nauki",
+  "target": "gambit-skvoznoy-termin",
+  "type": "ссылка"
+ },
+ {
+  "source": "obhodnye-strategii-dom-nauki",
+  "target": "metafora-morskogo-puteshestviya",
+  "type": "ссылка"
+ },
+ {
+  "source": "uellsovskaya-pishcha-bogov",
+  "target": "chapter_2_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "yazyk-urii-gipa",
+  "target": "chapter_1_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "yazyk-urii-gipa",
+  "target": "terminy-kontseptualnoy-otsenki",
+  "type": "ссылка"
+ },
+ {
+  "source": "yazyk-urii-gipa",
+  "target": "ur-philosophy",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-north-whitehead",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "alfred-north-whitehead",
+  "target": "coleridge",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-north-whitehead",
+  "target": "immanuel-kant",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-north-whitehead",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-tennison",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "alfred-tennison",
+  "target": "charles-darwin",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-tennison",
+  "target": "godfri-kharold-khardi",
+  "type": "ссылка"
+ },
+ {
+  "source": "anthony-of-padua",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "anthony-of-padua",
+  "target": "oliver-heaviside",
+  "type": "ссылка"
+ },
+ {
+  "source": "anthony-of-padua",
+  "target": "p-j-nahin",
+  "type": "ссылка"
+ },
+ {
+  "source": "bernard-bosanquet",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "bernard-bosanquet",
+  "target": "amphibolic-dreams",
+  "type": "ссылка"
+ },
+ {
+  "source": "bernard-bosanquet",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "bernard-bosanquet",
+  "target": "immanuel-kant",
+  "type": "ссылка"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "chapter_1_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "chapter_3_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "gottlob-frege",
+  "type": "ссылка"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "harvard-context",
+  "type": "ссылка"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "problemy-filosofii-1912",
+  "type": "ссылка"
+ },
+ {
+  "source": "bertrand-russell",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "buster-keaton",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "buster-keaton",
+  "target": "david-hume",
+  "type": "ссылка"
+ },
+ {
+  "source": "buster-keaton",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "cary-grant",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "cary-grant",
+  "target": "buksir-skaffi",
+  "type": "ссылка"
+ },
+ {
+  "source": "cary-grant",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "charles-darwin",
+  "target": "chapter_2_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "charles-darwin",
+  "target": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "type": "ссылка"
+ },
+ {
+  "source": "charles-darwin",
+  "target": "william-james",
+  "type": "ссылка"
+ },
+ {
+  "source": "charles-lamb",
+  "target": "chapter_1_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "charles-lamb",
+  "target": "religio-medici-tsitata",
+  "type": "ссылка"
+ },
+ {
+  "source": "charles-lamb",
+  "target": "thomas-browne",
+  "type": "ссылка"
+ },
+ {
+  "source": "charles-marks",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "charles-marks",
+  "target": "hilary-putnam",
+  "type": "ссылка"
+ },
+ {
+  "source": "charles-marks",
+  "target": "ludwig-wittgenstein",
+  "type": "ссылка"
+ },
+ {
+  "source": "coleridge",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "coleridge",
+  "target": "amphibolic-dreams",
+  "type": "ссылка"
+ },
+ {
+  "source": "coleridge",
+  "target": "immanuel-kant",
+  "type": "ссылка"
+ },
+ {
+  "source": "coleridge",
+  "target": "lake-poets",
+  "type": "ссылка"
+ },
+ {
+  "source": "coleridge",
+  "target": "william-wordsworth",
+  "type": "ссылка"
+ },
+ {
+  "source": "crispin-wright",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "crispin-wright",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "crispin-wright",
+  "target": "wilfrid-sellars",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-hume",
+  "target": "chapter_1_ix",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "david-hume",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "david-hume",
+  "target": "buster-keaton",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-hume",
+  "target": "hilaire-belloc",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-hume",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-hume",
+  "target": "terminy-kontseptualnoy-otsenki",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-lewis",
+  "target": "chapter_1_viii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "david-lewis",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-lewis",
+  "target": "harvard-context",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-lewis",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-lewis",
+  "target": "michael-dummett",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-lewis",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-whisnant",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "david-whisnant",
+  "target": "jeff-todd-titon",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-whisnant",
+  "target": "semantic-holism",
+  "type": "ссылка"
+ },
+ {
+  "source": "david-whisnant",
+  "target": "timothy-cooley",
+  "type": "ссылка"
+ },
+ {
+  "source": "doctor-seuss",
+  "target": "chapter_1_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "doctor-seuss",
+  "target": "tezis-silnoy-kompozitsionalnosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "duke-of-iron",
+  "target": "chapter_1_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "duke-of-iron",
+  "target": "roaring-lion",
+  "type": "ссылка"
+ },
+ {
+  "source": "dzherri-fodor",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "dzherri-fodor",
+  "target": "genericheskie-primery",
+  "type": "ссылка"
+ },
+ {
+  "source": "edward-lippmann",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "edward-lippmann",
+  "target": "charles-darwin",
+  "type": "ссылка"
+ },
+ {
+  "source": "edward-lippmann",
+  "target": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "type": "ссылка"
+ },
+ {
+  "source": "edward-lippmann",
+  "target": "wolfgang-hildesheimer",
+  "type": "ссылка"
+ },
+ {
+  "source": "ernst-mach",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "ernst-mach",
+  "target": "helen-keller",
+  "type": "ссылка"
+ },
+ {
+  "source": "ernst-mach",
+  "target": "pierre-duhem",
+  "type": "ссылка"
+ },
+ {
+  "source": "ernst-mach",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
+  "type": "ссылка"
+ },
+ {
+  "source": "f-t-vischer",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "f-t-vischer",
+  "target": "amphibolic-dreams",
+  "type": "ссылка"
+ },
+ {
+  "source": "f-t-vischer",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "frank-and-anne-warner",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "frank-and-anne-warner",
+  "target": "jeff-todd-titon",
+  "type": "ссылка"
+ },
+ {
+  "source": "frank-and-anne-warner",
+  "target": "participatory-idealism",
+  "type": "ссылка"
+ },
+ {
+  "source": "frank-and-anne-warner",
+  "target": "semantic-holism",
+  "type": "ссылка"
+ },
+ {
+  "source": "frank-and-anne-warner",
+  "target": "tim-erikson",
+  "type": "ссылка"
+ },
+ {
+  "source": "frank-jackson",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "frank-jackson",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "frank-jackson",
+  "target": "vasco-ronchi",
+  "type": "ссылка"
+ },
+ {
+  "source": "franz-reuleaux",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "franz-reuleaux",
+  "target": "jacques-hadamard",
+  "type": "ссылка"
+ },
+ {
+  "source": "franz-reuleaux",
+  "target": "oliver-heaviside",
+  "type": "ссылка"
+ },
+ {
+  "source": "fritz-winckel",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "fritz-winckel",
+  "target": "giuseppe-tartini",
+  "type": "ссылка"
+ },
+ {
+  "source": "fritz-winckel",
+  "target": "paul-hindemith",
+  "type": "ссылка"
+ },
+ {
+  "source": "fritz-winckel",
+  "target": "vasco-ronchi",
+  "type": "ссылка"
+ },
+ {
+  "source": "george-berkeley",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "george-berkeley",
+  "target": "deflyatsionizm",
+  "type": "ссылка"
+ },
+ {
+  "source": "george-berkeley",
+  "target": "obshchie-imena",
+  "type": "ссылка"
+ },
+ {
+  "source": "giuseppe-tartini",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "giuseppe-tartini",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "giuseppe-tartini",
+  "target": "hermann-helmholtz",
+  "type": "ссылка"
+ },
+ {
+  "source": "giuseppe-tartini",
+  "target": "paul-hindemith",
+  "type": "ссылка"
+ },
+ {
+  "source": "giuseppe-tartini",
+  "target": "w-a-sorge",
+  "type": "ссылка"
+ },
+ {
+  "source": "godfri-kharold-khardi",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "godfri-kharold-khardi",
+  "target": "alfred-tennison",
+  "type": "ссылка"
+ },
+ {
+  "source": "godfri-kharold-khardi",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "godfri-kharold-khardi",
+  "target": "nils-abel",
+  "type": "ссылка"
+ },
+ {
+  "source": "godfri-kharold-khardi",
+  "target": "ogyusten-koshi",
+  "type": "ссылка"
+ },
+ {
+  "source": "godfri-kharold-khardi",
+  "target": "problema-raskhodyashchikhsya-ryadov",
+  "type": "ссылка"
+ },
+ {
+  "source": "gottlob-frege",
+  "target": "chapter_1_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gottlob-frege",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gottlob-frege",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "gottlob-frege",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "gottlob-frege",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "heinrich-hertz",
+  "target": "chapter_1_ix",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "heinrich-hertz",
+  "target": "hermann-helmholtz",
+  "type": "ссылка"
+ },
+ {
+  "source": "helen-keller",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "helen-keller",
+  "target": "ernst-mach",
+  "type": "ссылка"
+ },
+ {
+  "source": "helen-keller",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "helen-keller",
+  "target": "thomas-reid",
+  "type": "ссылка"
+ },
+ {
+  "source": "helen-keller",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
+  "type": "ссылка"
+ },
+ {
+  "source": "hermann-helmholtz",
+  "target": "chapter_1_ix",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "hermann-helmholtz",
+  "target": "heinrich-hertz",
+  "type": "ссылка"
+ },
+ {
+  "source": "hilaire-belloc",
+  "target": "chapter_1_ix",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "hilaire-belloc",
+  "target": "david-hume",
+  "type": "ссылка"
+ },
+ {
+  "source": "hilaire-belloc",
+  "target": "doctor-seuss",
+  "type": "ссылка"
+ },
+ {
+  "source": "hilary-putnam",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "hilary-putnam",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "hilary-putnam",
+  "target": "harvard-context",
+  "type": "ссылка"
+ },
+ {
+  "source": "hilary-putnam",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "immanuel-kant",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "immanuel-kant",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "immanuel-kant",
+  "target": "bernard-bosanquet",
+  "type": "ссылка"
+ },
+ {
+  "source": "immanuel-kant",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "isaac-hawkins-browne",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "isaac-hawkins-browne",
+  "target": "empty-form",
+  "type": "ссылка"
+ },
+ {
+  "source": "isaac-newton",
+  "target": "chapter_1_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "isaac-newton",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "isaac-newton",
+  "target": "nyuton-issledovaniya-sveta",
+  "type": "ссылка"
+ },
+ {
+  "source": "isaac-newton",
+  "target": "oliver-heaviside",
+  "type": "ссылка"
+ },
+ {
+  "source": "j-l-austin",
+  "target": "chapter_1_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "j-l-austin",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "j-l-austin",
+  "target": "gleichschaltung-ostin",
+  "type": "ссылка"
+ },
+ {
+  "source": "j-l-austin",
+  "target": "thomas-reid",
+  "type": "ссылка"
+ },
+ {
+  "source": "jacques-hadamard",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "jacques-hadamard",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "jacques-hadamard",
+  "target": "franz-reuleaux",
+  "type": "ссылка"
+ },
+ {
+  "source": "jacques-hadamard",
+  "target": "oliver-heaviside",
+  "type": "ссылка"
+ },
+ {
+  "source": "james-thomson",
+  "target": "chapter_1_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "james-thomson",
+  "target": "isaac-newton",
+  "type": "ссылка"
+ },
+ {
+  "source": "james-thomson",
+  "target": "nyuton-issledovaniya-sveta",
+  "type": "ссылка"
+ },
+ {
+  "source": "jean-piaget",
+  "target": "chapter_1_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "jean-piaget",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "jean-piaget",
+  "target": "tik-tok-of-oz",
+  "type": "ссылка"
+ },
+ {
+  "source": "jeff-todd-titon",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "jeff-todd-titon",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "jeff-todd-titon",
+  "target": "david-whisnant",
+  "type": "ссылка"
+ },
+ {
+  "source": "jeff-todd-titon",
+  "target": "participatory-idealism",
+  "type": "ссылка"
+ },
+ {
+  "source": "jeff-todd-titon",
+  "target": "semantic-holism",
+  "type": "ссылка"
+ },
+ {
+  "source": "jeff-todd-titon",
+  "target": "tim-erikson",
+  "type": "ссылка"
+ },
+ {
+  "source": "jeff-todd-titon",
+  "target": "timothy-cooley",
+  "type": "ссылка"
+ },
+ {
+  "source": "john-dewey",
+  "target": "chapter_1_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "john-dewey",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "john-dewey",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "john-dewey",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "john-dewey",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "joseph-addison",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "joseph-addison",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "joseph-addison",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "joseph-addison",
+  "target": "lake-poets",
+  "type": "ссылка"
+ },
+ {
+  "source": "joseph-addison",
+  "target": "t-h-huxley",
+  "type": "ссылка"
+ },
+ {
+  "source": "l-susan-stebbing",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "l-susan-stebbing",
+  "target": "alfred-north-whitehead",
+  "type": "ссылка"
+ },
+ {
+  "source": "l-susan-stebbing",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "l-susan-stebbing",
+  "target": "immanuel-kant",
+  "type": "ссылка"
+ },
+ {
+  "source": "leonhard-euler",
+  "target": "chapter_1_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "leonhard-euler",
+  "target": "chuvstvitelnost-k-kontekstu",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "chapter_1_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "chapter_1_ix",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "bitva-pri-eyname",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "charles-marks",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "filosofskie-issledovaniya-vitgenshteyna",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "harvard-context",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "ludwig-wittgenstein",
+  "target": "logiko-filosofsky-traktat",
+  "type": "ссылка"
+ },
+ {
+  "source": "m-h-abrams",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "m-h-abrams",
+  "target": "amphibolic-dreams",
+  "type": "ссылка"
+ },
+ {
+  "source": "m-h-abrams",
+  "target": "coleridge",
+  "type": "ссылка"
+ },
+ {
+  "source": "m-h-abrams",
+  "target": "william-wordsworth",
+  "type": "ссылка"
+ },
+ {
+  "source": "michael-dummett",
+  "target": "chapter_1_viii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "michael-dummett",
+  "target": "chapter_3_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "michael-dummett",
+  "target": "gottlob-frege",
+  "type": "ссылка"
+ },
+ {
+  "source": "michael-dummett",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "michael-dummett",
+  "target": "robert-brandom",
+  "type": "ссылка"
+ },
+ {
+  "source": "michael-dummett",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "nataniel-gotorn",
+  "target": "chapter_2_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "nataniel-gotorn",
+  "target": "osyol-silvestr",
+  "type": "ссылка"
+ },
+ {
+  "source": "nataniel-gotorn",
+  "target": "troposfernoe-samodovolstvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "nils-abel",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "nils-abel",
+  "target": "godfri-kharold-khardi",
+  "type": "ссылка"
+ },
+ {
+  "source": "nils-abel",
+  "target": "problema-raskhodyashchikhsya-ryadov",
+  "type": "ссылка"
+ },
+ {
+  "source": "ogyusten-koshi",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "ogyusten-koshi",
+  "target": "godfri-kharold-khardi",
+  "type": "ссылка"
+ },
+ {
+  "source": "ogyusten-koshi",
+  "target": "problema-raskhodyashchikhsya-ryadov",
+  "type": "ссылка"
+ },
+ {
+  "source": "oliver-heaviside",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "oliver-heaviside",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "oliver-heaviside",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "oliver-heaviside",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "otto-neurath",
+  "target": "chapter_1_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "otto-neurath",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "otto-neurath",
+  "target": "korabl-noyrata",
+  "type": "ссылка"
+ },
+ {
+  "source": "otto-neurath",
+  "target": "metafora-morskogo-puteshestviya",
+  "type": "ссылка"
+ },
+ {
+  "source": "otto-neurath",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "p-j-nahin",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "p-j-nahin",
+  "target": "oliver-heaviside",
+  "type": "ссылка"
+ },
+ {
+  "source": "paul-hindemith",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "paul-hindemith",
+  "target": "fritz-winckel",
+  "type": "ссылка"
+ },
+ {
+  "source": "paul-hindemith",
+  "target": "giuseppe-tartini",
+  "type": "ссылка"
+ },
+ {
+  "source": "pierre-duhem",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "pierre-duhem",
+  "target": "ernst-mach",
+  "type": "ссылка"
+ },
+ {
+  "source": "pierre-duhem",
+  "target": "robert-boyle",
+  "type": "ссылка"
+ },
+ {
+  "source": "pierre-duhem",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "r-southey",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "r-southey",
+  "target": "coleridge",
+  "type": "ссылка"
+ },
+ {
+  "source": "r-southey",
+  "target": "lake-poets",
+  "type": "ссылка"
+ },
+ {
+  "source": "r-southey",
+  "target": "william-wordsworth",
+  "type": "ссылка"
+ },
+ {
+  "source": "ray-jackendoff",
+  "target": "chapter_1_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "ray-jackendoff",
+  "target": "semanticheskaya-zavershennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "ray-jackendoff",
+  "target": "tezis-silnoy-kompozitsionalnosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "rene-descartes",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "rene-descartes",
+  "target": "david-hume",
+  "type": "ссылка"
+ },
+ {
+  "source": "rene-descartes",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "rene-descartes",
+  "target": "robert-boyle",
+  "type": "ссылка"
+ },
+ {
+  "source": "rene-descartes",
+  "target": "thomas-reid",
+  "type": "ссылка"
+ },
+ {
+  "source": "rene-descartes",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
+  "type": "ссылка"
+ },
+ {
+  "source": "richard-vagner",
+  "target": "chapter_2_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "richard-vagner",
+  "target": "simfoniya-40-mozart",
+  "type": "ссылка"
+ },
+ {
+  "source": "richard-vagner",
+  "target": "wolfgang-amadeus-mozart",
+  "type": "ссылка"
+ },
+ {
+  "source": "roaring-lion",
+  "target": "chapter_1_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "roaring-lion",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "roaring-lion",
+  "target": "duke-of-iron",
+  "type": "ссылка"
+ },
+ {
+  "source": "roaring-lion",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "david-hume",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "isaac-newton",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "rene-descartes",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-brandom",
+  "target": "chapter_1_viii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "robert-brandom",
+  "target": "blagodarnosti-predisloviya",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-brandom",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-brandom",
+  "target": "michael-dummett",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-brandom",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-fludd",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "robert-fludd",
+  "target": "isaac-newton",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-fludd",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-ingersoll",
+  "target": "chapter_1_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "robert-ingersoll",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "t-h-huxley",
+  "target": "chapter_1_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "t-h-huxley",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "t-h-huxley",
+  "target": "joseph-addison",
+  "type": "ссылка"
+ },
+ {
+  "source": "t-h-huxley",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-browne",
+  "target": "chapter_1_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "thomas-browne",
+  "target": "charles-lamb",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-browne",
+  "target": "religio-medici-tsitata",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "helen-keller",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "j-l-austin",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "rene-descartes",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
+  "type": "ссылка"
+ },
+ {
+  "source": "tim-erikson",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "tim-erikson",
+  "target": "jeff-todd-titon",
+  "type": "ссылка"
+ },
+ {
+  "source": "tim-erikson",
+  "target": "participatory-idealism",
+  "type": "ссылка"
+ },
+ {
+  "source": "timothy-cooley",
+  "target": "chapter_2_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "timothy-cooley",
+  "target": "david-whisnant",
+  "type": "ссылка"
+ },
+ {
+  "source": "timothy-cooley",
+  "target": "jeff-todd-titon",
+  "type": "ссылка"
+ },
+ {
+  "source": "timothy-cooley",
+  "target": "semantic-holism",
+  "type": "ссылка"
+ },
+ {
+  "source": "uilyam-okkam",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "uilyam-okkam",
+  "target": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "type": "ссылка"
+ },
+ {
+  "source": "vasco-ronchi",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "vasco-ronchi",
+  "target": "isaac-newton",
+  "type": "ссылка"
+ },
+ {
+  "source": "vasco-ronchi",
+  "target": "nyuton-issledovaniya-sveta",
+  "type": "ссылка"
+ },
+ {
+  "source": "volker-scherliess",
+  "target": "chapter_2_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "volker-scherliess",
+  "target": "simfoniya-40-mozart",
+  "type": "ссылка"
+ },
+ {
+  "source": "w-a-sorge",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "w-a-sorge",
+  "target": "giuseppe-tartini",
+  "type": "ссылка"
+ },
+ {
+  "source": "w-a-sorge",
+  "target": "hermann-helmholtz",
+  "type": "ссылка"
+ },
+ {
+  "source": "wilfrid-sellars",
+  "target": "amphibolism",
+  "type": "ссылка"
+ },
+ {
+  "source": "wilfrid-sellars",
+  "target": "john-dewey",
+  "type": "ссылка"
+ },
+ {
+  "source": "wilfrid-sellars",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "willard-quine",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "willard-quine",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "willard-quine",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "willard-quine",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "buksir-skaffi",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "cary-grant",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "george-berkeley",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "harvard-context",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "hilary-putnam",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "korabl-noyrata",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "oliver-heaviside",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "otkrytaya-tekstura",
+  "type": "ссылка"
+ },
+ {
+  "source": "willard-quine",
+  "target": "otto-neurath",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-hazlitt",
+  "target": "chapter_1_xi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "william-hazlitt",
+  "target": "david-hume",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-james",
+  "target": "chapter_2_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "william-james",
+  "target": "charles-darwin",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-wordsworth",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "william-wordsworth",
+  "target": "amphibolic-dreams",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-wordsworth",
+  "target": "coleridge",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-wordsworth",
+  "target": "lake-poets",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-wordsworth",
+  "target": "m-h-abrams",
+  "type": "ссылка"
+ },
+ {
+  "source": "wolfgang-amadeus-mozart",
+  "target": "chapter_2_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "wolfgang-amadeus-mozart",
+  "target": "richard-vagner",
+  "type": "ссылка"
+ },
+ {
+  "source": "wolfgang-amadeus-mozart",
+  "target": "simfoniya-40-mozart",
+  "type": "ссылка"
+ },
+ {
+  "source": "wolfgang-hildesheimer",
+  "target": "chapter_2_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "wolfgang-hildesheimer",
+  "target": "charles-darwin",
+  "type": "ссылка"
+ },
+ {
+  "source": "wolfgang-hildesheimer",
+  "target": "edward-lippmann",
+  "type": "ссылка"
+ },
+ {
+  "source": "korobochka-s-the",
+  "target": "chapter_1_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "korobochka-s-the",
+  "target": "tip-token",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyuton-issledovaniya-sveta",
+  "target": "chapter_1_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "nyuton-issledovaniya-sveta",
+  "target": "isaac-newton",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyuton-issledovaniya-sveta",
+  "target": "james-thomson",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyuton-issledovaniya-sveta",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "oklahoma-hoedown-primer",
+  "target": "chapter_2_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "oklahoma-hoedown-primer",
+  "target": "simfoniya-40-mozart",
+  "type": "ссылка"
+ },
+ {
+  "source": "oklahoma-hoedown-primer",
+  "target": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "type": "ссылка"
+ },
+ {
+  "source": "problema-raskhodyashchikhsya-ryadov",
+  "target": "chapter_3_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "problema-raskhodyashchikhsya-ryadov",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "problema-raskhodyashchikhsya-ryadov",
+  "target": "godfri-kharold-khardi",
+  "type": "ссылка"
+ },
+ {
+  "source": "problema-raskhodyashchikhsya-ryadov",
+  "target": "nils-abel",
+  "type": "ссылка"
+ },
+ {
+  "source": "problema-raskhodyashchikhsya-ryadov",
+  "target": "ogyusten-koshi",
+  "type": "ссылка"
+ },
+ {
+  "source": "raki-i-somy",
+  "target": "chapter_3_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "raki-i-somy",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "simfoniya-40-mozart",
+  "target": "chapter_2_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "simfoniya-40-mozart",
+  "target": "richard-vagner",
+  "type": "ссылка"
+ },
+ {
+  "source": "simfoniya-40-mozart",
+  "target": "volker-scherliess",
+  "type": "ссылка"
+ },
+ {
+  "source": "simfoniya-40-mozart",
+  "target": "wolfgang-amadeus-mozart",
+  "type": "ссылка"
+ },
+ {
+  "source": "all-hat-no-cattle",
+  "target": "chapter_1_xi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "all-hat-no-cattle",
+  "target": "alpiyskiy-kurort-komiksy",
+  "type": "ссылка"
+ },
+ {
+  "source": "alpiyskiy-kurort-komiksy",
+  "target": "chapter_1_xi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "alpiyskiy-kurort-komiksy",
+  "target": "all-hat-no-cattle",
+  "type": "ссылка"
+ },
+ {
+  "source": "bitva-pri-eyname",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "bitva-pri-eyname",
+  "target": "etimologii-svyatogo-isidora",
+  "type": "ссылка"
+ },
+ {
+  "source": "bitva-pri-eyname",
+  "target": "logiko-filosofsky-traktat",
+  "type": "ссылка"
+ },
+ {
+  "source": "bitva-pri-eyname",
+  "target": "ludwig-wittgenstein",
+  "type": "ссылка"
+ },
+ {
+  "source": "etimologii-svyatogo-isidora",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "etimologii-svyatogo-isidora",
+  "target": "bitva-pri-eyname",
+  "type": "ссылка"
+ },
+ {
+  "source": "gete-arhetipy-vitgenshteyna",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gete-arhetipy-vitgenshteyna",
+  "target": "blujdayushee-kachestvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "gete-arhetipy-vitgenshteyna",
+  "target": "charles-marks",
+  "type": "ссылка"
+ },
+ {
+  "source": "gete-arhetipy-vitgenshteyna",
+  "target": "ludwig-wittgenstein",
+  "type": "ссылка"
+ },
+ {
+  "source": "harvard-context",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "harvard-context",
+  "target": "bertrand-russell",
+  "type": "ссылка"
+ },
+ {
+  "source": "harvard-context",
+  "target": "hilary-putnam",
+  "type": "ссылка"
+ },
+ {
+  "source": "harvard-context",
+  "target": "ludwig-wittgenstein",
+  "type": "ссылка"
+ },
+ {
+  "source": "harvard-context",
+  "target": "willard-quine",
+  "type": "ссылка"
+ },
+ {
+  "source": "klatratgidrat",
+  "target": "chapter_2_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "klatratgidrat",
+  "target": "cis-formatsiya",
+  "type": "ссылка"
+ },
+ {
+  "source": "klatratgidrat",
+  "target": "gauche-formatsiya",
+  "type": "ссылка"
+ },
+ {
+  "source": "klatratgidrat",
+  "target": "troposfernoe-samodovolstvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "lake-poets",
+  "target": "chapter_2_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "lake-poets",
+  "target": "amphibolic-dreams",
+  "type": "ссылка"
+ },
+ {
+  "source": "lake-poets",
+  "target": "coleridge",
+  "type": "ссылка"
+ },
+ {
+  "source": "lake-poets",
+  "target": "m-h-abrams",
+  "type": "ссылка"
+ },
+ {
+  "source": "lake-poets",
+  "target": "r-southey",
+  "type": "ссылка"
+ },
+ {
+  "source": "lake-poets",
+  "target": "william-wordsworth",
+  "type": "ссылка"
+ },
+ {
+  "source": "logiko-filosofsky-traktat",
+  "target": "chapter_3_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "logiko-filosofsky-traktat",
+  "target": "bitva-pri-eyname",
+  "type": "ссылка"
+ },
+ {
+  "source": "logiko-filosofsky-traktat",
+  "target": "intentsionalno-obosnovannaya-predikatnaya-znachimost",
+  "type": "ссылка"
+ },
+ {
+  "source": "logiko-filosofsky-traktat",
+  "target": "uilyam-okkam",
+  "type": "ссылка"
+ },
+ {
+  "source": "osyol-silvestr",
+  "target": "chapter_2_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "osyol-silvestr",
+  "target": "nataniel-gotorn",
+  "type": "ссылка"
+ },
+ {
+  "source": "osyol-silvestr",
+  "target": "troposfernoe-samodovolstvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "religio-medici-tsitata",
+  "target": "chapter_1_iv",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "religio-medici-tsitata",
+  "target": "charles-lamb",
+  "type": "ссылка"
+ },
+ {
+  "source": "religio-medici-tsitata",
+  "target": "thomas-browne",
+  "type": "ссылка"
+ },
+ {
+  "source": "sense-and-sensibilia",
+  "target": "chapter_1_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "sense-and-sensibilia",
+  "target": "gleichschaltung-ostin",
+  "type": "ссылка"
+ },
+ {
+  "source": "sense-and-sensibilia",
+  "target": "j-l-austin",
+  "type": "ссылка"
+ },
+ {
+  "source": "sense-and-sensibilia",
+  "target": "sense-data",
+  "type": "ссылка"
+ },
+ {
+  "source": "sense-and-sensibilia",
+  "target": "staraya-shkola-obydennogo-yazyka",
+  "type": "ссылка"
+ },
+ {
+  "source": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "target": "chapter_2_i",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "target": "oklahoma-hoedown-primer",
+  "type": "ссылка"
+ },
+ {
+  "source": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "target": "volker-scherliess",
+  "type": "ссылка"
+ },
+ {
+  "source": "teksasskaya-skripichnaya-muzyka",
+  "target": "chapter_2_ii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "teksasskaya-skripichnaya-muzyka",
+  "target": "charles-darwin",
+  "type": "ссылка"
+ },
+ {
+  "source": "teksasskaya-skripichnaya-muzyka",
+  "target": "skripichnaya-muzyka-vostochnogo-kentukki",
+  "type": "ссылка"
+ },
+ {
+  "source": "uilson-fiddle-music",
+  "target": "predislovie",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "uilson-fiddle-music",
+  "target": "gambit-skvoznoy-termin",
+  "type": "ссылка"
+ },
+ {
+  "source": "untamed-women",
+  "target": "chapter_1_ix",
+  "type": "упомянут-в-разделе"
+ }
+]

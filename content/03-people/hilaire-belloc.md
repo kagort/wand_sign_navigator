@@ -5,6 +5,16 @@ title_en: Hilaire Belloc
 type: персоналия
 status: draft
 years: "1870–1953"
+born: "1870-07-27"
+birth_place: "Ла-Сель-Сен-Клу, Франция"
+birth_coords: [48.85, 2.13]
+died: "1953-07-16"
+death_place: "Гилфорд, Англия"
+death_coords: [51.2362, -0.5704]
+nationality: "британец французского происхождения"
+alma_mater: "Баллиол-колледж, Оксфорд"
+fields: ["поэзия", "эссеистика", "история"]
+bio_checked: false
 tags:
   - литература
   - юмор

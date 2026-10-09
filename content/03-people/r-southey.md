@@ -5,6 +5,18 @@ title_en: Robert Southey
 type: персоналия
 status: draft
 years: 1774–1843
+born: "1774-08-12"
+birth_place: "Бристоль, Англия"
+birth_coords: [51.4545, -2.5879]
+died: "1843-03-21"
+death_place: "Кесуик, Камберленд, Англия"
+death_coords: [54.6013, -3.1347]
+nationality: "британец"
+alma_mater: "Баллиол-колледж, Оксфорд"
+fields: ["поэзия", "историческая проза"]
+colleagues: ["[[coleridge]]", "[[william-wordsworth]]"]
+awards: ["Поэт-лауреат Великобритании (1813)"]
+bio_checked: false
 tags:
   - романтизм
   - английская-литература

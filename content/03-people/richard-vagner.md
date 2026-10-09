@@ -5,6 +5,16 @@ title_en: Richard Wagner
 type: персоналия
 status: draft
 years: "1813–1883"
+born: "1813-05-22"
+birth_place: "Лейпциг, Саксония"
+birth_coords: [51.3397, 12.3731]
+died: "1883-02-13"
+death_place: "Венеция, Италия"
+death_coords: [45.4408, 12.3155]
+nationality: "немец"
+alma_mater: "Лейпцигский университет"
+fields: ["композиция", "оперная драматургия"]
+bio_checked: false
 tags:
   - музыка
   - цитируемый-автор

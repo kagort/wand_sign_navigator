@@ -5,6 +5,17 @@ title_en: M. H. Abrams
 type: персоналия
 status: draft
 years: "1912–2015"
+born: "1912-07-23"
+birth_place: "Лонг-Бранч, Нью-Джерси, США"
+birth_coords: [40.304, -73.992]
+died: "2015-04-21"
+death_place: "Итака, Нью-Йорк, США"
+death_coords: [42.444, -76.5019]
+nationality: "американец"
+alma_mater: "Гарвардский университет"
+affiliations: ["Корнеллский университет"]
+fields: ["литературоведение", "романтизм"]
+bio_checked: false
 tags:
   - литературоведение
   - романтизм

@@ -5,6 +5,18 @@ title_en: Heinrich Hertz
 type: персоналия
 status: draft
 years: "1857–1894"
+born: "1857-02-22"
+birth_place: "Гамбург"
+birth_coords: [53.5511, 9.9937]
+died: "1894-01-01"
+death_place: "Бонн"
+death_coords: [50.7374, 7.0982]
+nationality: "немец"
+alma_mater: "Берлинский университет"
+affiliations: ["Кильский университет", "Политехникум Карлсруэ", "Боннский университет"]
+fields: ["физика", "электродинамика", "механика"]
+teachers: ["[[hermann-helmholtz]]"]
+bio_checked: false
 tags:
   - физика
   - философия-механики

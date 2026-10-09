@@ -5,6 +5,15 @@ title_en: Wolfgang Amadeus Mozart
 type: персоналия
 status: draft
 years: "1756–1791"
+born: "1756-01-27"
+birth_place: "Зальцбург"
+birth_coords: [47.8095, 13.055]
+died: "1791-12-05"
+death_place: "Вена"
+death_coords: [48.2082, 16.3738]
+nationality: "австриец (Зальцбургское архиепископство)"
+fields: ["композиция"]
+bio_checked: false
 tags:
   - музыка
   - пример-центральная-фигура
