@@ -30,6 +30,8 @@ aliases:
   - Васко Ронки
 ---
 ![[assets/ronchi.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#vasco-ronchi)
 ## Кто это
 > Итальянский физик и историк науки, специалист в области оптики и теории зрения. Автор книги «Оптика: наука о зрении» (Optics: The Science of Vision).
 

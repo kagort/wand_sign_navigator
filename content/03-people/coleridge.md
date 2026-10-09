@@ -32,6 +32,8 @@ aliases:
   - Кольридж
 ---
 ![[assets/s_t_coleridge.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#coleridge)
 ## Кто это
 
 > Английский поэт, философ и критик, один из центральных представителей британского романтизма.

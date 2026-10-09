@@ -22,6 +22,8 @@ aliases:
   - Edward Lippmann
   - Эдвард Липпман
 ---
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#edward-lippmann)
+
 
 ![[assets/lippmann.jpg.webp|200]]
 ## Кто это

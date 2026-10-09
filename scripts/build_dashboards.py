@@ -2,9 +2,10 @@
 """Собирает дашборды из data/*.json (сначала запустить build_dataset.py).
 
     dashboards/linia.html — «Линия книги»: главы — участки, разделы — станции.
+    dashboards/atlas.html — «Атлас персоналий»: линия времени, карта, граф связей, темы, статистика.
 
 Страница самодостаточна (данные встроены), её можно открыть локально двойным щелчком.
-На сайте она публикуется по адресу /linia/ (шаг в .github/workflows/deploy-pages.yml).
+На сайте — по адресам /linia/ и /atlas/ (шаг в .github/workflows/deploy-pages.yml).
 """
 import datetime
 import json
@@ -41,6 +42,39 @@ def main():
                .replace("DATE_BUILT", datetime.date.today().strftime("%d.%m.%Y")))
     (DASH / "linia.html").write_text(html, encoding="utf8")
     print(f"dashboards/linia.html: станций {len(sections)}, карточек {len(used)}")
+    build_atlas(sections)
+
+
+def build_atlas(sections):
+    from collections import Counter
+    from itertools import combinations
+    people = json.loads((DATA / "people.json").read_text(encoding="utf8"))
+    edges = json.loads((DATA / "edges.json").read_text(encoding="utf8"))
+    ids = {p["id"] for p in people}
+    keep = ("id", "title", "title_en", "url", "portrait", "years", "born", "died", "born_year", "died_year",
+            "birth_place", "birth_coords", "death_place", "death_coords", "nationality", "alma_mater",
+            "affiliations", "fields", "awards", "teachers", "students", "colleagues", "sep", "wiki_ru",
+            "notes", "bio_checked", "sections", "chapters", "who", "role")
+    out_edges = []
+    for e in edges:
+        if e["source"] in ids and e["target"] in ids and e["type"] in ("учитель→ученик", "коллеги"):
+            out_edges.append(dict(source=e["source"], target=e["target"], type="teacher" if e["type"] == "учитель→ученик" else "colleague"))
+    related = {tuple(sorted((e["source"], e["target"]))) for e in out_edges}
+    co = Counter()
+    for s in sections:
+        members = sorted(c for c in s["cards"] if c in ids)
+        for a, b in combinations(members, 2):
+            co[(a, b)] += 1
+    out_edges += [dict(source=a, target=b, type="co", w=w) for (a, b), w in co.items() if (a, b) not in related]
+    labels = {s["id"]: dict(label="Предисловие" if s["id"] == "predislovie" else f"Гл. {s['chapter']} ({s['section']}) {s['title']}") for s in sections}
+    payload = dict(people=[{k: p.get(k) for k in keep} for p in people], edges=out_edges, sections=labels)
+    tpl = (DASH / "atlas.template.html").read_text(encoding="utf8")
+    html = (tpl.replace("/*DATA*/null", json.dumps(payload, ensure_ascii=False).replace("</", "<\\/"))
+               .replace("LINIA_URL", SITE + "linia/")
+               .replace("SITE_URL", SITE)
+               .replace("DATE_BUILT", datetime.date.today().strftime("%d.%m.%Y")))
+    (DASH / "atlas.html").write_text(html, encoding="utf8")
+    print(f"dashboards/atlas.html: персоналий {len(people)}, связей {len(out_edges)}")
 
 
 if __name__ == "__main__":

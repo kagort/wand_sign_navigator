@@ -33,6 +33,8 @@ aliases:
   - Вордсворт
 ---
 ![[assets/wordsworth.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#william-wordsworth)
 ## Кто это
 
 > Английский поэт-романтик, один из основателей и центральных представителей Озёрной школы.

@@ -54,8 +54,9 @@ jobs:
 
       - name: Add dashboards to the site
         run: |
-          mkdir -p public/linia
+          mkdir -p public/linia public/atlas
           cp dashboards/linia.html public/linia/index.html
+          cp dashboards/atlas.html public/atlas/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

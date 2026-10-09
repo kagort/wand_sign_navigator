@@ -30,6 +30,8 @@ aliases:
   - епископ Беркли
   - George Berkeley
 ---
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#george-berkeley)
+
 
 ![[assets/g_berkeley.jpg|200]]
 

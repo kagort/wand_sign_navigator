@@ -146,6 +146,16 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      # Предисловие — первым, папка разделов razdely — последней; остальное как по умолчанию
+      # (сначала папки, затем заметки, по названию).
+      sortFn: >-
+        (a, b) => {
+          const rank = (n) => n.slugSegment === "predislovie" ? -2 : (n.slugSegment === "razdely" ? 2 : 0);
+          if (rank(a) !== rank(b)) return rank(a) - rank(b);
+          if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1;
+          return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+        }
     layout:
       position: left
       priority: 50

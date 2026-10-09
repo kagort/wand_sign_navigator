@@ -27,6 +27,8 @@ aliases:
 ---
 ![[assets/r_wagner.jpg|200]]
 
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#richard-vagner)
+
 ## Кто это
 
 > Немецкий композитор XIX века, автор оперных реформ.

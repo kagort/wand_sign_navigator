@@ -32,6 +32,8 @@ aliases:
   - Sellars
   - Селларс
 ---
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#wilfrid-sellars)
+
 
 ![[assets/w_sellars.jpg|200]]
 ## Кто это

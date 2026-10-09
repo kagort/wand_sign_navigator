@@ -23,6 +23,8 @@ aliases:
   - Тим Эриксон
 ---
 ![[assets/t_erikson.webp|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#tim-erikson)
 ## Кто это
 
 > Музыкант и исследователь, автор заметок к записи *Her Bright Smile Haunts Me Still* (Appleseed APR CD 1035, 2000), посвящённой песням Чарли Уорнерса (Warners).
