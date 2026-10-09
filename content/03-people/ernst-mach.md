@@ -17,6 +17,7 @@ aliases:
   - Ernst Mach
   - Мах
 ---
+![[assets/ernst_mach.webp|200]]
 
 ## Кто это
 

@@ -21,6 +21,7 @@ aliases:
   - Декарт
   - картезианский
 ---
+![[assets/rene_descartes.jpg|200]]
 
 ## Кто это
 

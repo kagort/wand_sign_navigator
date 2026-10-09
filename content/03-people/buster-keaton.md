@@ -17,6 +17,7 @@ aliases:
   - аргументы Шерлока-младшего
   - Sherlock Jr.
 ---
+![[assets/buster-keaton.jpg|200]]
 
 ## Кто это
 
