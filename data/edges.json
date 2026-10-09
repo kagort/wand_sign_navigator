@@ -181,6 +181,11 @@
  },
  {
   "source": "blujdayushee-kachestvo",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "blujdayushee-kachestvo",
   "target": "buksir-skaffi",
   "type": "ссылка"
  },
@@ -521,6 +526,16 @@
  },
  {
   "source": "kontseptualnaya-peregruzka",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "kontseptualnaya-peregruzka",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "kontseptualnaya-peregruzka",
   "target": "deflyatsionizm",
   "type": "ссылка"
  },
@@ -811,6 +826,11 @@
  },
  {
   "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
   "target": "blujdayushee-kachestvo",
   "type": "ссылка"
  },
@@ -872,6 +892,11 @@
  {
   "source": "buksir-skaffi",
   "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "buksir-skaffi",
+  "target": "chapter_3_vi",
   "type": "упомянут-в-разделе"
  },
  {
@@ -1093,6 +1118,11 @@
   "source": "metafora-verstaka-rassela",
   "target": "metafora-dvortsa-rassela",
   "type": "ссылка"
+ },
+ {
+  "source": "morskie-i-rechnye-metafory",
+  "target": "chapter_3_v",
+  "type": "упомянут-в-разделе"
  },
  {
   "source": "morskie-i-rechnye-metafory",
@@ -1857,6 +1887,11 @@
  {
   "source": "isaac-newton",
   "target": "chapter_1_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "isaac-newton",
+  "target": "chapter_3_vi",
   "type": "упомянут-в-разделе"
  },
  {
