@@ -31,6 +31,8 @@ aliases:
   - Ф. Т. Вишер
 ---
 ![[assets/f_t_vischer.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#f-t-vischer)
 ## Кто это
 
 > Немецкий философ, эстетик и литературовед, связанный с немецким идеализмом и эстетикой XIX века.

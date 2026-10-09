@@ -17,6 +17,8 @@ aliases:
   - Шерлисс
 ---
 ![[assets/v_scherliess.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#volker-scherliess)
 ## Кто это
 
 > Немецкий музыковед, автор комментария к записи симфоний №40 и №41 Моцарта в исполнении Венского филармонического оркестра под управлением Леонарда Бернстайна (Deutsche Grammophon, 1984).

@@ -31,6 +31,8 @@ aliases:
 ---
 ![[assets/j-fodor.png|200]]
 
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#dzherri-fodor)
+
 ## Кто это
 > Американский философ и когнитивист (1935–2017), автор теории языка мысли и концептуального атомизма. Основная работа, на которую ссылается Уилсон: *Concepts: Where Cognitive Science Went Wrong* (Oxford UP, 1998).
 

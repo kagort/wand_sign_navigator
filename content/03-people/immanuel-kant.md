@@ -32,6 +32,8 @@ aliases:
   - Кант
 ---
 ![[assets/i_kant.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#immanuel-kant)
 ## Кто это
 
 > Немецкий философ XVIII века, основатель критической философии.

@@ -30,6 +30,8 @@ aliases:
   - Susan Stebbing
   - Стеббинг
 ---
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#l-susan-stebbing)
+
 
 ![[assets/s_stebbing.jpg|200]]
 

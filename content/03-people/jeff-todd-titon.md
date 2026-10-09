@@ -27,6 +27,8 @@ aliases:
   - Titon
   - Джефф Тодд Титон
 ---
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#jeff-todd-titon)
+
 
 ![[assets/j_titon.jpg|200]]
 ## Кто это

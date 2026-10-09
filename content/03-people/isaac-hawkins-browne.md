@@ -28,6 +28,8 @@ aliases:
   - Исаак Хокинс Браун
 ---
 ![[assets/isaac_hawkins_browne.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#isaac-hawkins-browne)
 ## Кто это
 > Английский поэт, эпиграмматист и политик-виг XVIII века (1705–1760), член парламента от Бриджнорта. Известен главным образом малой сатирической и эпиграмматической поэзией; наиболее цитируемая его строка — эпиграмма «On Seeing a Portrait of Miss Robinson, Painted by Mr. Highmore», опубликованная в антологии Генри Филипа Додда «The Epigrammists» (1870).
 

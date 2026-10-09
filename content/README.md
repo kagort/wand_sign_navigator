@@ -60,7 +60,11 @@ content/
 Таблица персоналий и данные для дашбордов собираются из карточек:
 `python scripts/build_dataset.py` → `data/people.xlsx`, `data/*.json` (поля — в [[konventsii|Конвенциях]]);
 `python scripts/build_dashboards.py` → `dashboards/linia.html` («Линия книги», на сайте — `/linia/`).
+`dashboards/atlas.html` — «Атлас персоналий» (на сайте — `/atlas/`).
 При каждом push в `v5` это делается автоматически перед сборкой сайта.
+
+Посмотреть сайт локально (с поиском и графом): `npx quartz build -d content --serve` → http://localhost:8080.
+Открывать HTML-файлы из `public/` двойным щелчком нельзя: граф и поиск так не загружаются.
 
 Подробно про синхронизацию и что делать при конфликте — `docs/SYNC.md` в репозитории,
 журнал сессий — `docs/Progress.md`.

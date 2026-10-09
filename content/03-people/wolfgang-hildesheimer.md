@@ -26,6 +26,8 @@ aliases:
   - Вольфганг Хильдесхаймер
 ---
 ![[assets/hildesheimer.jpg|200]]
+
+[Досье на атласе персоналий →](https://kagort.github.io/wand_sign_navigator/atlas/#wolfgang-hildesheimer)
 ## Кто это
 > Немецкий писатель, драматург и художник, автор биографии Моцарта (1982).
 
