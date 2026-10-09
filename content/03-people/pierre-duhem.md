@@ -17,6 +17,7 @@ aliases:
   - Дюгем
   - Дюэм
 ---
+![[assets/pierre_duhem.jpg|200]]
 
 ## Кто это
 

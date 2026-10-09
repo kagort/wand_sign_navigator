@@ -18,6 +18,7 @@ aliases:
   - Robert Boyle
   - Бойль
 ---
+![[assets/robert_boyle.jpg|200]]
 
 ## Кто это
 
