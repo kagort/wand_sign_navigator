@@ -19,6 +19,7 @@ tags:
 
 ### Понятия
 
+- [[napravlennosti|Направленности]]
 - [[chuvstvitelnost-k-kontekstu|Чувствительность к контексту]]
 
 ### Метафоры и образы
