@@ -277,7 +277,8 @@
   "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/inferentsialnaya-napravlennost",
   "portrait": null,
   "sections": [
-   "chapter_3_vi"
+   "chapter_3_vi",
+   "chapter_3_vii"
   ],
   "chapters": [
    3
@@ -286,6 +287,7 @@
    "david-hume",
    "helen-keller",
    "kontseptualnaya-peregruzka",
+   "napravlennosti",
    "rene-descartes",
    "robert-boyle",
    "teoriya-deskriptsy",
@@ -413,6 +415,37 @@
    "deflyatsionizm",
    "klassicheskoe-skleivanie",
    "metafora-dvortsa-rassela"
+  ]
+ },
+ {
+  "id": "napravlennosti",
+  "kind": "концепт",
+  "folder": "01-concepts",
+  "title": "Направленности",
+  "title_en": "directivities",
+  "status": "draft",
+  "tags": [
+   "ключевой-термин",
+   "направленности",
+   "классическая-картина"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/napravlennosti",
+  "portrait": null,
+  "sections": [
+   "chapter_3_iii",
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "gipoteza-goldbakha",
+   "inferentsialnaya-napravlennost",
+   "klassicheskaya-kartina-kontseptsiy",
+   "klassicheskoe-skleivanie",
+   "komponentnye-modusy-vibratsii",
+   "kontseptualnaya-peregruzka",
+   "yadro-kontseptualnogo-soderzhaniya"
   ]
  },
  {
@@ -821,10 +854,14 @@
   "url": "https://kagort.github.io/wand_sign_navigator/01-concepts/yadro-kontseptualnogo-soderzhaniya",
   "portrait": null,
   "sections": [
-   "chapter_3_vi"
+   "chapter_3_vi",
+   "chapter_3_vii"
   ],
-  "chapters": [],
+  "chapters": [
+   3
+  ],
   "links": [
+   "alfred-lawson",
    "blujdayushee-kachestvo",
    "buksir-skaffi",
    "david-hume",
@@ -833,6 +870,8 @@
    "inferentsialnaya-napravlennost",
    "klassicheskaya-kartina-kontseptsiy",
    "kontseptualnaya-peregruzka",
+   "napravlennosti",
+   "nyutonovskaya-gravitatsionnaya-sila",
    "rene-descartes",
    "robert-boyle",
    "thomas-reid"
@@ -1175,6 +1214,32 @@
   ]
  },
  {
+  "id": "professor-khiggins-i-eliza-dulittl",
+  "kind": "метафора",
+  "folder": "02-metaphors",
+  "title": "Профессор Хиггинс и Элиза Дулиттл",
+  "title_en": "Professor Higgins and Eliza Doolittle",
+  "status": "draft",
+  "tags": [
+   "привыкание",
+   "теоретическое-содержание",
+   "литература"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/02-metaphors/professor-khiggins-i-eliza-dulittl",
+  "portrait": null,
+  "sections": [
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "napravlennosti",
+   "william-james",
+   "yadro-kontseptualnogo-soderzhaniya"
+  ]
+ },
+ {
   "id": "uellsovskaya-pishcha-bogov",
   "kind": "метафора",
   "folder": "02-metaphors",
@@ -1218,6 +1283,31 @@
   "links": [
    "terminy-kontseptualnoy-otsenki",
    "ur-philosophy"
+  ]
+ },
+ {
+  "id": "alfred-lawson",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Альфред Лоусон",
+  "title_en": "Alfred William Lawson",
+  "status": "draft",
+  "tags": [
+   "псевдонаука",
+   "направленности"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/alfred-lawson",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/alfred_lawson.jpg",
+  "sections": [
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "helen-keller",
+   "napravlennosti",
+   "nyutonovskaya-gravitatsionnaya-sila"
   ]
  },
  {
@@ -2022,14 +2112,17 @@
   "url": "https://kagort.github.io/wand_sign_navigator/03-people/helen-keller",
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/helen_keller.jpg",
   "sections": [
-   "chapter_3_vi"
+   "chapter_3_vi",
+   "chapter_3_vii"
   ],
   "chapters": [
    3
   ],
   "links": [
+   "alfred-lawson",
    "ernst-mach",
    "inferentsialnaya-napravlennost",
+   "nyutonovskaya-gravitatsionnaya-sila",
    "thomas-reid",
    "yadro-kontseptualnogo-soderzhaniya"
   ]
@@ -2176,14 +2269,17 @@
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/i_newton.jpg",
   "sections": [
    "chapter_1_iii",
-   "chapter_3_vi"
+   "chapter_3_vi",
+   "chapter_3_vii"
   ],
   "chapters": [
-   1
+   1,
+   3
   ],
   "links": [
    "klassicheskaya-kartina-kontseptsiy",
    "nyuton-issledovaniya-sveta",
+   "nyutonovskaya-gravitatsionnaya-sila",
    "oliver-heaviside"
   ]
  },
@@ -2306,7 +2402,8 @@
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/j_titon.jpg",
   "sections": [
    "chapter_2_v",
-   "chapter_3_iv"
+   "chapter_3_iv",
+   "chapter_3_vii"
   ],
   "chapters": [
    2,
@@ -2377,6 +2474,33 @@
   ]
  },
  {
+  "id": "karl-weierstrass",
+  "kind": "персоналия",
+  "folder": "03-people",
+  "title": "Карл Вейерштрасс",
+  "title_en": "Karl Weierstrass",
+  "status": "draft",
+  "tags": [
+   "математика",
+   "анализ",
+   "строгость"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/03-people/karl-weierstrass",
+  "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/karl_weierstrass.jpg",
+  "sections": [
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "komponentnye-modusy-vibratsii",
+   "leonhard-euler",
+   "napravlennosti",
+   "ogyusten-koshi"
+  ]
+ },
+ {
   "id": "l-susan-stebbing",
   "kind": "персоналия",
   "folder": "03-people",
@@ -2417,13 +2541,17 @@
   "url": "https://kagort.github.io/wand_sign_navigator/03-people/leonhard-euler",
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/leonard-euler.jpg",
   "sections": [
-   "chapter_1_vi"
+   "chapter_1_vi",
+   "chapter_3_vii"
   ],
   "chapters": [
-   1
+   1,
+   3
   ],
   "links": [
-   "chuvstvitelnost-k-kontekstu"
+   "chuvstvitelnost-k-kontekstu",
+   "karl-weierstrass",
+   "nyutonovskaya-gravitatsionnaya-sila"
   ]
  },
  {
@@ -2579,13 +2707,15 @@
   "url": "https://kagort.github.io/wand_sign_navigator/03-people/ogyusten-koshi",
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/augustin_cauchy.jpg",
   "sections": [
-   "chapter_3_iv"
+   "chapter_3_iv",
+   "chapter_3_vii"
   ],
   "chapters": [
    3
   ],
   "links": [
    "godfri-kharold-khardi",
+   "karl-weierstrass",
    "problema-raskhodyashchikhsya-ryadov"
   ]
  },
@@ -2862,7 +2992,8 @@
   "url": "https://kagort.github.io/wand_sign_navigator/03-people/robert-boyle",
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/robert_boyle.jpg",
   "sections": [
-   "chapter_3_vi"
+   "chapter_3_vi",
+   "chapter_3_vii"
   ],
   "chapters": [
    3
@@ -2871,6 +3002,8 @@
    "david-hume",
    "inferentsialnaya-napravlennost",
    "isaac-newton",
+   "napravlennosti",
+   "nyutonovskaya-gravitatsionnaya-sila",
    "rene-descartes"
   ]
  },
@@ -3018,6 +3151,7 @@
   "sections": [
    "chapter_2_v",
    "chapter_3_vi",
+   "chapter_3_vii",
    "predislovie"
   ],
   "chapters": [
@@ -3029,6 +3163,8 @@
    "helen-keller",
    "inferentsialnaya-napravlennost",
    "j-l-austin",
+   "napravlennosti",
+   "nyutonovskaya-gravitatsionnaya-sila",
    "rene-descartes",
    "yadro-kontseptualnogo-soderzhaniya"
   ]
@@ -3286,13 +3422,17 @@
   "url": "https://kagort.github.io/wand_sign_navigator/03-people/william-james",
   "portrait": "https://kagort.github.io/wand_sign_navigator/03-people/assets/w_james.jpg",
   "sections": [
-   "chapter_2_ii"
+   "chapter_2_ii",
+   "chapter_3_vii"
   ],
   "chapters": [
-   2
+   2,
+   3
   ],
   "links": [
-   "charles-darwin"
+   "charles-darwin",
+   "professor-khiggins-i-eliza-dulittl",
+   "yadro-kontseptualnogo-soderzhaniya"
   ]
  },
  {
@@ -3373,6 +3513,36 @@
   ]
  },
  {
+  "id": "komponentnye-modusy-vibratsii",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "Компонентные модусы вибрации (поверхность барабана)",
+  "title_en": "component modes of vibration (drumhead)",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "прикладная-математика",
+   "направленности",
+   "акустика"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/komponentnye-modusy-vibratsii",
+  "portrait": null,
+  "sections": [
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "karl-weierstrass",
+   "napravlennosti",
+   "nyutonovskaya-gravitatsionnaya-sila",
+   "patterny-khladni",
+   "problema-raskhodyashchikhsya-ryadov",
+   "yadro-kontseptualnogo-soderzhaniya"
+  ]
+ },
+ {
   "id": "korobochka-s-the",
   "kind": "пример-кейс",
   "folder": "04-cases",
@@ -3420,6 +3590,40 @@
    "isaac-newton",
    "james-thomson",
    "klassicheskaya-kartina-kontseptsiy"
+  ]
+ },
+ {
+  "id": "nyutonovskaya-gravitatsionnaya-sila",
+  "kind": "пример-кейс",
+  "folder": "04-cases",
+  "title": "Ньютоновская гравитационная сила (пушечное ядро)",
+  "title_en": "Newtonian gravitational force",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "классическая-механика",
+   "дифференциальные-уравнения",
+   "направленности"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/04-cases/nyutonovskaya-gravitatsionnaya-sila",
+  "portrait": null,
+  "sections": [
+   "chapter_3_vi",
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "alfred-lawson",
+   "helen-keller",
+   "isaac-newton",
+   "komponentnye-modusy-vibratsii",
+   "leonhard-euler",
+   "napravlennosti",
+   "robert-boyle",
+   "thomas-reid",
+   "yadro-kontseptualnogo-soderzhaniya"
   ]
  },
  {
@@ -3669,6 +3873,30 @@
   ]
  },
  {
+  "id": "gipoteza-goldbakha",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Гипотеза Гольдбаха",
+  "title_en": "Goldbach's conjecture",
+  "status": "draft",
+  "tags": [
+   "математика",
+   "направленности"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/gipoteza-goldbakha",
+  "portrait": null,
+  "sections": [
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "leonhard-euler",
+   "napravlennosti"
+  ]
+ },
+ {
   "id": "harvard-context",
   "kind": "контекст",
   "folder": "06-context",
@@ -3799,6 +4027,29 @@
   "links": [
    "nataniel-gotorn",
    "troposfernoe-samodovolstvo"
+  ]
+ },
+ {
+  "id": "patterny-khladni",
+  "kind": "контекст",
+  "folder": "06-context",
+  "title": "Паттерны (фигуры) Хладни",
+  "title_en": "Chladni patterns",
+  "status": "draft",
+  "tags": [
+   "физика",
+   "акустика"
+  ],
+  "url": "https://kagort.github.io/wand_sign_navigator/06-context/patterny-khladni",
+  "portrait": null,
+  "sections": [
+   "chapter_3_vii"
+  ],
+  "chapters": [
+   3
+  ],
+  "links": [
+   "komponentnye-modusy-vibratsii"
   ]
  },
  {

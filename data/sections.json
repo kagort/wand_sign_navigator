@@ -356,6 +356,7 @@
   "url": "https://kagort.github.io/wand_sign_navigator/05-chapters/razdely/chapter_3/chapter_3_iii",
   "cards": [
    "chuvstvitelnost-k-kontekstu",
+   "napravlennosti",
    "metafora-dvortsa-rassela",
    "metafora-verstaka-rassela",
    "bertrand-russell",
@@ -421,7 +422,36 @@
    "pierre-duhem",
    "rene-descartes",
    "robert-boyle",
-   "thomas-reid"
+   "thomas-reid",
+   "nyutonovskaya-gravitatsionnaya-sila"
+  ]
+ },
+ {
+  "id": "chapter_3_vii",
+  "chapter": 3,
+  "section": "vii",
+  "title": "Коренные направленности",
+  "annotation": "Уилсон объясняет, почему говорит о «направленностях» предиката, а не об «интенсиональных чертах» или «когнитивном содержании»: эти слова заранее предполагают, что смысл термина не меняется. Направленности бывают разными: одним легко следовать («Добавь ‘2’ к своей цифре»), другие непрозрачны (та же инструкция, но с условием «если гипотеза Гольдбаха верна»). Классическая картина помещает «коренное» содержание предиката на непрозрачном конце, а легковыполнимые правила считает лишь его спутниками. Так устроен пример с модусом (0,3) барабана: таблицы, ряды и округления служат лишь посредниками между нами и физической величиной. Но существует ли такой центр на самом деле? У «лоусономии» Альфреда Лоусона и у некоторых слепых формальных выкладок в математике его нет; с эпохи Эйлера, а затем у Коши и Вейерштрасса математика учится гарантировать, что «там действительно что-то есть». На примере ньютоновской гравитационной силы (пушечное ядро, дифференциальные уравнения, метод Эйлера) Уилсон спрашивает, чем наше «понимание» тяготения лучше понимания красноты у Хелен Келлер. Ссылка на «теоретическое содержание» ничего тут не объясняет: понятие энергии полвека считали понятным лишь «структурно» (Джеймс), а потом к нему просто привыкли, как профессор Хиггинс к Элизе Дулиттл. В конце раздела вводится допущение о «канонически представленном центре» (вода / H₂O): в химии мы будто бы напрямую постигаем «физические направленности», которым следует сама Природа (гл. 3, §(vii), с. 169–181).",
+  "url": "https://kagort.github.io/wand_sign_navigator/05-chapters/razdely/chapter_3/chapter_3_vii",
+  "cards": [
+   "inferentsialnaya-napravlennost",
+   "napravlennosti",
+   "yadro-kontseptualnogo-soderzhaniya",
+   "professor-khiggins-i-eliza-dulittl",
+   "alfred-lawson",
+   "helen-keller",
+   "isaac-newton",
+   "jeff-todd-titon",
+   "karl-weierstrass",
+   "leonhard-euler",
+   "ogyusten-koshi",
+   "robert-boyle",
+   "thomas-reid",
+   "william-james",
+   "komponentnye-modusy-vibratsii",
+   "nyutonovskaya-gravitatsionnaya-sila",
+   "gipoteza-goldbakha",
+   "patterny-khladni"
   ]
  }
 ]

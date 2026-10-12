@@ -366,6 +366,11 @@
  },
  {
   "source": "inferentsialnaya-napravlennost",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
   "target": "david-hume",
   "type": "ссылка"
  },
@@ -377,6 +382,11 @@
  {
   "source": "inferentsialnaya-napravlennost",
   "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "inferentsialnaya-napravlennost",
+  "target": "napravlennosti",
   "type": "ссылка"
  },
  {
@@ -547,6 +557,51 @@
  {
   "source": "kontseptualnaya-peregruzka",
   "target": "metafora-dvortsa-rassela",
+  "type": "ссылка"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "chapter_3_iii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "gipoteza-goldbakha",
+  "type": "ссылка"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "klassicheskoe-skleivanie",
+  "type": "ссылка"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "komponentnye-modusy-vibratsii",
+  "type": "ссылка"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "napravlennosti",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
   "type": "ссылка"
  },
  {
@@ -831,6 +886,16 @@
  },
  {
   "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "alfred-lawson",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
   "target": "blujdayushee-kachestvo",
   "type": "ссылка"
  },
@@ -867,6 +932,16 @@
  {
   "source": "yadro-kontseptualnogo-soderzhaniya",
   "target": "kontseptualnaya-peregruzka",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "yadro-kontseptualnogo-soderzhaniya",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
   "type": "ссылка"
  },
  {
@@ -1185,6 +1260,26 @@
   "type": "ссылка"
  },
  {
+  "source": "professor-khiggins-i-eliza-dulittl",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "professor-khiggins-i-eliza-dulittl",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "professor-khiggins-i-eliza-dulittl",
+  "target": "william-james",
+  "type": "ссылка"
+ },
+ {
+  "source": "professor-khiggins-i-eliza-dulittl",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
+  "type": "ссылка"
+ },
+ {
   "source": "uellsovskaya-pishcha-bogov",
   "target": "chapter_2_vii",
   "type": "упомянут-в-разделе"
@@ -1202,6 +1297,26 @@
  {
   "source": "yazyk-urii-gipa",
   "target": "ur-philosophy",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-lawson",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "alfred-lawson",
+  "target": "helen-keller",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-lawson",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "alfred-lawson",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
   "type": "ссылка"
  },
  {
@@ -1791,12 +1906,27 @@
  },
  {
   "source": "helen-keller",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "helen-keller",
+  "target": "alfred-lawson",
+  "type": "ссылка"
+ },
+ {
+  "source": "helen-keller",
   "target": "ernst-mach",
   "type": "ссылка"
  },
  {
   "source": "helen-keller",
   "target": "inferentsialnaya-napravlennost",
+  "type": "ссылка"
+ },
+ {
+  "source": "helen-keller",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
   "type": "ссылка"
  },
  {
@@ -1896,12 +2026,22 @@
  },
  {
   "source": "isaac-newton",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "isaac-newton",
   "target": "klassicheskaya-kartina-kontseptsiy",
   "type": "ссылка"
  },
  {
   "source": "isaac-newton",
   "target": "nyuton-issledovaniya-sveta",
+  "type": "ссылка"
+ },
+ {
+  "source": "isaac-newton",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
   "type": "ссылка"
  },
  {
@@ -1991,6 +2131,11 @@
  },
  {
   "source": "jeff-todd-titon",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "jeff-todd-titon",
   "target": "david-whisnant",
   "type": "ссылка"
  },
@@ -2065,6 +2210,31 @@
   "type": "ссылка"
  },
  {
+  "source": "karl-weierstrass",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "karl-weierstrass",
+  "target": "komponentnye-modusy-vibratsii",
+  "type": "ссылка"
+ },
+ {
+  "source": "karl-weierstrass",
+  "target": "leonhard-euler",
+  "type": "ссылка"
+ },
+ {
+  "source": "karl-weierstrass",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "karl-weierstrass",
+  "target": "ogyusten-koshi",
+  "type": "ссылка"
+ },
+ {
   "source": "l-susan-stebbing",
   "target": "chapter_2_vi",
   "type": "упомянут-в-разделе"
@@ -2091,7 +2261,22 @@
  },
  {
   "source": "leonhard-euler",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "leonhard-euler",
   "target": "chuvstvitelnost-k-kontekstu",
+  "type": "ссылка"
+ },
+ {
+  "source": "leonhard-euler",
+  "target": "karl-weierstrass",
+  "type": "ссылка"
+ },
+ {
+  "source": "leonhard-euler",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
   "type": "ссылка"
  },
  {
@@ -2241,7 +2426,17 @@
  },
  {
   "source": "ogyusten-koshi",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "ogyusten-koshi",
   "target": "godfri-kharold-khardi",
+  "type": "ссылка"
+ },
+ {
+  "source": "ogyusten-koshi",
+  "target": "karl-weierstrass",
   "type": "ссылка"
  },
  {
@@ -2446,6 +2641,11 @@
  },
  {
   "source": "robert-boyle",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "robert-boyle",
   "target": "david-hume",
   "type": "ссылка"
  },
@@ -2457,6 +2657,16 @@
  {
   "source": "robert-boyle",
   "target": "isaac-newton",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "robert-boyle",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
   "type": "ссылка"
  },
  {
@@ -2561,6 +2771,11 @@
  },
  {
   "source": "thomas-reid",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "thomas-reid",
   "target": "predislovie",
   "type": "упомянут-в-разделе"
  },
@@ -2577,6 +2792,16 @@
  {
   "source": "thomas-reid",
   "target": "j-l-austin",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "thomas-reid",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
   "type": "ссылка"
  },
  {
@@ -2781,7 +3006,22 @@
  },
  {
   "source": "william-james",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "william-james",
   "target": "charles-darwin",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-james",
+  "target": "professor-khiggins-i-eliza-dulittl",
+  "type": "ссылка"
+ },
+ {
+  "source": "william-james",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
   "type": "ссылка"
  },
  {
@@ -2840,6 +3080,41 @@
   "type": "ссылка"
  },
  {
+  "source": "komponentnye-modusy-vibratsii",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "komponentnye-modusy-vibratsii",
+  "target": "karl-weierstrass",
+  "type": "ссылка"
+ },
+ {
+  "source": "komponentnye-modusy-vibratsii",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "komponentnye-modusy-vibratsii",
+  "target": "nyutonovskaya-gravitatsionnaya-sila",
+  "type": "ссылка"
+ },
+ {
+  "source": "komponentnye-modusy-vibratsii",
+  "target": "patterny-khladni",
+  "type": "ссылка"
+ },
+ {
+  "source": "komponentnye-modusy-vibratsii",
+  "target": "problema-raskhodyashchikhsya-ryadov",
+  "type": "ссылка"
+ },
+ {
+  "source": "komponentnye-modusy-vibratsii",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
+  "type": "ссылка"
+ },
+ {
   "source": "korobochka-s-the",
   "target": "chapter_1_i",
   "type": "упомянут-в-разделе"
@@ -2867,6 +3142,61 @@
  {
   "source": "nyuton-issledovaniya-sveta",
   "target": "klassicheskaya-kartina-kontseptsiy",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "chapter_3_vi",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "alfred-lawson",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "helen-keller",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "isaac-newton",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "komponentnye-modusy-vibratsii",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "leonhard-euler",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "robert-boyle",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "thomas-reid",
+  "type": "ссылка"
+ },
+ {
+  "source": "nyutonovskaya-gravitatsionnaya-sila",
+  "target": "yadro-kontseptualnogo-soderzhaniya",
   "type": "ссылка"
  },
  {
@@ -3010,6 +3340,21 @@
   "type": "ссылка"
  },
  {
+  "source": "gipoteza-goldbakha",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "gipoteza-goldbakha",
+  "target": "leonhard-euler",
+  "type": "ссылка"
+ },
+ {
+  "source": "gipoteza-goldbakha",
+  "target": "napravlennosti",
+  "type": "ссылка"
+ },
+ {
   "source": "harvard-context",
   "target": "predislovie",
   "type": "упомянут-в-разделе"
@@ -3117,6 +3462,16 @@
  {
   "source": "osyol-silvestr",
   "target": "troposfernoe-samodovolstvo",
+  "type": "ссылка"
+ },
+ {
+  "source": "patterny-khladni",
+  "target": "chapter_3_vii",
+  "type": "упомянут-в-разделе"
+ },
+ {
+  "source": "patterny-khladni",
+  "target": "komponentnye-modusy-vibratsii",
   "type": "ссылка"
  },
  {
