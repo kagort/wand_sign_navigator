@@ -42,7 +42,7 @@ tags:
 - [[alfred-north-whitehead|Альфред Норт Уайтхед]] — [[chapter_2_vi|(vi)]]
 - [[bernard-bosanquet|Бернард Бозанкет]] — [[chapter_2_vi|(vi)]]
 - [[bertrand-russell|Бертран Рассел]] — [[chapter_2_vi|(vi)]]
-- [[vasco-ronchi|Васко Рончи]] — [[chapter_2_iv|(iv)]]
+- [[vasco-ronchi|Васко Ронки]] — [[chapter_2_iv|(iv)]]
 - [[wolfgang-amadeus-mozart|Вольфганг Амадей Моцарт]] — [[chapter_2_i|(i)]]
 - [[wolfgang-hildesheimer|Вольфганг Хильдесхаймер]] — [[chapter_2_iv|(iv)]]
 - [[w-a-sorge|Георг Андреас Зорге]] — [[chapter_2_iv|(iv)]]
